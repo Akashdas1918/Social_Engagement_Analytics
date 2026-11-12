@@ -1,0 +1,2201 @@
+comment_id,post_id,topic,comment_text,synthetic_sentiment
+C00001,P0475,Dating,I do not agree with this,Negative
+C00002,P0708,Dating,Thanks for sharing,Neutral
+C00003,P0138,Loneliness,Thank you for explaining this,Positive
+C00004,P0856,Loneliness,Needed to hear this today,Positive
+C00005,P0713,Career Stress,Thank you for explaining this,Positive
+C00006,P0414,Self Confidence,I feel understood,Positive
+C00007,P0617,Burnout,I feel understood,Positive
+C00008,P0358,Self Confidence,So relatable,Positive
+C00009,P0071,Social Anxiety,I thought I was the only one,Positive
+C00010,P0042,Dating,So relatable,Positive
+C00011,P0628,Career Stress,Not relevant to my experience,Negative
+C00012,P1063,Loneliness,I thought I was the only one,Positive
+C00013,P1155,Burnout,This made me feel seen,Positive
+C00014,P0147,Career Stress,Can you explain more,Neutral
+C00015,P0020,Loneliness,I thought I was the only one,Positive
+C00016,P0896,Dating,So relatable,Positive
+C00017,P1110,Dating,Not relevant to my experience,Negative
+C00018,P0239,Burnout,Thanks for sharing,Neutral
+C00019,P0084,Loneliness,I will think about this,Neutral
+C00020,P0402,Social Anxiety,Good information,Neutral
+C00021,P1106,Friendship,Can you explain more,Neutral
+C00022,P0554,Career Stress,Good information,Neutral
+C00023,P0530,Self Confidence,Thank you for explaining this,Positive
+C00024,P0258,Self Confidence,Thank you for explaining this,Positive
+C00025,P0513,Dating,This made me feel seen,Positive
+C00026,P0291,Dating,Thanks for sharing,Neutral
+C00027,P0578,Loneliness,Thanks for sharing,Neutral
+C00028,P0484,Loneliness,So relatable,Positive
+C00029,P0971,Dating,Thanks for sharing,Neutral
+C00030,P1052,Dating,Thank you for explaining this,Positive
+C00031,P0716,Burnout,I thought I was the only one,Positive
+C00032,P0261,Social Anxiety,This made me feel seen,Positive
+C00033,P0967,Career Stress,I feel understood,Positive
+C00034,P1122,Dating,I do not agree with this,Negative
+C00035,P0167,Career Stress,So relatable,Positive
+C00036,P1118,Self Confidence,Not relevant to my experience,Negative
+C00037,P0697,Social Anxiety,This made me feel seen,Positive
+C00038,P0771,Self Confidence,I will think about this,Neutral
+C00039,P1100,Career Stress,I feel understood,Positive
+C00040,P0175,Dating,I feel understood,Positive
+C00041,P0881,Loneliness,Not relevant to my experience,Negative
+C00042,P1053,Social Anxiety,I thought I was the only one,Positive
+C00043,P0753,Career Stress,Not relevant to my experience,Negative
+C00044,P0977,Burnout,I do not agree with this,Negative
+C00045,P1179,Burnout,Needed to hear this today,Positive
+C00046,P0193,Social Anxiety,This does not help me,Negative
+C00047,P0211,Career Stress,Interesting perspective,Neutral
+C00048,P0674,Social Anxiety,I do not agree with this,Negative
+C00049,P0108,Burnout,Thank you for explaining this,Positive
+C00050,P1078,Self Confidence,I thought I was the only one,Positive
+C00051,P0738,Loneliness,Can you explain more,Neutral
+C00052,P0665,Self Confidence,So relatable,Positive
+C00053,P0989,Career Stress,Thank you for explaining this,Positive
+C00054,P0671,Burnout,This made me feel seen,Positive
+C00055,P0760,Dating,Thanks for sharing,Neutral
+C00056,P0479,Dating,Interesting perspective,Neutral
+C00057,P0168,Career Stress,Thanks for sharing,Neutral
+C00058,P0299,Social Anxiety,This made me feel seen,Positive
+C00059,P0924,Career Stress,This made me feel seen,Positive
+C00060,P0412,Loneliness,This made me feel seen,Positive
+C00061,P0752,Loneliness,Thank you for explaining this,Positive
+C00062,P0470,Self Confidence,Good information,Neutral
+C00063,P0611,Friendship,Can you explain more,Neutral
+C00064,P0717,Burnout,Thanks for sharing,Neutral
+C00065,P1030,Career Stress,Good information,Neutral
+C00066,P0040,Social Anxiety,Thanks for sharing,Neutral
+C00067,P0905,Social Anxiety,Interesting perspective,Neutral
+C00068,P1162,Loneliness,This made me feel seen,Positive
+C00069,P0323,Social Anxiety,Not relevant to my experience,Negative
+C00070,P0007,Loneliness,Interesting perspective,Neutral
+C00071,P0314,Dating,Not relevant to my experience,Negative
+C00072,P0213,Self Confidence,So relatable,Positive
+C00073,P0726,Friendship,Interesting perspective,Neutral
+C00074,P0087,Dating,I do not agree with this,Negative
+C00075,P0266,Burnout,I see it differently,Negative
+C00076,P0998,Burnout,Thanks for sharing,Neutral
+C00077,P0095,Dating,So relatable,Positive
+C00078,P1041,Dating,I thought I was the only one,Positive
+C00079,P0650,Social Anxiety,This does not help me,Negative
+C00080,P0925,Burnout,I feel understood,Positive
+C00081,P1105,Friendship,So relatable,Positive
+C00082,P0852,Friendship,I thought I was the only one,Positive
+C00083,P0762,Career Stress,Good information,Neutral
+C00084,P1193,Career Stress,I see it differently,Negative
+C00085,P1146,Burnout,Interesting perspective,Neutral
+C00086,P0618,Self Confidence,This made me feel seen,Positive
+C00087,P0887,Friendship,So relatable,Positive
+C00088,P0345,Burnout,This made me feel seen,Positive
+C00089,P0762,Career Stress,I do not agree with this,Negative
+C00090,P0773,Loneliness,Thanks for sharing,Neutral
+C00091,P0283,Social Anxiety,I will think about this,Neutral
+C00092,P0040,Social Anxiety,This does not help me,Negative
+C00093,P0880,Social Anxiety,I thought I was the only one,Positive
+C00094,P0569,Friendship,So relatable,Positive
+C00095,P0525,Friendship,Thank you for explaining this,Positive
+C00096,P0889,Social Anxiety,Good information,Neutral
+C00097,P0208,Friendship,I feel understood,Positive
+C00098,P0263,Burnout,I do not agree with this,Negative
+C00099,P0319,Loneliness,So relatable,Positive
+C00100,P0277,Loneliness,Interesting perspective,Neutral
+C00101,P0222,Loneliness,Can you explain more,Neutral
+C00102,P1076,Dating,I feel understood,Positive
+C00103,P0229,Self Confidence,Interesting perspective,Neutral
+C00104,P0791,Social Anxiety,I feel understood,Positive
+C00105,P0874,Social Anxiety,Thank you for explaining this,Positive
+C00106,P0582,Dating,I do not agree with this,Negative
+C00107,P0235,Self Confidence,This made me feel seen,Positive
+C00108,P1181,Career Stress,Thank you for explaining this,Positive
+C00109,P0465,Career Stress,Thanks for sharing,Neutral
+C00110,P0246,Dating,Interesting perspective,Neutral
+C00111,P0873,Career Stress,I thought I was the only one,Positive
+C00112,P0547,Career Stress,Thank you for explaining this,Positive
+C00113,P0555,Burnout,I see it differently,Negative
+C00114,P0075,Loneliness,I feel understood,Positive
+C00115,P0512,Career Stress,I do not agree with this,Negative
+C00116,P0686,Friendship,Can you explain more,Neutral
+C00117,P0577,Loneliness,Thank you for explaining this,Positive
+C00118,P0022,Burnout,Interesting perspective,Neutral
+C00119,P1027,Loneliness,So relatable,Positive
+C00120,P0122,Social Anxiety,Can you explain more,Neutral
+C00121,P0491,Self Confidence,Needed to hear this today,Positive
+C00122,P0017,Dating,Good information,Neutral
+C00123,P0679,Career Stress,I feel understood,Positive
+C00124,P0140,Career Stress,I will think about this,Neutral
+C00125,P0755,Self Confidence,Thank you for explaining this,Positive
+C00126,P0666,Social Anxiety,Interesting perspective,Neutral
+C00127,P0246,Dating,I thought I was the only one,Positive
+C00128,P1083,Loneliness,I feel understood,Positive
+C00129,P0247,Social Anxiety,I will think about this,Neutral
+C00130,P0716,Burnout,I feel understood,Positive
+C00131,P0604,Burnout,Good information,Neutral
+C00132,P0147,Career Stress,I feel understood,Positive
+C00133,P0229,Self Confidence,I do not agree with this,Negative
+C00134,P0530,Self Confidence,Interesting perspective,Neutral
+C00135,P0685,Self Confidence,This made me feel seen,Positive
+C00136,P0733,Social Anxiety,Can you explain more,Neutral
+C00137,P0478,Social Anxiety,So relatable,Positive
+C00138,P0814,Friendship,Not relevant to my experience,Negative
+C00139,P0117,Social Anxiety,I thought I was the only one,Positive
+C00140,P0423,Self Confidence,Thanks for sharing,Neutral
+C00141,P0993,Dating,Thanks for sharing,Neutral
+C00142,P0072,Dating,Can you explain more,Neutral
+C00143,P0094,Career Stress,I will think about this,Neutral
+C00144,P0687,Burnout,Needed to hear this today,Positive
+C00145,P0928,Dating,So relatable,Positive
+C00146,P0527,Career Stress,I feel understood,Positive
+C00147,P0475,Dating,This made me feel seen,Positive
+C00148,P0984,Dating,Not relevant to my experience,Negative
+C00149,P0979,Friendship,I thought I was the only one,Positive
+C00150,P0453,Self Confidence,This does not help me,Negative
+C00151,P0897,Social Anxiety,I feel understood,Positive
+C00152,P1090,Social Anxiety,Good information,Neutral
+C00153,P0210,Burnout,Good information,Neutral
+C00154,P0788,Burnout,Good information,Neutral
+C00155,P0353,Friendship,I thought I was the only one,Positive
+C00156,P0839,Friendship,Needed to hear this today,Positive
+C00157,P0387,Social Anxiety,Thanks for sharing,Neutral
+C00158,P0718,Burnout,I feel understood,Positive
+C00159,P1039,Burnout,Interesting perspective,Neutral
+C00160,P0984,Dating,Needed to hear this today,Positive
+C00161,P0143,Self Confidence,Thank you for explaining this,Positive
+C00162,P0150,Loneliness,Interesting perspective,Neutral
+C00163,P1071,Friendship,So relatable,Positive
+C00164,P0400,Self Confidence,Not relevant to my experience,Negative
+C00165,P0937,Friendship,Interesting perspective,Neutral
+C00166,P0887,Friendship,I thought I was the only one,Positive
+C00167,P0811,Self Confidence,Needed to hear this today,Positive
+C00168,P0189,Friendship,Interesting perspective,Neutral
+C00169,P0508,Dating,This does not help me,Negative
+C00170,P0281,Friendship,Thanks for sharing,Neutral
+C00171,P0806,Loneliness,So relatable,Positive
+C00172,P0035,Loneliness,Good information,Neutral
+C00173,P0372,Dating,Needed to hear this today,Positive
+C00174,P1007,Dating,Can you explain more,Neutral
+C00175,P0269,Self Confidence,Can you explain more,Neutral
+C00176,P0735,Friendship,Needed to hear this today,Positive
+C00177,P1144,Loneliness,Not relevant to my experience,Negative
+C00178,P0393,Loneliness,I thought I was the only one,Positive
+C00179,P0903,Dating,Interesting perspective,Neutral
+C00180,P0626,Dating,Needed to hear this today,Positive
+C00181,P0478,Social Anxiety,I do not agree with this,Negative
+C00182,P0900,Loneliness,Can you explain more,Neutral
+C00183,P0719,Social Anxiety,This made me feel seen,Positive
+C00184,P0821,Loneliness,This made me feel seen,Positive
+C00185,P0157,Dating,Needed to hear this today,Positive
+C00186,P1068,Dating,Needed to hear this today,Positive
+C00187,P0361,Dating,Needed to hear this today,Positive
+C00188,P1116,Social Anxiety,This made me feel seen,Positive
+C00189,P0984,Dating,Not relevant to my experience,Negative
+C00190,P1001,Dating,So relatable,Positive
+C00191,P0775,Loneliness,I see it differently,Negative
+C00192,P0608,Career Stress,Needed to hear this today,Positive
+C00193,P1052,Dating,Not relevant to my experience,Negative
+C00194,P0221,Loneliness,Good information,Neutral
+C00195,P0045,Self Confidence,Not relevant to my experience,Negative
+C00196,P0416,Loneliness,This made me feel seen,Positive
+C00197,P0360,Self Confidence,Thank you for explaining this,Positive
+C00198,P0039,Burnout,Needed to hear this today,Positive
+C00199,P0595,Dating,I thought I was the only one,Positive
+C00200,P0241,Friendship,So relatable,Positive
+C00201,P0084,Loneliness,So relatable,Positive
+C00202,P1107,Career Stress,I will think about this,Neutral
+C00203,P0650,Social Anxiety,I feel understood,Positive
+C00204,P0031,Self Confidence,Interesting perspective,Neutral
+C00205,P0888,Career Stress,Thank you for explaining this,Positive
+C00206,P0205,Friendship,Good information,Neutral
+C00207,P1067,Dating,Interesting perspective,Neutral
+C00208,P1133,Dating,I thought I was the only one,Positive
+C00209,P0847,Loneliness,I will think about this,Neutral
+C00210,P0869,Friendship,Good information,Neutral
+C00211,P1105,Friendship,I feel understood,Positive
+C00212,P0489,Burnout,Needed to hear this today,Positive
+C00213,P0903,Dating,Good information,Neutral
+C00214,P0234,Loneliness,Thank you for explaining this,Positive
+C00215,P0079,Social Anxiety,I do not agree with this,Negative
+C00216,P0350,Dating,Thank you for explaining this,Positive
+C00217,P0542,Burnout,Good information,Neutral
+C00218,P0416,Loneliness,Thank you for explaining this,Positive
+C00219,P0552,Career Stress,So relatable,Positive
+C00220,P0798,Social Anxiety,Interesting perspective,Neutral
+C00221,P0258,Self Confidence,Needed to hear this today,Positive
+C00222,P0907,Self Confidence,I thought I was the only one,Positive
+C00223,P0009,Self Confidence,Thank you for explaining this,Positive
+C00224,P0603,Career Stress,Not relevant to my experience,Negative
+C00225,P0579,Friendship,Thanks for sharing,Neutral
+C00226,P0798,Social Anxiety,This made me feel seen,Positive
+C00227,P0419,Social Anxiety,This made me feel seen,Positive
+C00228,P1196,Burnout,This made me feel seen,Positive
+C00229,P0592,Self Confidence,I will think about this,Neutral
+C00230,P0143,Self Confidence,I will think about this,Neutral
+C00231,P1078,Self Confidence,So relatable,Positive
+C00232,P0553,Friendship,So relatable,Positive
+C00233,P0998,Burnout,I see it differently,Negative
+C00234,P1199,Loneliness,Interesting perspective,Neutral
+C00235,P1031,Career Stress,Good information,Neutral
+C00236,P0913,Self Confidence,Interesting perspective,Neutral
+C00237,P0558,Friendship,Thank you for explaining this,Positive
+C00238,P1142,Self Confidence,So relatable,Positive
+C00239,P0712,Self Confidence,I feel understood,Positive
+C00240,P0451,Friendship,I thought I was the only one,Positive
+C00241,P0772,Dating,I will think about this,Neutral
+C00242,P0988,Burnout,This made me feel seen,Positive
+C00243,P0823,Friendship,Thank you for explaining this,Positive
+C00244,P0792,Burnout,I do not agree with this,Negative
+C00245,P0191,Career Stress,Interesting perspective,Neutral
+C00246,P0546,Social Anxiety,Thanks for sharing,Neutral
+C00247,P0430,Self Confidence,Thank you for explaining this,Positive
+C00248,P0277,Loneliness,Not relevant to my experience,Negative
+C00249,P0490,Dating,Thank you for explaining this,Positive
+C00250,P0544,Burnout,This does not help me,Negative
+C00251,P0844,Social Anxiety,This made me feel seen,Positive
+C00252,P0830,Friendship,Thanks for sharing,Neutral
+C00253,P0159,Friendship,This made me feel seen,Positive
+C00254,P0108,Burnout,So relatable,Positive
+C00255,P0630,Self Confidence,I thought I was the only one,Positive
+C00256,P0837,Friendship,I do not agree with this,Negative
+C00257,P0068,Burnout,I do not agree with this,Negative
+C00258,P0171,Dating,Needed to hear this today,Positive
+C00259,P0051,Dating,Interesting perspective,Neutral
+C00260,P1124,Social Anxiety,Needed to hear this today,Positive
+C00261,P1178,Self Confidence,I feel understood,Positive
+C00262,P0192,Social Anxiety,I feel understood,Positive
+C00263,P0815,Social Anxiety,Interesting perspective,Neutral
+C00264,P0032,Self Confidence,I thought I was the only one,Positive
+C00265,P0912,Dating,This made me feel seen,Positive
+C00266,P0879,Career Stress,Thank you for explaining this,Positive
+C00267,P0284,Loneliness,I feel understood,Positive
+C00268,P0036,Friendship,Needed to hear this today,Positive
+C00269,P0970,Self Confidence,Not relevant to my experience,Negative
+C00270,P0566,Dating,I feel understood,Positive
+C00271,P0370,Burnout,Can you explain more,Neutral
+C00272,P0176,Social Anxiety,Interesting perspective,Neutral
+C00273,P0883,Career Stress,I thought I was the only one,Positive
+C00274,P0402,Social Anxiety,Needed to hear this today,Positive
+C00275,P0673,Dating,I will think about this,Neutral
+C00276,P0851,Friendship,I will think about this,Neutral
+C00277,P0964,Career Stress,Thanks for sharing,Neutral
+C00278,P0790,Dating,Thanks for sharing,Neutral
+C00279,P0260,Social Anxiety,I do not agree with this,Negative
+C00280,P0732,Career Stress,Can you explain more,Neutral
+C00281,P0732,Career Stress,Can you explain more,Neutral
+C00282,P1056,Burnout,Good information,Neutral
+C00283,P0277,Loneliness,Thanks for sharing,Neutral
+C00284,P0065,Social Anxiety,Thanks for sharing,Neutral
+C00285,P1043,Career Stress,So relatable,Positive
+C00286,P0111,Self Confidence,Thank you for explaining this,Positive
+C00287,P0870,Social Anxiety,Can you explain more,Neutral
+C00288,P0547,Career Stress,Good information,Neutral
+C00289,P1097,Career Stress,I thought I was the only one,Positive
+C00290,P0453,Self Confidence,Thank you for explaining this,Positive
+C00291,P0461,Social Anxiety,This made me feel seen,Positive
+C00292,P0400,Self Confidence,This does not help me,Negative
+C00293,P0096,Self Confidence,This made me feel seen,Positive
+C00294,P0773,Loneliness,I see it differently,Negative
+C00295,P0063,Dating,I do not agree with this,Negative
+C00296,P0665,Self Confidence,Interesting perspective,Neutral
+C00297,P0674,Social Anxiety,This made me feel seen,Positive
+C00298,P0001,Friendship,Thanks for sharing,Neutral
+C00299,P0085,Social Anxiety,This made me feel seen,Positive
+C00300,P0545,Burnout,Thank you for explaining this,Positive
+C00301,P0808,Social Anxiety,I feel understood,Positive
+C00302,P0752,Loneliness,This made me feel seen,Positive
+C00303,P0640,Self Confidence,Needed to hear this today,Positive
+C00304,P0118,Social Anxiety,Can you explain more,Neutral
+C00305,P0907,Self Confidence,Needed to hear this today,Positive
+C00306,P1185,Dating,Thank you for explaining this,Positive
+C00307,P0720,Friendship,Not relevant to my experience,Negative
+C00308,P0818,Dating,Thanks for sharing,Neutral
+C00309,P1040,Social Anxiety,I will think about this,Neutral
+C00310,P0980,Friendship,I feel understood,Positive
+C00311,P0401,Dating,So relatable,Positive
+C00312,P0030,Self Confidence,I do not agree with this,Negative
+C00313,P0355,Dating,I do not agree with this,Negative
+C00314,P0797,Friendship,Not relevant to my experience,Negative
+C00315,P0237,Friendship,I will think about this,Neutral
+C00316,P1042,Social Anxiety,I will think about this,Neutral
+C00317,P0709,Career Stress,Can you explain more,Neutral
+C00318,P0321,Career Stress,I thought I was the only one,Positive
+C00319,P1121,Dating,I thought I was the only one,Positive
+C00320,P0408,Career Stress,Thanks for sharing,Neutral
+C00321,P0540,Social Anxiety,Good information,Neutral
+C00322,P0562,Loneliness,I see it differently,Negative
+C00323,P0110,Friendship,I will think about this,Neutral
+C00324,P0790,Dating,I do not agree with this,Negative
+C00325,P1070,Social Anxiety,I thought I was the only one,Positive
+C00326,P0680,Self Confidence,Thanks for sharing,Neutral
+C00327,P0598,Social Anxiety,Thank you for explaining this,Positive
+C00328,P0716,Burnout,Thank you for explaining this,Positive
+C00329,P0010,Social Anxiety,I thought I was the only one,Positive
+C00330,P1148,Career Stress,Thanks for sharing,Neutral
+C00331,P0737,Social Anxiety,This made me feel seen,Positive
+C00332,P1046,Loneliness,Interesting perspective,Neutral
+C00333,P0748,Self Confidence,I will think about this,Neutral
+C00334,P0162,Friendship,Not relevant to my experience,Negative
+C00335,P0500,Social Anxiety,I thought I was the only one,Positive
+C00336,P0960,Dating,So relatable,Positive
+C00337,P1058,Dating,Needed to hear this today,Positive
+C00338,P0356,Friendship,Thanks for sharing,Neutral
+C00339,P0570,Friendship,Needed to hear this today,Positive
+C00340,P1093,Friendship,I will think about this,Neutral
+C00341,P0252,Self Confidence,This made me feel seen,Positive
+C00342,P0359,Self Confidence,This made me feel seen,Positive
+C00343,P1011,Career Stress,This made me feel seen,Positive
+C00344,P1098,Career Stress,I will think about this,Neutral
+C00345,P0359,Self Confidence,Good information,Neutral
+C00346,P1104,Burnout,Good information,Neutral
+C00347,P1060,Loneliness,I will think about this,Neutral
+C00348,P0942,Social Anxiety,Good information,Neutral
+C00349,P0216,Self Confidence,So relatable,Positive
+C00350,P0339,Friendship,This made me feel seen,Positive
+C00351,P0485,Career Stress,This made me feel seen,Positive
+C00352,P1028,Self Confidence,This made me feel seen,Positive
+C00353,P0490,Dating,I feel understood,Positive
+C00354,P1006,Career Stress,I thought I was the only one,Positive
+C00355,P0376,Burnout,Thanks for sharing,Neutral
+C00356,P0693,Social Anxiety,So relatable,Positive
+C00357,P1054,Social Anxiety,So relatable,Positive
+C00358,P0914,Self Confidence,Not relevant to my experience,Negative
+C00359,P0781,Social Anxiety,I feel understood,Positive
+C00360,P1196,Burnout,Good information,Neutral
+C00361,P0515,Friendship,I feel understood,Positive
+C00362,P0418,Self Confidence,Needed to hear this today,Positive
+C00363,P0847,Loneliness,Interesting perspective,Neutral
+C00364,P0318,Loneliness,Needed to hear this today,Positive
+C00365,P1158,Career Stress,I will think about this,Neutral
+C00366,P0413,Loneliness,I will think about this,Neutral
+C00367,P0220,Loneliness,I will think about this,Neutral
+C00368,P0991,Friendship,This made me feel seen,Positive
+C00369,P0772,Dating,I feel understood,Positive
+C00370,P0584,Career Stress,Thanks for sharing,Neutral
+C00371,P1087,Social Anxiety,I thought I was the only one,Positive
+C00372,P0222,Loneliness,Needed to hear this today,Positive
+C00373,P0144,Dating,Thank you for explaining this,Positive
+C00374,P0053,Career Stress,Needed to hear this today,Positive
+C00375,P0389,Dating,So relatable,Positive
+C00376,P0470,Self Confidence,Interesting perspective,Neutral
+C00377,P0375,Dating,Thanks for sharing,Neutral
+C00378,P1102,Dating,I thought I was the only one,Positive
+C00379,P1101,Career Stress,This does not help me,Negative
+C00380,P1135,Dating,Needed to hear this today,Positive
+C00381,P0326,Burnout,So relatable,Positive
+C00382,P0960,Dating,I see it differently,Negative
+C00383,P0192,Social Anxiety,So relatable,Positive
+C00384,P0155,Social Anxiety,This does not help me,Negative
+C00385,P0173,Self Confidence,Needed to hear this today,Positive
+C00386,P0469,Self Confidence,I see it differently,Negative
+C00387,P0993,Dating,Needed to hear this today,Positive
+C00388,P0602,Self Confidence,Good information,Neutral
+C00389,P0196,Dating,Needed to hear this today,Positive
+C00390,P1041,Dating,I thought I was the only one,Positive
+C00391,P0812,Dating,Interesting perspective,Neutral
+C00392,P0249,Dating,This made me feel seen,Positive
+C00393,P0040,Social Anxiety,I feel understood,Positive
+C00394,P0243,Dating,This does not help me,Negative
+C00395,P1125,Loneliness,I do not agree with this,Negative
+C00396,P0498,Career Stress,This made me feel seen,Positive
+C00397,P0670,Burnout,So relatable,Positive
+C00398,P0314,Dating,So relatable,Positive
+C00399,P0979,Friendship,So relatable,Positive
+C00400,P0085,Social Anxiety,Good information,Neutral
+C00401,P0047,Dating,Needed to hear this today,Positive
+C00402,P0171,Dating,Can you explain more,Neutral
+C00403,P0833,Dating,Thanks for sharing,Neutral
+C00404,P0237,Friendship,This made me feel seen,Positive
+C00405,P0146,Dating,Thank you for explaining this,Positive
+C00406,P1021,Friendship,Thanks for sharing,Neutral
+C00407,P0996,Friendship,Thank you for explaining this,Positive
+C00408,P1126,Social Anxiety,This made me feel seen,Positive
+C00409,P0347,Dating,So relatable,Positive
+C00410,P0420,Loneliness,Good information,Neutral
+C00411,P0198,Loneliness,I feel understood,Positive
+C00412,P0658,Self Confidence,This made me feel seen,Positive
+C00413,P1113,Social Anxiety,This made me feel seen,Positive
+C00414,P0729,Self Confidence,I feel understood,Positive
+C00415,P1139,Dating,Interesting perspective,Neutral
+C00416,P0030,Self Confidence,I feel understood,Positive
+C00417,P0208,Friendship,Good information,Neutral
+C00418,P1162,Loneliness,Can you explain more,Neutral
+C00419,P0763,Self Confidence,Needed to hear this today,Positive
+C00420,P0626,Dating,Needed to hear this today,Positive
+C00421,P1057,Social Anxiety,Good information,Neutral
+C00422,P0743,Loneliness,Thanks for sharing,Neutral
+C00423,P1109,Self Confidence,I thought I was the only one,Positive
+C00424,P0211,Career Stress,So relatable,Positive
+C00425,P0477,Friendship,Thank you for explaining this,Positive
+C00426,P0342,Dating,Thank you for explaining this,Positive
+C00427,P0929,Social Anxiety,Thanks for sharing,Neutral
+C00428,P0393,Loneliness,So relatable,Positive
+C00429,P0155,Social Anxiety,I feel understood,Positive
+C00430,P0708,Dating,This made me feel seen,Positive
+C00431,P1162,Loneliness,Can you explain more,Neutral
+C00432,P1034,Career Stress,I will think about this,Neutral
+C00433,P0656,Loneliness,I thought I was the only one,Positive
+C00434,P1001,Dating,Interesting perspective,Neutral
+C00435,P0605,Self Confidence,Interesting perspective,Neutral
+C00436,P1036,Career Stress,Can you explain more,Neutral
+C00437,P0552,Career Stress,This made me feel seen,Positive
+C00438,P1184,Self Confidence,I will think about this,Neutral
+C00439,P0009,Self Confidence,Can you explain more,Neutral
+C00440,P0087,Dating,I feel understood,Positive
+C00441,P1063,Loneliness,I feel understood,Positive
+C00442,P1025,Dating,I feel understood,Positive
+C00443,P0184,Social Anxiety,I thought I was the only one,Positive
+C00444,P0770,Career Stress,I see it differently,Negative
+C00445,P1185,Dating,I thought I was the only one,Positive
+C00446,P0311,Burnout,I thought I was the only one,Positive
+C00447,P0381,Dating,Thank you for explaining this,Positive
+C00448,P0363,Friendship,I see it differently,Negative
+C00449,P1037,Loneliness,Interesting perspective,Neutral
+C00450,P0200,Social Anxiety,I see it differently,Negative
+C00451,P0311,Burnout,Thank you for explaining this,Positive
+C00452,P0769,Loneliness,Interesting perspective,Neutral
+C00453,P0598,Social Anxiety,Thanks for sharing,Neutral
+C00454,P1146,Burnout,Thank you for explaining this,Positive
+C00455,P0124,Self Confidence,This made me feel seen,Positive
+C00456,P1189,Career Stress,I feel understood,Positive
+C00457,P0068,Burnout,I do not agree with this,Negative
+C00458,P0223,Social Anxiety,Good information,Neutral
+C00459,P1044,Self Confidence,Thank you for explaining this,Positive
+C00460,P0059,Self Confidence,I see it differently,Negative
+C00461,P0573,Career Stress,I thought I was the only one,Positive
+C00462,P0402,Social Anxiety,Thanks for sharing,Neutral
+C00463,P0268,Loneliness,Good information,Neutral
+C00464,P1137,Dating,I feel understood,Positive
+C00465,P0261,Social Anxiety,Good information,Neutral
+C00466,P0242,Loneliness,So relatable,Positive
+C00467,P0709,Career Stress,Good information,Neutral
+C00468,P1076,Dating,Interesting perspective,Neutral
+C00469,P0987,Dating,Needed to hear this today,Positive
+C00470,P0529,Friendship,Thank you for explaining this,Positive
+C00471,P0667,Social Anxiety,Good information,Neutral
+C00472,P0223,Social Anxiety,This made me feel seen,Positive
+C00473,P0242,Loneliness,I thought I was the only one,Positive
+C00474,P0937,Friendship,So relatable,Positive
+C00475,P0807,Burnout,I feel understood,Positive
+C00476,P0721,Loneliness,This does not help me,Negative
+C00477,P0268,Loneliness,Can you explain more,Neutral
+C00478,P0352,Social Anxiety,Not relevant to my experience,Negative
+C00479,P0219,Social Anxiety,This made me feel seen,Positive
+C00480,P0481,Social Anxiety,I feel understood,Positive
+C00481,P1171,Friendship,Good information,Neutral
+C00482,P0735,Friendship,Can you explain more,Neutral
+C00483,P0311,Burnout,I feel understood,Positive
+C00484,P0357,Dating,Good information,Neutral
+C00485,P0689,Dating,This does not help me,Negative
+C00486,P0640,Self Confidence,Needed to hear this today,Positive
+C00487,P0305,Social Anxiety,I see it differently,Negative
+C00488,P1030,Career Stress,Interesting perspective,Neutral
+C00489,P0588,Career Stress,I thought I was the only one,Positive
+C00490,P0214,Dating,This does not help me,Negative
+C00491,P0611,Friendship,This made me feel seen,Positive
+C00492,P0377,Career Stress,Thank you for explaining this,Positive
+C00493,P0538,Loneliness,This made me feel seen,Positive
+C00494,P0183,Self Confidence,Good information,Neutral
+C00495,P0911,Self Confidence,Thank you for explaining this,Positive
+C00496,P1197,Career Stress,Can you explain more,Neutral
+C00497,P0593,Friendship,I thought I was the only one,Positive
+C00498,P0102,Self Confidence,Needed to hear this today,Positive
+C00499,P0717,Burnout,I do not agree with this,Negative
+C00500,P0379,Burnout,Can you explain more,Neutral
+C00501,P0480,Social Anxiety,Interesting perspective,Neutral
+C00502,P0069,Loneliness,Not relevant to my experience,Negative
+C00503,P0235,Self Confidence,Can you explain more,Neutral
+C00504,P0673,Dating,Thanks for sharing,Neutral
+C00505,P0629,Loneliness,I will think about this,Neutral
+C00506,P0053,Career Stress,Not relevant to my experience,Negative
+C00507,P0400,Self Confidence,I feel understood,Positive
+C00508,P0193,Social Anxiety,Interesting perspective,Neutral
+C00509,P1042,Social Anxiety,I will think about this,Neutral
+C00510,P0736,Burnout,Thanks for sharing,Neutral
+C00511,P0994,Dating,This made me feel seen,Positive
+C00512,P0252,Self Confidence,This made me feel seen,Positive
+C00513,P0419,Social Anxiety,Thank you for explaining this,Positive
+C00514,P1168,Loneliness,Interesting perspective,Neutral
+C00515,P0869,Friendship,I thought I was the only one,Positive
+C00516,P0154,Career Stress,I thought I was the only one,Positive
+C00517,P0687,Burnout,Thank you for explaining this,Positive
+C00518,P0664,Loneliness,I thought I was the only one,Positive
+C00519,P0158,Career Stress,I thought I was the only one,Positive
+C00520,P0798,Social Anxiety,Needed to hear this today,Positive
+C00521,P0116,Dating,I do not agree with this,Negative
+C00522,P0318,Loneliness,I thought I was the only one,Positive
+C00523,P0721,Loneliness,So relatable,Positive
+C00524,P0021,Dating,Thank you for explaining this,Positive
+C00525,P0668,Career Stress,This does not help me,Negative
+C00526,P0647,Career Stress,This made me feel seen,Positive
+C00527,P1006,Career Stress,Not relevant to my experience,Negative
+C00528,P0618,Self Confidence,Thanks for sharing,Neutral
+C00529,P0324,Dating,Interesting perspective,Neutral
+C00530,P1106,Friendship,Thanks for sharing,Neutral
+C00531,P0172,Social Anxiety,Interesting perspective,Neutral
+C00532,P0035,Loneliness,Thanks for sharing,Neutral
+C00533,P0799,Career Stress,Not relevant to my experience,Negative
+C00534,P0252,Self Confidence,I feel understood,Positive
+C00535,P0943,Burnout,Thank you for explaining this,Positive
+C00536,P0101,Burnout,I will think about this,Neutral
+C00537,P0375,Dating,Needed to hear this today,Positive
+C00538,P0754,Burnout,Good information,Neutral
+C00539,P0109,Career Stress,I will think about this,Neutral
+C00540,P0451,Friendship,This does not help me,Negative
+C00541,P0033,Social Anxiety,Good information,Neutral
+C00542,P0767,Career Stress,Can you explain more,Neutral
+C00543,P1085,Self Confidence,Good information,Neutral
+C00544,P0929,Social Anxiety,I see it differently,Negative
+C00545,P0824,Friendship,Needed to hear this today,Positive
+C00546,P0839,Friendship,Can you explain more,Neutral
+C00547,P0631,Loneliness,Not relevant to my experience,Negative
+C00548,P0943,Burnout,This made me feel seen,Positive
+C00549,P0198,Loneliness,I see it differently,Negative
+C00550,P0473,Burnout,Needed to hear this today,Positive
+C00551,P0066,Loneliness,Needed to hear this today,Positive
+C00552,P0254,Social Anxiety,So relatable,Positive
+C00553,P0481,Social Anxiety,Thanks for sharing,Neutral
+C00554,P0450,Social Anxiety,Good information,Neutral
+C00555,P0127,Social Anxiety,Needed to hear this today,Positive
+C00556,P0838,Self Confidence,This does not help me,Negative
+C00557,P1091,Loneliness,Thanks for sharing,Neutral
+C00558,P0981,Burnout,Not relevant to my experience,Negative
+C00559,P0903,Dating,Needed to hear this today,Positive
+C00560,P0691,Social Anxiety,I feel understood,Positive
+C00561,P0379,Burnout,So relatable,Positive
+C00562,P0309,Career Stress,I will think about this,Neutral
+C00563,P0625,Self Confidence,Interesting perspective,Neutral
+C00564,P0614,Social Anxiety,Good information,Neutral
+C00565,P0693,Social Anxiety,I thought I was the only one,Positive
+C00566,P0358,Self Confidence,So relatable,Positive
+C00567,P0723,Career Stress,I feel understood,Positive
+C00568,P0338,Loneliness,So relatable,Positive
+C00569,P0711,Loneliness,So relatable,Positive
+C00570,P0922,Self Confidence,Needed to hear this today,Positive
+C00571,P0378,Self Confidence,So relatable,Positive
+C00572,P0863,Loneliness,Thank you for explaining this,Positive
+C00573,P0032,Self Confidence,Can you explain more,Neutral
+C00574,P0487,Career Stress,This made me feel seen,Positive
+C00575,P0555,Burnout,Thanks for sharing,Neutral
+C00576,P0445,Burnout,I feel understood,Positive
+C00577,P0847,Loneliness,Good information,Neutral
+C00578,P0435,Social Anxiety,Good information,Neutral
+C00579,P0954,Social Anxiety,I will think about this,Neutral
+C00580,P0592,Self Confidence,I feel understood,Positive
+C00581,P0012,Career Stress,I see it differently,Negative
+C00582,P0044,Burnout,I feel understood,Positive
+C00583,P0042,Dating,I feel understood,Positive
+C00584,P0949,Social Anxiety,Thank you for explaining this,Positive
+C00585,P0800,Friendship,So relatable,Positive
+C00586,P0096,Self Confidence,This made me feel seen,Positive
+C00587,P1113,Social Anxiety,This made me feel seen,Positive
+C00588,P0968,Self Confidence,I will think about this,Neutral
+C00589,P0401,Dating,Good information,Neutral
+C00590,P0874,Social Anxiety,Thanks for sharing,Neutral
+C00591,P0156,Burnout,So relatable,Positive
+C00592,P1082,Self Confidence,Can you explain more,Neutral
+C00593,P0001,Friendship,Good information,Neutral
+C00594,P0452,Burnout,Interesting perspective,Neutral
+C00595,P1145,Self Confidence,I do not agree with this,Negative
+C00596,P0376,Burnout,Thanks for sharing,Neutral
+C00597,P0700,Burnout,Needed to hear this today,Positive
+C00598,P0879,Career Stress,Needed to hear this today,Positive
+C00599,P0014,Social Anxiety,Not relevant to my experience,Negative
+C00600,P1152,Social Anxiety,Thanks for sharing,Neutral
+C00601,P0245,Social Anxiety,I feel understood,Positive
+C00602,P0227,Dating,Thank you for explaining this,Positive
+C00603,P1001,Dating,Needed to hear this today,Positive
+C00604,P0726,Friendship,Interesting perspective,Neutral
+C00605,P0456,Dating,Thank you for explaining this,Positive
+C00606,P0981,Burnout,I feel understood,Positive
+C00607,P0475,Dating,This does not help me,Negative
+C00608,P0782,Social Anxiety,I will think about this,Neutral
+C00609,P0128,Social Anxiety,I thought I was the only one,Positive
+C00610,P1153,Loneliness,Thanks for sharing,Neutral
+C00611,P0109,Career Stress,Thanks for sharing,Neutral
+C00612,P1012,Social Anxiety,I thought I was the only one,Positive
+C00613,P0830,Friendship,Thanks for sharing,Neutral
+C00614,P0014,Social Anxiety,Not relevant to my experience,Negative
+C00615,P0613,Loneliness,I will think about this,Neutral
+C00616,P1083,Loneliness,I do not agree with this,Negative
+C00617,P0668,Career Stress,I see it differently,Negative
+C00618,P0755,Self Confidence,Needed to hear this today,Positive
+C00619,P0347,Dating,Thank you for explaining this,Positive
+C00620,P0561,Dating,Needed to hear this today,Positive
+C00621,P0567,Career Stress,So relatable,Positive
+C00622,P0088,Social Anxiety,Good information,Neutral
+C00623,P0653,Burnout,So relatable,Positive
+C00624,P0111,Self Confidence,I feel understood,Positive
+C00625,P0649,Career Stress,Needed to hear this today,Positive
+C00626,P0912,Dating,Thanks for sharing,Neutral
+C00627,P0479,Dating,I do not agree with this,Negative
+C00628,P0441,Career Stress,I do not agree with this,Negative
+C00629,P0600,Friendship,So relatable,Positive
+C00630,P0357,Dating,So relatable,Positive
+C00631,P0002,Burnout,I will think about this,Neutral
+C00632,P0525,Friendship,So relatable,Positive
+C00633,P0805,Social Anxiety,I will think about this,Neutral
+C00634,P0015,Social Anxiety,So relatable,Positive
+C00635,P0660,Social Anxiety,Thanks for sharing,Neutral
+C00636,P0377,Career Stress,Not relevant to my experience,Negative
+C00637,P1126,Social Anxiety,Can you explain more,Neutral
+C00638,P1062,Social Anxiety,Can you explain more,Neutral
+C00639,P0527,Career Stress,This does not help me,Negative
+C00640,P0586,Career Stress,Thanks for sharing,Neutral
+C00641,P1096,Career Stress,I will think about this,Neutral
+C00642,P0540,Social Anxiety,Thanks for sharing,Neutral
+C00643,P0623,Self Confidence,I thought I was the only one,Positive
+C00644,P0512,Career Stress,Good information,Neutral
+C00645,P0851,Friendship,I do not agree with this,Negative
+C00646,P1020,Social Anxiety,This does not help me,Negative
+C00647,P0223,Social Anxiety,I see it differently,Negative
+C00648,P0626,Dating,I see it differently,Negative
+C00649,P0433,Social Anxiety,So relatable,Positive
+C00650,P0271,Dating,Thanks for sharing,Neutral
+C00651,P1124,Social Anxiety,I do not agree with this,Negative
+C00652,P0714,Social Anxiety,I do not agree with this,Negative
+C00653,P0449,Dating,This does not help me,Negative
+C00654,P0678,Self Confidence,I feel understood,Positive
+C00655,P0585,Loneliness,Thank you for explaining this,Positive
+C00656,P0286,Social Anxiety,I will think about this,Neutral
+C00657,P0127,Social Anxiety,I thought I was the only one,Positive
+C00658,P0310,Social Anxiety,Needed to hear this today,Positive
+C00659,P1033,Dating,Thank you for explaining this,Positive
+C00660,P0550,Self Confidence,I see it differently,Negative
+C00661,P0376,Burnout,I will think about this,Neutral
+C00662,P0185,Dating,Thanks for sharing,Neutral
+C00663,P0376,Burnout,Not relevant to my experience,Negative
+C00664,P0929,Social Anxiety,Needed to hear this today,Positive
+C00665,P0165,Social Anxiety,I will think about this,Neutral
+C00666,P0773,Loneliness,Thanks for sharing,Neutral
+C00667,P0399,Social Anxiety,Interesting perspective,Neutral
+C00668,P1009,Burnout,Needed to hear this today,Positive
+C00669,P0880,Social Anxiety,I thought I was the only one,Positive
+C00670,P0934,Friendship,Needed to hear this today,Positive
+C00671,P0423,Self Confidence,Can you explain more,Neutral
+C00672,P1157,Social Anxiety,Good information,Neutral
+C00673,P1161,Dating,I thought I was the only one,Positive
+C00674,P1011,Career Stress,I see it differently,Negative
+C00675,P0782,Social Anxiety,I see it differently,Negative
+C00676,P0471,Career Stress,Not relevant to my experience,Negative
+C00677,P0382,Dating,Can you explain more,Neutral
+C00678,P0879,Career Stress,I will think about this,Neutral
+C00679,P0687,Burnout,Needed to hear this today,Positive
+C00680,P0745,Friendship,I thought I was the only one,Positive
+C00681,P0311,Burnout,I will think about this,Neutral
+C00682,P0100,Dating,Thanks for sharing,Neutral
+C00683,P1071,Friendship,Thanks for sharing,Neutral
+C00684,P1186,Dating,Thanks for sharing,Neutral
+C00685,P1100,Career Stress,Good information,Neutral
+C00686,P0019,Dating,Thank you for explaining this,Positive
+C00687,P0420,Loneliness,Thank you for explaining this,Positive
+C00688,P1062,Social Anxiety,Can you explain more,Neutral
+C00689,P0744,Dating,Not relevant to my experience,Negative
+C00690,P0942,Social Anxiety,This does not help me,Negative
+C00691,P0448,Loneliness,Thanks for sharing,Neutral
+C00692,P0615,Burnout,I will think about this,Neutral
+C00693,P0647,Career Stress,I will think about this,Neutral
+C00694,P0418,Self Confidence,This does not help me,Negative
+C00695,P0880,Social Anxiety,I feel understood,Positive
+C00696,P0175,Dating,This made me feel seen,Positive
+C00697,P0456,Dating,I see it differently,Negative
+C00698,P0656,Loneliness,Thank you for explaining this,Positive
+C00699,P0220,Loneliness,Interesting perspective,Neutral
+C00700,P0425,Loneliness,Needed to hear this today,Positive
+C00701,P1097,Career Stress,This made me feel seen,Positive
+C00702,P1116,Social Anxiety,Thanks for sharing,Neutral
+C00703,P0685,Self Confidence,Needed to hear this today,Positive
+C00704,P0348,Self Confidence,Not relevant to my experience,Negative
+C00705,P0556,Social Anxiety,Good information,Neutral
+C00706,P0672,Dating,Good information,Neutral
+C00707,P0071,Social Anxiety,Good information,Neutral
+C00708,P0042,Dating,So relatable,Positive
+C00709,P0114,Burnout,Needed to hear this today,Positive
+C00710,P0636,Loneliness,Needed to hear this today,Positive
+C00711,P0462,Self Confidence,Can you explain more,Neutral
+C00712,P0310,Social Anxiety,This made me feel seen,Positive
+C00713,P0736,Burnout,Thanks for sharing,Neutral
+C00714,P0485,Career Stress,I thought I was the only one,Positive
+C00715,P0070,Social Anxiety,Interesting perspective,Neutral
+C00716,P0352,Social Anxiety,Interesting perspective,Neutral
+C00717,P0357,Dating,Not relevant to my experience,Negative
+C00718,P1191,Burnout,So relatable,Positive
+C00719,P0748,Self Confidence,Thanks for sharing,Neutral
+C00720,P0051,Dating,This does not help me,Negative
+C00721,P0618,Self Confidence,So relatable,Positive
+C00722,P0578,Loneliness,I do not agree with this,Negative
+C00723,P0716,Burnout,I see it differently,Negative
+C00724,P0204,Friendship,Thanks for sharing,Neutral
+C00725,P0616,Career Stress,I thought I was the only one,Positive
+C00726,P0185,Dating,Not relevant to my experience,Negative
+C00727,P0283,Social Anxiety,Can you explain more,Neutral
+C00728,P0544,Burnout,I thought I was the only one,Positive
+C00729,P0111,Self Confidence,I do not agree with this,Negative
+C00730,P0649,Career Stress,Interesting perspective,Neutral
+C00731,P0364,Self Confidence,I thought I was the only one,Positive
+C00732,P0170,Friendship,I thought I was the only one,Positive
+C00733,P0415,Career Stress,Can you explain more,Neutral
+C00734,P0592,Self Confidence,I feel understood,Positive
+C00735,P0051,Dating,Not relevant to my experience,Negative
+C00736,P0487,Career Stress,This does not help me,Negative
+C00737,P0136,Career Stress,I see it differently,Negative
+C00738,P0654,Burnout,Can you explain more,Neutral
+C00739,P0779,Dating,Can you explain more,Neutral
+C00740,P0567,Career Stress,I feel understood,Positive
+C00741,P1022,Social Anxiety,Good information,Neutral
+C00742,P0033,Social Anxiety,Interesting perspective,Neutral
+C00743,P0047,Dating,Good information,Neutral
+C00744,P1029,Loneliness,I feel understood,Positive
+C00745,P0328,Friendship,I will think about this,Neutral
+C00746,P0071,Social Anxiety,Thank you for explaining this,Positive
+C00747,P0532,Loneliness,This does not help me,Negative
+C00748,P1101,Career Stress,This made me feel seen,Positive
+C00749,P0960,Dating,Good information,Neutral
+C00750,P0818,Dating,I will think about this,Neutral
+C00751,P1176,Career Stress,I will think about this,Neutral
+C00752,P0613,Loneliness,Not relevant to my experience,Negative
+C00753,P0639,Friendship,Thank you for explaining this,Positive
+C00754,P0772,Dating,Thanks for sharing,Neutral
+C00755,P0724,Social Anxiety,Good information,Neutral
+C00756,P0928,Dating,Good information,Neutral
+C00757,P0196,Dating,Thanks for sharing,Neutral
+C00758,P0651,Loneliness,So relatable,Positive
+C00759,P0359,Self Confidence,Can you explain more,Neutral
+C00760,P0872,Dating,Thank you for explaining this,Positive
+C00761,P0550,Self Confidence,Interesting perspective,Neutral
+C00762,P0899,Loneliness,I will think about this,Neutral
+C00763,P0976,Loneliness,This does not help me,Negative
+C00764,P0656,Loneliness,This made me feel seen,Positive
+C00765,P0242,Loneliness,Can you explain more,Neutral
+C00766,P1101,Career Stress,I feel understood,Positive
+C00767,P0182,Social Anxiety,Good information,Neutral
+C00768,P0550,Self Confidence,I see it differently,Negative
+C00769,P0301,Loneliness,Thank you for explaining this,Positive
+C00770,P0281,Friendship,This does not help me,Negative
+C00771,P0256,Dating,Can you explain more,Neutral
+C00772,P0753,Career Stress,I see it differently,Negative
+C00773,P0552,Career Stress,Not relevant to my experience,Negative
+C00774,P0235,Self Confidence,Interesting perspective,Neutral
+C00775,P0167,Career Stress,I feel understood,Positive
+C00776,P1147,Loneliness,Thanks for sharing,Neutral
+C00777,P0729,Self Confidence,So relatable,Positive
+C00778,P1111,Social Anxiety,I thought I was the only one,Positive
+C00779,P0352,Social Anxiety,This does not help me,Negative
+C00780,P0135,Burnout,Good information,Neutral
+C00781,P1177,Dating,This made me feel seen,Positive
+C00782,P0643,Career Stress,This does not help me,Negative
+C00783,P0280,Dating,I feel understood,Positive
+C00784,P0732,Career Stress,I feel understood,Positive
+C00785,P0899,Loneliness,Thanks for sharing,Neutral
+C00786,P0231,Social Anxiety,This does not help me,Negative
+C00787,P0725,Dating,Thanks for sharing,Neutral
+C00788,P0719,Social Anxiety,I thought I was the only one,Positive
+C00789,P0563,Loneliness,This does not help me,Negative
+C00790,P0782,Social Anxiety,Can you explain more,Neutral
+C00791,P1147,Loneliness,This made me feel seen,Positive
+C00792,P0245,Social Anxiety,Interesting perspective,Neutral
+C00793,P1129,Career Stress,I thought I was the only one,Positive
+C00794,P0379,Burnout,Good information,Neutral
+C00795,P0120,Self Confidence,Needed to hear this today,Positive
+C00796,P0049,Loneliness,Can you explain more,Neutral
+C00797,P0068,Burnout,Thanks for sharing,Neutral
+C00798,P0669,Friendship,I do not agree with this,Negative
+C00799,P0960,Dating,I feel understood,Positive
+C00800,P0967,Career Stress,Needed to hear this today,Positive
+C00801,P0866,Social Anxiety,I will think about this,Neutral
+C00802,P0335,Loneliness,So relatable,Positive
+C00803,P0870,Social Anxiety,Interesting perspective,Neutral
+C00804,P1106,Friendship,Good information,Neutral
+C00805,P0284,Loneliness,I will think about this,Neutral
+C00806,P0241,Friendship,Not relevant to my experience,Negative
+C00807,P1133,Dating,I see it differently,Negative
+C00808,P0128,Social Anxiety,I feel understood,Positive
+C00809,P1090,Social Anxiety,Good information,Neutral
+C00810,P0722,Career Stress,Interesting perspective,Neutral
+C00811,P0802,Burnout,Needed to hear this today,Positive
+C00812,P0229,Self Confidence,Interesting perspective,Neutral
+C00813,P0248,Social Anxiety,Good information,Neutral
+C00814,P1165,Self Confidence,Interesting perspective,Neutral
+C00815,P0430,Self Confidence,This made me feel seen,Positive
+C00816,P0245,Social Anxiety,This does not help me,Negative
+C00817,P0590,Career Stress,Can you explain more,Neutral
+C00818,P0331,Career Stress,I feel understood,Positive
+C00819,P0077,Social Anxiety,I feel understood,Positive
+C00820,P0206,Social Anxiety,Needed to hear this today,Positive
+C00821,P0145,Social Anxiety,Not relevant to my experience,Negative
+C00822,P0903,Dating,Good information,Neutral
+C00823,P0702,Loneliness,This does not help me,Negative
+C00824,P0646,Career Stress,Needed to hear this today,Positive
+C00825,P0264,Burnout,I feel understood,Positive
+C00826,P1136,Dating,Needed to hear this today,Positive
+C00827,P0838,Self Confidence,Interesting perspective,Neutral
+C00828,P0247,Social Anxiety,This does not help me,Negative
+C00829,P0533,Dating,Interesting perspective,Neutral
+C00830,P0405,Dating,Good information,Neutral
+C00831,P0750,Burnout,Can you explain more,Neutral
+C00832,P1119,Career Stress,Not relevant to my experience,Negative
+C00833,P0465,Career Stress,Needed to hear this today,Positive
+C00834,P0881,Loneliness,So relatable,Positive
+C00835,P0392,Loneliness,I do not agree with this,Negative
+C00836,P1160,Loneliness,I thought I was the only one,Positive
+C00837,P0076,Social Anxiety,So relatable,Positive
+C00838,P0771,Self Confidence,This made me feel seen,Positive
+C00839,P0523,Friendship,This made me feel seen,Positive
+C00840,P0648,Burnout,Thank you for explaining this,Positive
+C00841,P1108,Career Stress,Can you explain more,Neutral
+C00842,P0868,Career Stress,I thought I was the only one,Positive
+C00843,P0175,Dating,Needed to hear this today,Positive
+C00844,P1099,Friendship,Needed to hear this today,Positive
+C00845,P0376,Burnout,I see it differently,Negative
+C00846,P0069,Loneliness,I feel understood,Positive
+C00847,P0111,Self Confidence,Good information,Neutral
+C00848,P1059,Friendship,I do not agree with this,Negative
+C00849,P0728,Burnout,Thank you for explaining this,Positive
+C00850,P0628,Career Stress,I feel understood,Positive
+C00851,P0416,Loneliness,Needed to hear this today,Positive
+C00852,P1121,Dating,I do not agree with this,Negative
+C00853,P0452,Burnout,So relatable,Positive
+C00854,P0609,Self Confidence,I see it differently,Negative
+C00855,P0222,Loneliness,I see it differently,Negative
+C00856,P0781,Social Anxiety,I will think about this,Neutral
+C00857,P1071,Friendship,This does not help me,Negative
+C00858,P0763,Self Confidence,This made me feel seen,Positive
+C00859,P0640,Self Confidence,Needed to hear this today,Positive
+C00860,P0199,Dating,Not relevant to my experience,Negative
+C00861,P0098,Dating,Can you explain more,Neutral
+C00862,P0970,Self Confidence,Can you explain more,Neutral
+C00863,P0617,Burnout,This made me feel seen,Positive
+C00864,P0429,Career Stress,Good information,Neutral
+C00865,P0482,Burnout,Needed to hear this today,Positive
+C00866,P1026,Dating,Interesting perspective,Neutral
+C00867,P0811,Self Confidence,Needed to hear this today,Positive
+C00868,P0713,Career Stress,I will think about this,Neutral
+C00869,P1163,Dating,Thanks for sharing,Neutral
+C00870,P0835,Friendship,This made me feel seen,Positive
+C00871,P0491,Self Confidence,Thank you for explaining this,Positive
+C00872,P0811,Self Confidence,This does not help me,Negative
+C00873,P0420,Loneliness,Not relevant to my experience,Negative
+C00874,P0295,Dating,I feel understood,Positive
+C00875,P0990,Dating,So relatable,Positive
+C00876,P0281,Friendship,Thank you for explaining this,Positive
+C00877,P0170,Friendship,This made me feel seen,Positive
+C00878,P1128,Social Anxiety,Thank you for explaining this,Positive
+C00879,P1197,Career Stress,Not relevant to my experience,Negative
+C00880,P0315,Loneliness,Thank you for explaining this,Positive
+C00881,P0591,Career Stress,I do not agree with this,Negative
+C00882,P0878,Loneliness,So relatable,Positive
+C00883,P0300,Dating,I feel understood,Positive
+C00884,P0963,Burnout,Needed to hear this today,Positive
+C00885,P0576,Social Anxiety,This made me feel seen,Positive
+C00886,P0317,Dating,Thank you for explaining this,Positive
+C00887,P0862,Loneliness,Good information,Neutral
+C00888,P0154,Career Stress,I feel understood,Positive
+C00889,P1188,Dating,Thank you for explaining this,Positive
+C00890,P0901,Social Anxiety,Thank you for explaining this,Positive
+C00891,P1113,Social Anxiety,Thank you for explaining this,Positive
+C00892,P1084,Social Anxiety,So relatable,Positive
+C00893,P0994,Dating,Interesting perspective,Neutral
+C00894,P1037,Loneliness,Thanks for sharing,Neutral
+C00895,P0721,Loneliness,Good information,Neutral
+C00896,P0005,Friendship,Good information,Neutral
+C00897,P0036,Friendship,I feel understood,Positive
+C00898,P0642,Career Stress,Can you explain more,Neutral
+C00899,P0653,Burnout,I thought I was the only one,Positive
+C00900,P0143,Self Confidence,Thanks for sharing,Neutral
+C00901,P0382,Dating,Thanks for sharing,Neutral
+C00902,P0929,Social Anxiety,Good information,Neutral
+C00903,P0481,Social Anxiety,Thanks for sharing,Neutral
+C00904,P1120,Loneliness,So relatable,Positive
+C00905,P0773,Loneliness,I thought I was the only one,Positive
+C00906,P1040,Social Anxiety,I feel understood,Positive
+C00907,P1107,Career Stress,This made me feel seen,Positive
+C00908,P0520,Social Anxiety,This made me feel seen,Positive
+C00909,P0073,Social Anxiety,Thank you for explaining this,Positive
+C00910,P0567,Career Stress,I feel understood,Positive
+C00911,P0823,Friendship,Can you explain more,Neutral
+C00912,P0850,Self Confidence,Not relevant to my experience,Negative
+C00913,P0841,Career Stress,Thanks for sharing,Neutral
+C00914,P0412,Loneliness,Thank you for explaining this,Positive
+C00915,P0475,Dating,Thank you for explaining this,Positive
+C00916,P0956,Social Anxiety,Interesting perspective,Neutral
+C00917,P0050,Friendship,Not relevant to my experience,Negative
+C00918,P0288,Social Anxiety,I feel understood,Positive
+C00919,P0519,Social Anxiety,Not relevant to my experience,Negative
+C00920,P0230,Loneliness,I thought I was the only one,Positive
+C00921,P0061,Self Confidence,I feel understood,Positive
+C00922,P0624,Loneliness,I will think about this,Neutral
+C00923,P1093,Friendship,I will think about this,Neutral
+C00924,P1004,Career Stress,Good information,Neutral
+C00925,P0544,Burnout,Interesting perspective,Neutral
+C00926,P1022,Social Anxiety,I see it differently,Negative
+C00927,P0012,Career Stress,I will think about this,Neutral
+C00928,P0820,Dating,Good information,Neutral
+C00929,P0158,Career Stress,Good information,Neutral
+C00930,P0457,Self Confidence,This made me feel seen,Positive
+C00931,P0394,Self Confidence,So relatable,Positive
+C00932,P0359,Self Confidence,I thought I was the only one,Positive
+C00933,P0633,Social Anxiety,I see it differently,Negative
+C00934,P0639,Friendship,Not relevant to my experience,Negative
+C00935,P0798,Social Anxiety,I feel understood,Positive
+C00936,P0773,Loneliness,This made me feel seen,Positive
+C00937,P0326,Burnout,Interesting perspective,Neutral
+C00938,P0241,Friendship,This does not help me,Negative
+C00939,P0148,Social Anxiety,So relatable,Positive
+C00940,P0720,Friendship,I see it differently,Negative
+C00941,P0985,Friendship,Good information,Neutral
+C00942,P0307,Self Confidence,I will think about this,Neutral
+C00943,P0854,Social Anxiety,I feel understood,Positive
+C00944,P1195,Burnout,Can you explain more,Neutral
+C00945,P0621,Dating,This made me feel seen,Positive
+C00946,P0519,Social Anxiety,This made me feel seen,Positive
+C00947,P0890,Loneliness,This made me feel seen,Positive
+C00948,P0946,Burnout,I will think about this,Neutral
+C00949,P0827,Friendship,Thank you for explaining this,Positive
+C00950,P0515,Friendship,I feel understood,Positive
+C00951,P0799,Career Stress,Thanks for sharing,Neutral
+C00952,P0836,Dating,I see it differently,Negative
+C00953,P0023,Loneliness,Good information,Neutral
+C00954,P0103,Career Stress,Can you explain more,Neutral
+C00955,P0260,Social Anxiety,This made me feel seen,Positive
+C00956,P1152,Social Anxiety,I see it differently,Negative
+C00957,P0706,Self Confidence,I thought I was the only one,Positive
+C00958,P0219,Social Anxiety,Thanks for sharing,Neutral
+C00959,P0169,Loneliness,Thanks for sharing,Neutral
+C00960,P1030,Career Stress,This made me feel seen,Positive
+C00961,P1189,Career Stress,Thanks for sharing,Neutral
+C00962,P0390,Social Anxiety,I thought I was the only one,Positive
+C00963,P0531,Loneliness,Good information,Neutral
+C00964,P0560,Friendship,Thanks for sharing,Neutral
+C00965,P0169,Loneliness,Thanks for sharing,Neutral
+C00966,P0155,Social Anxiety,This does not help me,Negative
+C00967,P0526,Loneliness,I will think about this,Neutral
+C00968,P0292,Career Stress,I feel understood,Positive
+C00969,P0095,Dating,So relatable,Positive
+C00970,P1055,Self Confidence,Thanks for sharing,Neutral
+C00971,P0711,Loneliness,Good information,Neutral
+C00972,P1089,Self Confidence,I will think about this,Neutral
+C00973,P0238,Dating,I see it differently,Negative
+C00974,P0892,Career Stress,I feel understood,Positive
+C00975,P0317,Dating,Can you explain more,Neutral
+C00976,P0884,Social Anxiety,I feel understood,Positive
+C00977,P0409,Loneliness,I thought I was the only one,Positive
+C00978,P1175,Dating,Thanks for sharing,Neutral
+C00979,P0441,Career Stress,This made me feel seen,Positive
+C00980,P0735,Friendship,Thank you for explaining this,Positive
+C00981,P0604,Burnout,Interesting perspective,Neutral
+C00982,P1039,Burnout,Not relevant to my experience,Negative
+C00983,P0389,Dating,Not relevant to my experience,Negative
+C00984,P0140,Career Stress,Interesting perspective,Neutral
+C00985,P1002,Friendship,Can you explain more,Neutral
+C00986,P0803,Career Stress,Needed to hear this today,Positive
+C00987,P0974,Dating,Interesting perspective,Neutral
+C00988,P0825,Social Anxiety,Thank you for explaining this,Positive
+C00989,P0654,Burnout,Good information,Neutral
+C00990,P0714,Social Anxiety,So relatable,Positive
+C00991,P0520,Social Anxiety,I will think about this,Neutral
+C00992,P0128,Social Anxiety,Good information,Neutral
+C00993,P0520,Social Anxiety,Thank you for explaining this,Positive
+C00994,P0264,Burnout,I feel understood,Positive
+C00995,P0411,Self Confidence,I see it differently,Negative
+C00996,P1186,Dating,Good information,Neutral
+C00997,P0804,Career Stress,This made me feel seen,Positive
+C00998,P1015,Friendship,So relatable,Positive
+C00999,P0051,Dating,I do not agree with this,Negative
+C01000,P1199,Loneliness,I thought I was the only one,Positive
+C01001,P0981,Burnout,Thanks for sharing,Neutral
+C01002,P0434,Loneliness,Can you explain more,Neutral
+C01003,P0228,Career Stress,So relatable,Positive
+C01004,P0775,Loneliness,Needed to hear this today,Positive
+C01005,P1136,Dating,Thank you for explaining this,Positive
+C01006,P0017,Dating,I thought I was the only one,Positive
+C01007,P0775,Loneliness,Interesting perspective,Neutral
+C01008,P0381,Dating,This does not help me,Negative
+C01009,P0373,Loneliness,Interesting perspective,Neutral
+C01010,P0567,Career Stress,Thank you for explaining this,Positive
+C01011,P1033,Dating,Not relevant to my experience,Negative
+C01012,P0366,Career Stress,I see it differently,Negative
+C01013,P0562,Loneliness,Thank you for explaining this,Positive
+C01014,P0451,Friendship,I feel understood,Positive
+C01015,P1039,Burnout,Can you explain more,Neutral
+C01016,P0195,Burnout,I see it differently,Negative
+C01017,P0580,Career Stress,Interesting perspective,Neutral
+C01018,P0363,Friendship,Thanks for sharing,Neutral
+C01019,P0358,Self Confidence,Thank you for explaining this,Positive
+C01020,P0797,Friendship,Thank you for explaining this,Positive
+C01021,P0173,Self Confidence,Not relevant to my experience,Negative
+C01022,P0135,Burnout,Good information,Neutral
+C01023,P0112,Dating,This made me feel seen,Positive
+C01024,P0737,Social Anxiety,This made me feel seen,Positive
+C01025,P0542,Burnout,Thanks for sharing,Neutral
+C01026,P0775,Loneliness,Thank you for explaining this,Positive
+C01027,P1046,Loneliness,Not relevant to my experience,Negative
+C01028,P0849,Loneliness,Interesting perspective,Neutral
+C01029,P0876,Dating,Interesting perspective,Neutral
+C01030,P1164,Social Anxiety,Thank you for explaining this,Positive
+C01031,P0918,Career Stress,This does not help me,Negative
+C01032,P1044,Self Confidence,Thanks for sharing,Neutral
+C01033,P1054,Social Anxiety,So relatable,Positive
+C01034,P0900,Loneliness,Good information,Neutral
+C01035,P0514,Career Stress,I do not agree with this,Negative
+C01036,P0055,Friendship,Can you explain more,Neutral
+C01037,P0917,Burnout,I thought I was the only one,Positive
+C01038,P0938,Social Anxiety,Good information,Neutral
+C01039,P0325,Friendship,Thanks for sharing,Neutral
+C01040,P0970,Self Confidence,So relatable,Positive
+C01041,P0679,Career Stress,Good information,Neutral
+C01042,P0175,Dating,Can you explain more,Neutral
+C01043,P0361,Dating,Not relevant to my experience,Negative
+C01044,P0995,Burnout,Thank you for explaining this,Positive
+C01045,P0453,Self Confidence,This does not help me,Negative
+C01046,P1051,Self Confidence,I feel understood,Positive
+C01047,P0173,Self Confidence,I thought I was the only one,Positive
+C01048,P0787,Social Anxiety,I see it differently,Negative
+C01049,P0615,Burnout,Thank you for explaining this,Positive
+C01050,P1118,Self Confidence,I feel understood,Positive
+C01051,P0072,Dating,Needed to hear this today,Positive
+C01052,P1061,Career Stress,Can you explain more,Neutral
+C01053,P0438,Dating,I thought I was the only one,Positive
+C01054,P1087,Social Anxiety,Thank you for explaining this,Positive
+C01055,P1153,Loneliness,Needed to hear this today,Positive
+C01056,P0922,Self Confidence,I thought I was the only one,Positive
+C01057,P1119,Career Stress,Thank you for explaining this,Positive
+C01058,P0001,Friendship,Thanks for sharing,Neutral
+C01059,P1200,Career Stress,Interesting perspective,Neutral
+C01060,P0434,Loneliness,I do not agree with this,Negative
+C01061,P1030,Career Stress,Interesting perspective,Neutral
+C01062,P1014,Friendship,Good information,Neutral
+C01063,P0882,Self Confidence,Thank you for explaining this,Positive
+C01064,P0112,Dating,This does not help me,Negative
+C01065,P0040,Social Anxiety,I will think about this,Neutral
+C01066,P0508,Dating,Can you explain more,Neutral
+C01067,P0162,Friendship,I see it differently,Negative
+C01068,P1175,Dating,I feel understood,Positive
+C01069,P0796,Self Confidence,Good information,Neutral
+C01070,P0556,Social Anxiety,Interesting perspective,Neutral
+C01071,P1188,Dating,So relatable,Positive
+C01072,P0053,Career Stress,Thank you for explaining this,Positive
+C01073,P0227,Dating,Interesting perspective,Neutral
+C01074,P0400,Self Confidence,Good information,Neutral
+C01075,P0315,Loneliness,Interesting perspective,Neutral
+C01076,P0417,Dating,I do not agree with this,Negative
+C01077,P0578,Loneliness,This does not help me,Negative
+C01078,P0705,Social Anxiety,This made me feel seen,Positive
+C01079,P0494,Social Anxiety,Can you explain more,Neutral
+C01080,P0135,Burnout,I will think about this,Neutral
+C01081,P0254,Social Anxiety,Needed to hear this today,Positive
+C01082,P0580,Career Stress,So relatable,Positive
+C01083,P0454,Dating,I will think about this,Neutral
+C01084,P0438,Dating,I see it differently,Negative
+C01085,P0102,Self Confidence,This made me feel seen,Positive
+C01086,P0076,Social Anxiety,I feel understood,Positive
+C01087,P0924,Career Stress,Not relevant to my experience,Negative
+C01088,P0111,Self Confidence,I do not agree with this,Negative
+C01089,P0711,Loneliness,Thanks for sharing,Neutral
+C01090,P0324,Dating,Thanks for sharing,Neutral
+C01091,P0167,Career Stress,This made me feel seen,Positive
+C01092,P0515,Friendship,Needed to hear this today,Positive
+C01093,P0332,Loneliness,So relatable,Positive
+C01094,P0101,Burnout,I thought I was the only one,Positive
+C01095,P1192,Dating,Needed to hear this today,Positive
+C01096,P0509,Friendship,Interesting perspective,Neutral
+C01097,P0091,Dating,Good information,Neutral
+C01098,P0971,Dating,This does not help me,Negative
+C01099,P0730,Social Anxiety,Good information,Neutral
+C01100,P0152,Burnout,I thought I was the only one,Positive
+C01101,P0799,Career Stress,Needed to hear this today,Positive
+C01102,P0373,Loneliness,Thank you for explaining this,Positive
+C01103,P1198,Dating,This made me feel seen,Positive
+C01104,P0849,Loneliness,This made me feel seen,Positive
+C01105,P0831,Dating,Interesting perspective,Neutral
+C01106,P0289,Self Confidence,Thanks for sharing,Neutral
+C01107,P0695,Career Stress,I see it differently,Negative
+C01108,P1170,Self Confidence,So relatable,Positive
+C01109,P0056,Burnout,Not relevant to my experience,Negative
+C01110,P0784,Dating,Needed to hear this today,Positive
+C01111,P0808,Social Anxiety,Thank you for explaining this,Positive
+C01112,P0384,Social Anxiety,Thank you for explaining this,Positive
+C01113,P0138,Loneliness,Interesting perspective,Neutral
+C01114,P0490,Dating,Good information,Neutral
+C01115,P0327,Social Anxiety,I see it differently,Negative
+C01116,P0676,Career Stress,This does not help me,Negative
+C01117,P0547,Career Stress,Needed to hear this today,Positive
+C01118,P0464,Friendship,I feel understood,Positive
+C01119,P0469,Self Confidence,I feel understood,Positive
+C01120,P0088,Social Anxiety,This made me feel seen,Positive
+C01121,P0399,Social Anxiety,Good information,Neutral
+C01122,P1178,Self Confidence,Needed to hear this today,Positive
+C01123,P1070,Social Anxiety,Needed to hear this today,Positive
+C01124,P0908,Self Confidence,Good information,Neutral
+C01125,P0369,Career Stress,This made me feel seen,Positive
+C01126,P1070,Social Anxiety,So relatable,Positive
+C01127,P0584,Career Stress,Can you explain more,Neutral
+C01128,P0437,Self Confidence,Needed to hear this today,Positive
+C01129,P1124,Social Anxiety,Thanks for sharing,Neutral
+C01130,P0185,Dating,Thanks for sharing,Neutral
+C01131,P0763,Self Confidence,Needed to hear this today,Positive
+C01132,P1064,Career Stress,Thank you for explaining this,Positive
+C01133,P0031,Self Confidence,I thought I was the only one,Positive
+C01134,P0006,Friendship,Thank you for explaining this,Positive
+C01135,P0918,Career Stress,Thank you for explaining this,Positive
+C01136,P0780,Social Anxiety,Needed to hear this today,Positive
+C01137,P0228,Career Stress,Interesting perspective,Neutral
+C01138,P0509,Friendship,I do not agree with this,Negative
+C01139,P0634,Burnout,Interesting perspective,Neutral
+C01140,P1034,Career Stress,Interesting perspective,Neutral
+C01141,P0062,Loneliness,Thanks for sharing,Neutral
+C01142,P0210,Burnout,I will think about this,Neutral
+C01143,P0945,Career Stress,Interesting perspective,Neutral
+C01144,P0112,Dating,Needed to hear this today,Positive
+C01145,P0542,Burnout,Can you explain more,Neutral
+C01146,P0116,Dating,Can you explain more,Neutral
+C01147,P0669,Friendship,Thank you for explaining this,Positive
+C01148,P0061,Self Confidence,Thanks for sharing,Neutral
+C01149,P0095,Dating,Needed to hear this today,Positive
+C01150,P0909,Social Anxiety,This does not help me,Negative
+C01151,P0808,Social Anxiety,I thought I was the only one,Positive
+C01152,P0502,Friendship,This made me feel seen,Positive
+C01153,P0649,Career Stress,I will think about this,Neutral
+C01154,P0089,Dating,Good information,Neutral
+C01155,P0180,Social Anxiety,Thanks for sharing,Neutral
+C01156,P0485,Career Stress,I will think about this,Neutral
+C01157,P0596,Career Stress,Thank you for explaining this,Positive
+C01158,P0979,Friendship,I feel understood,Positive
+C01159,P0508,Dating,Thank you for explaining this,Positive
+C01160,P0889,Social Anxiety,Not relevant to my experience,Negative
+C01161,P0534,Self Confidence,So relatable,Positive
+C01162,P0544,Burnout,Not relevant to my experience,Negative
+C01163,P0901,Social Anxiety,Not relevant to my experience,Negative
+C01164,P0866,Social Anxiety,I see it differently,Negative
+C01165,P0125,Social Anxiety,Needed to hear this today,Positive
+C01166,P0018,Burnout,I see it differently,Negative
+C01167,P0020,Loneliness,This made me feel seen,Positive
+C01168,P0625,Self Confidence,Thanks for sharing,Neutral
+C01169,P0047,Dating,I will think about this,Neutral
+C01170,P1190,Career Stress,This made me feel seen,Positive
+C01171,P0890,Loneliness,I feel understood,Positive
+C01172,P1034,Career Stress,This made me feel seen,Positive
+C01173,P0724,Social Anxiety,I will think about this,Neutral
+C01174,P1046,Loneliness,I thought I was the only one,Positive
+C01175,P0332,Loneliness,I feel understood,Positive
+C01176,P0397,Self Confidence,Needed to hear this today,Positive
+C01177,P0210,Burnout,Thanks for sharing,Neutral
+C01178,P0253,Career Stress,Thank you for explaining this,Positive
+C01179,P1154,Social Anxiety,I feel understood,Positive
+C01180,P0361,Dating,I feel understood,Positive
+C01181,P0861,Self Confidence,This does not help me,Negative
+C01182,P0126,Friendship,I will think about this,Neutral
+C01183,P0331,Career Stress,Good information,Neutral
+C01184,P0518,Burnout,Thank you for explaining this,Positive
+C01185,P0808,Social Anxiety,Can you explain more,Neutral
+C01186,P0387,Social Anxiety,Not relevant to my experience,Negative
+C01187,P1021,Friendship,Needed to hear this today,Positive
+C01188,P1197,Career Stress,I do not agree with this,Negative
+C01189,P0214,Dating,I do not agree with this,Negative
+C01190,P0860,Loneliness,This made me feel seen,Positive
+C01191,P1099,Friendship,Thank you for explaining this,Positive
+C01192,P0387,Social Anxiety,Thank you for explaining this,Positive
+C01193,P0075,Loneliness,Can you explain more,Neutral
+C01194,P0201,Self Confidence,I feel understood,Positive
+C01195,P0833,Dating,Thanks for sharing,Neutral
+C01196,P1147,Loneliness,I see it differently,Negative
+C01197,P0252,Self Confidence,I will think about this,Neutral
+C01198,P0628,Career Stress,Not relevant to my experience,Negative
+C01199,P0886,Social Anxiety,I will think about this,Neutral
+C01200,P0436,Dating,I see it differently,Negative
+C01201,P1099,Friendship,This made me feel seen,Positive
+C01202,P0617,Burnout,I will think about this,Neutral
+C01203,P0966,Social Anxiety,Interesting perspective,Neutral
+C01204,P0244,Loneliness,Good information,Neutral
+C01205,P1012,Social Anxiety,Thank you for explaining this,Positive
+C01206,P1159,Career Stress,Needed to hear this today,Positive
+C01207,P1067,Dating,I feel understood,Positive
+C01208,P1012,Social Anxiety,Good information,Neutral
+C01209,P0572,Career Stress,Good information,Neutral
+C01210,P0813,Career Stress,Good information,Neutral
+C01211,P0842,Social Anxiety,This made me feel seen,Positive
+C01212,P0658,Self Confidence,So relatable,Positive
+C01213,P0462,Self Confidence,Thank you for explaining this,Positive
+C01214,P0414,Self Confidence,Thank you for explaining this,Positive
+C01215,P0480,Social Anxiety,Thank you for explaining this,Positive
+C01216,P0191,Career Stress,So relatable,Positive
+C01217,P0164,Self Confidence,So relatable,Positive
+C01218,P0800,Friendship,Good information,Neutral
+C01219,P0201,Self Confidence,I will think about this,Neutral
+C01220,P1084,Social Anxiety,Good information,Neutral
+C01221,P0046,Loneliness,Thanks for sharing,Neutral
+C01222,P0291,Dating,Thanks for sharing,Neutral
+C01223,P0621,Dating,This made me feel seen,Positive
+C01224,P0137,Dating,So relatable,Positive
+C01225,P1161,Dating,I thought I was the only one,Positive
+C01226,P1120,Loneliness,I feel understood,Positive
+C01227,P0950,Burnout,This does not help me,Negative
+C01228,P0735,Friendship,I feel understood,Positive
+C01229,P1049,Social Anxiety,So relatable,Positive
+C01230,P0868,Career Stress,I feel understood,Positive
+C01231,P0369,Career Stress,Needed to hear this today,Positive
+C01232,P0155,Social Anxiety,So relatable,Positive
+C01233,P0332,Loneliness,Good information,Neutral
+C01234,P0711,Loneliness,Not relevant to my experience,Negative
+C01235,P0877,Loneliness,I thought I was the only one,Positive
+C01236,P0094,Career Stress,Can you explain more,Neutral
+C01237,P0835,Friendship,Interesting perspective,Neutral
+C01238,P0880,Social Anxiety,Can you explain more,Neutral
+C01239,P0278,Burnout,So relatable,Positive
+C01240,P0835,Friendship,Thanks for sharing,Neutral
+C01241,P0468,Career Stress,Can you explain more,Neutral
+C01242,P0745,Friendship,I feel understood,Positive
+C01243,P0267,Loneliness,Needed to hear this today,Positive
+C01244,P0222,Loneliness,I do not agree with this,Negative
+C01245,P0475,Dating,I feel understood,Positive
+C01246,P0588,Career Stress,I feel understood,Positive
+C01247,P0326,Burnout,I will think about this,Neutral
+C01248,P1115,Self Confidence,Thanks for sharing,Neutral
+C01249,P0953,Career Stress,Thank you for explaining this,Positive
+C01250,P1129,Career Stress,Thanks for sharing,Neutral
+C01251,P0235,Self Confidence,This made me feel seen,Positive
+C01252,P1070,Social Anxiety,Thanks for sharing,Neutral
+C01253,P0212,Burnout,Thanks for sharing,Neutral
+C01254,P0569,Friendship,I thought I was the only one,Positive
+C01255,P0067,Dating,So relatable,Positive
+C01256,P0398,Loneliness,Thank you for explaining this,Positive
+C01257,P0893,Burnout,Thank you for explaining this,Positive
+C01258,P0581,Social Anxiety,I feel understood,Positive
+C01259,P1006,Career Stress,I feel understood,Positive
+C01260,P0602,Self Confidence,Interesting perspective,Neutral
+C01261,P0248,Social Anxiety,I thought I was the only one,Positive
+C01262,P0184,Social Anxiety,I will think about this,Neutral
+C01263,P1112,Dating,Not relevant to my experience,Negative
+C01264,P0679,Career Stress,Needed to hear this today,Positive
+C01265,P1148,Career Stress,Thank you for explaining this,Positive
+C01266,P1114,Career Stress,I thought I was the only one,Positive
+C01267,P0346,Friendship,I thought I was the only one,Positive
+C01268,P1147,Loneliness,Thanks for sharing,Neutral
+C01269,P0995,Burnout,I see it differently,Negative
+C01270,P0141,Career Stress,This made me feel seen,Positive
+C01271,P0593,Friendship,So relatable,Positive
+C01272,P1158,Career Stress,Thanks for sharing,Neutral
+C01273,P0795,Social Anxiety,Thank you for explaining this,Positive
+C01274,P1197,Career Stress,Good information,Neutral
+C01275,P0473,Burnout,I feel understood,Positive
+C01276,P0829,Self Confidence,Good information,Neutral
+C01277,P0281,Friendship,Thanks for sharing,Neutral
+C01278,P0043,Self Confidence,Thank you for explaining this,Positive
+C01279,P0509,Friendship,Needed to hear this today,Positive
+C01280,P0357,Dating,Thank you for explaining this,Positive
+C01281,P0759,Friendship,So relatable,Positive
+C01282,P0575,Career Stress,Good information,Neutral
+C01283,P1198,Dating,Can you explain more,Neutral
+C01284,P0395,Social Anxiety,I thought I was the only one,Positive
+C01285,P0899,Loneliness,Thank you for explaining this,Positive
+C01286,P0436,Dating,Good information,Neutral
+C01287,P0883,Career Stress,I feel understood,Positive
+C01288,P0566,Dating,So relatable,Positive
+C01289,P0295,Dating,I will think about this,Neutral
+C01290,P0300,Dating,Good information,Neutral
+C01291,P0109,Career Stress,Thanks for sharing,Neutral
+C01292,P1009,Burnout,Thank you for explaining this,Positive
+C01293,P0426,Dating,I see it differently,Negative
+C01294,P0072,Dating,I will think about this,Neutral
+C01295,P1053,Social Anxiety,Thanks for sharing,Neutral
+C01296,P0867,Career Stress,Interesting perspective,Neutral
+C01297,P0969,Self Confidence,I do not agree with this,Negative
+C01298,P1042,Social Anxiety,I thought I was the only one,Positive
+C01299,P0236,Social Anxiety,Interesting perspective,Neutral
+C01300,P0239,Burnout,I thought I was the only one,Positive
+C01301,P1000,Career Stress,I thought I was the only one,Positive
+C01302,P0244,Loneliness,I will think about this,Neutral
+C01303,P0680,Self Confidence,I thought I was the only one,Positive
+C01304,P0580,Career Stress,This made me feel seen,Positive
+C01305,P0421,Friendship,This made me feel seen,Positive
+C01306,P0176,Social Anxiety,This made me feel seen,Positive
+C01307,P0518,Burnout,Thank you for explaining this,Positive
+C01308,P0220,Loneliness,Good information,Neutral
+C01309,P1047,Loneliness,I feel understood,Positive
+C01310,P0193,Social Anxiety,I see it differently,Negative
+C01311,P0609,Self Confidence,I will think about this,Neutral
+C01312,P0964,Career Stress,I do not agree with this,Negative
+C01313,P0351,Self Confidence,Thank you for explaining this,Positive
+C01314,P0877,Loneliness,I do not agree with this,Negative
+C01315,P0189,Friendship,Interesting perspective,Neutral
+C01316,P0554,Career Stress,Can you explain more,Neutral
+C01317,P1090,Social Anxiety,Interesting perspective,Neutral
+C01318,P0043,Self Confidence,Not relevant to my experience,Negative
+C01319,P0818,Dating,I thought I was the only one,Positive
+C01320,P0965,Burnout,I thought I was the only one,Positive
+C01321,P0190,Self Confidence,I feel understood,Positive
+C01322,P0840,Burnout,Thanks for sharing,Neutral
+C01323,P0821,Loneliness,I thought I was the only one,Positive
+C01324,P0759,Friendship,Thank you for explaining this,Positive
+C01325,P0075,Loneliness,I will think about this,Neutral
+C01326,P0125,Social Anxiety,Thanks for sharing,Neutral
+C01327,P0945,Career Stress,I feel understood,Positive
+C01328,P0490,Dating,Thank you for explaining this,Positive
+C01329,P0944,Burnout,Can you explain more,Neutral
+C01330,P0347,Dating,This made me feel seen,Positive
+C01331,P0391,Dating,Interesting perspective,Neutral
+C01332,P0329,Friendship,So relatable,Positive
+C01333,P0374,Career Stress,I do not agree with this,Negative
+C01334,P1045,Career Stress,I thought I was the only one,Positive
+C01335,P0990,Dating,Interesting perspective,Neutral
+C01336,P1162,Loneliness,This does not help me,Negative
+C01337,P0567,Career Stress,Thank you for explaining this,Positive
+C01338,P0340,Dating,So relatable,Positive
+C01339,P1144,Loneliness,Interesting perspective,Neutral
+C01340,P0676,Career Stress,I do not agree with this,Negative
+C01341,P0661,Career Stress,So relatable,Positive
+C01342,P0088,Social Anxiety,I will think about this,Neutral
+C01343,P0818,Dating,Interesting perspective,Neutral
+C01344,P0620,Self Confidence,I feel understood,Positive
+C01345,P0106,Dating,Needed to hear this today,Positive
+C01346,P0843,Friendship,I thought I was the only one,Positive
+C01347,P0859,Self Confidence,Not relevant to my experience,Negative
+C01348,P0194,Career Stress,Thank you for explaining this,Positive
+C01349,P0952,Burnout,Needed to hear this today,Positive
+C01350,P0604,Burnout,Thanks for sharing,Neutral
+C01351,P0927,Self Confidence,This does not help me,Negative
+C01352,P0941,Burnout,Can you explain more,Neutral
+C01353,P0079,Social Anxiety,I will think about this,Neutral
+C01354,P0300,Dating,I will think about this,Neutral
+C01355,P0840,Burnout,So relatable,Positive
+C01356,P0635,Career Stress,This does not help me,Negative
+C01357,P0597,Burnout,I do not agree with this,Negative
+C01358,P0795,Social Anxiety,Thanks for sharing,Neutral
+C01359,P0342,Dating,This does not help me,Negative
+C01360,P0812,Dating,This made me feel seen,Positive
+C01361,P0644,Dating,I feel understood,Positive
+C01362,P0131,Burnout,This does not help me,Negative
+C01363,P0018,Burnout,Thank you for explaining this,Positive
+C01364,P0823,Friendship,So relatable,Positive
+C01365,P0418,Self Confidence,Thanks for sharing,Neutral
+C01366,P0204,Friendship,This made me feel seen,Positive
+C01367,P0319,Loneliness,This does not help me,Negative
+C01368,P1011,Career Stress,So relatable,Positive
+C01369,P0369,Career Stress,I will think about this,Neutral
+C01370,P0366,Career Stress,This does not help me,Negative
+C01371,P1190,Career Stress,I thought I was the only one,Positive
+C01372,P0233,Career Stress,Needed to hear this today,Positive
+C01373,P0715,Dating,Good information,Neutral
+C01374,P0918,Career Stress,I feel understood,Positive
+C01375,P0856,Loneliness,I thought I was the only one,Positive
+C01376,P0395,Social Anxiety,I do not agree with this,Negative
+C01377,P0813,Career Stress,Good information,Neutral
+C01378,P0438,Dating,Thank you for explaining this,Positive
+C01379,P0315,Loneliness,This made me feel seen,Positive
+C01380,P0937,Friendship,Thank you for explaining this,Positive
+C01381,P0149,Burnout,Interesting perspective,Neutral
+C01382,P0543,Social Anxiety,Thanks for sharing,Neutral
+C01383,P0268,Loneliness,Interesting perspective,Neutral
+C01384,P0958,Social Anxiety,This does not help me,Negative
+C01385,P0497,Career Stress,Thank you for explaining this,Positive
+C01386,P0028,Social Anxiety,Good information,Neutral
+C01387,P1134,Friendship,Not relevant to my experience,Negative
+C01388,P0868,Career Stress,Thank you for explaining this,Positive
+C01389,P0124,Self Confidence,Needed to hear this today,Positive
+C01390,P0123,Dating,Not relevant to my experience,Negative
+C01391,P1146,Burnout,So relatable,Positive
+C01392,P1164,Social Anxiety,I will think about this,Neutral
+C01393,P0550,Self Confidence,This does not help me,Negative
+C01394,P1110,Dating,Thanks for sharing,Neutral
+C01395,P0881,Loneliness,This does not help me,Negative
+C01396,P0448,Loneliness,I thought I was the only one,Positive
+C01397,P0667,Social Anxiety,Not relevant to my experience,Negative
+C01398,P0305,Social Anxiety,This made me feel seen,Positive
+C01399,P0901,Social Anxiety,I will think about this,Neutral
+C01400,P0594,Social Anxiety,Needed to hear this today,Positive
+C01401,P1052,Dating,Can you explain more,Neutral
+C01402,P0228,Career Stress,Can you explain more,Neutral
+C01403,P0270,Self Confidence,Interesting perspective,Neutral
+C01404,P0319,Loneliness,I do not agree with this,Negative
+C01405,P0270,Self Confidence,This made me feel seen,Positive
+C01406,P0246,Dating,I thought I was the only one,Positive
+C01407,P0658,Self Confidence,Can you explain more,Neutral
+C01408,P0712,Self Confidence,I will think about this,Neutral
+C01409,P0474,Social Anxiety,So relatable,Positive
+C01410,P1130,Burnout,Thank you for explaining this,Positive
+C01411,P0779,Dating,I thought I was the only one,Positive
+C01412,P0347,Dating,Thanks for sharing,Neutral
+C01413,P1164,Social Anxiety,This made me feel seen,Positive
+C01414,P0656,Loneliness,Thank you for explaining this,Positive
+C01415,P0116,Dating,So relatable,Positive
+C01416,P0287,Dating,I will think about this,Neutral
+C01417,P0891,Loneliness,I do not agree with this,Negative
+C01418,P1060,Loneliness,Needed to hear this today,Positive
+C01419,P1140,Burnout,Good information,Neutral
+C01420,P0177,Friendship,I thought I was the only one,Positive
+C01421,P0838,Self Confidence,Interesting perspective,Neutral
+C01422,P0367,Self Confidence,I feel understood,Positive
+C01423,P0026,Social Anxiety,I feel understood,Positive
+C01424,P1138,Social Anxiety,I see it differently,Negative
+C01425,P0671,Burnout,Thank you for explaining this,Positive
+C01426,P0634,Burnout,I thought I was the only one,Positive
+C01427,P0916,Social Anxiety,Not relevant to my experience,Negative
+C01428,P1045,Career Stress,Needed to hear this today,Positive
+C01429,P0584,Career Stress,Thanks for sharing,Neutral
+C01430,P0153,Self Confidence,So relatable,Positive
+C01431,P0675,Self Confidence,Thank you for explaining this,Positive
+C01432,P0675,Self Confidence,So relatable,Positive
+C01433,P0114,Burnout,Interesting perspective,Neutral
+C01434,P0887,Friendship,Thank you for explaining this,Positive
+C01435,P0057,Social Anxiety,Good information,Neutral
+C01436,P0540,Social Anxiety,This does not help me,Negative
+C01437,P0144,Dating,I feel understood,Positive
+C01438,P1084,Social Anxiety,I will think about this,Neutral
+C01439,P0592,Self Confidence,Interesting perspective,Neutral
+C01440,P0883,Career Stress,Interesting perspective,Neutral
+C01441,P1027,Loneliness,I feel understood,Positive
+C01442,P0567,Career Stress,So relatable,Positive
+C01443,P0467,Self Confidence,Can you explain more,Neutral
+C01444,P0905,Social Anxiety,Thanks for sharing,Neutral
+C01445,P1162,Loneliness,Thanks for sharing,Neutral
+C01446,P0761,Career Stress,Good information,Neutral
+C01447,P0808,Social Anxiety,Thanks for sharing,Neutral
+C01448,P1013,Career Stress,Good information,Neutral
+C01449,P0490,Dating,Not relevant to my experience,Negative
+C01450,P0308,Dating,I thought I was the only one,Positive
+C01451,P0811,Self Confidence,I feel understood,Positive
+C01452,P0438,Dating,I will think about this,Neutral
+C01453,P0529,Friendship,I will think about this,Neutral
+C01454,P0867,Career Stress,I will think about this,Neutral
+C01455,P0967,Career Stress,So relatable,Positive
+C01456,P0427,Career Stress,This made me feel seen,Positive
+C01457,P0977,Burnout,I feel understood,Positive
+C01458,P0783,Friendship,Good information,Neutral
+C01459,P0526,Loneliness,This does not help me,Negative
+C01460,P0263,Burnout,Interesting perspective,Neutral
+C01461,P0324,Dating,Needed to hear this today,Positive
+C01462,P0210,Burnout,Thanks for sharing,Neutral
+C01463,P0220,Loneliness,Interesting perspective,Neutral
+C01464,P0036,Friendship,So relatable,Positive
+C01465,P0664,Loneliness,I thought I was the only one,Positive
+C01466,P0802,Burnout,Good information,Neutral
+C01467,P0777,Burnout,Interesting perspective,Neutral
+C01468,P0368,Social Anxiety,Can you explain more,Neutral
+C01469,P0932,Social Anxiety,This made me feel seen,Positive
+C01470,P0781,Social Anxiety,Thanks for sharing,Neutral
+C01471,P0664,Loneliness,So relatable,Positive
+C01472,P0750,Burnout,Thanks for sharing,Neutral
+C01473,P1200,Career Stress,Interesting perspective,Neutral
+C01474,P1030,Career Stress,Needed to hear this today,Positive
+C01475,P1026,Dating,So relatable,Positive
+C01476,P0313,Self Confidence,So relatable,Positive
+C01477,P0782,Social Anxiety,Can you explain more,Neutral
+C01478,P0838,Self Confidence,Interesting perspective,Neutral
+C01479,P0313,Self Confidence,I see it differently,Negative
+C01480,P0949,Social Anxiety,I thought I was the only one,Positive
+C01481,P1051,Self Confidence,This does not help me,Negative
+C01482,P0246,Dating,Needed to hear this today,Positive
+C01483,P0715,Dating,Thank you for explaining this,Positive
+C01484,P0768,Burnout,So relatable,Positive
+C01485,P0933,Social Anxiety,Good information,Neutral
+C01486,P0597,Burnout,Thanks for sharing,Neutral
+C01487,P0686,Friendship,So relatable,Positive
+C01488,P0514,Career Stress,I will think about this,Neutral
+C01489,P0885,Loneliness,I will think about this,Neutral
+C01490,P0084,Loneliness,I thought I was the only one,Positive
+C01491,P0169,Loneliness,Needed to hear this today,Positive
+C01492,P0574,Loneliness,Needed to hear this today,Positive
+C01493,P0492,Career Stress,I do not agree with this,Negative
+C01494,P0168,Career Stress,Interesting perspective,Neutral
+C01495,P0309,Career Stress,Good information,Neutral
+C01496,P0668,Career Stress,Interesting perspective,Neutral
+C01497,P0251,Career Stress,I see it differently,Negative
+C01498,P0985,Friendship,I thought I was the only one,Positive
+C01499,P0401,Dating,So relatable,Positive
+C01500,P0240,Loneliness,Good information,Neutral
+C01501,P0637,Friendship,I see it differently,Negative
+C01502,P0150,Loneliness,Not relevant to my experience,Negative
+C01503,P0294,Friendship,So relatable,Positive
+C01504,P0500,Social Anxiety,Good information,Neutral
+C01505,P0686,Friendship,I feel understood,Positive
+C01506,P1084,Social Anxiety,Thanks for sharing,Neutral
+C01507,P0976,Loneliness,Interesting perspective,Neutral
+C01508,P0335,Loneliness,So relatable,Positive
+C01509,P0159,Friendship,Interesting perspective,Neutral
+C01510,P0584,Career Stress,Interesting perspective,Neutral
+C01511,P1003,Career Stress,Good information,Neutral
+C01512,P0083,Friendship,Needed to hear this today,Positive
+C01513,P0018,Burnout,Thank you for explaining this,Positive
+C01514,P0711,Loneliness,This does not help me,Negative
+C01515,P0989,Career Stress,I thought I was the only one,Positive
+C01516,P0288,Social Anxiety,I feel understood,Positive
+C01517,P1064,Career Stress,This made me feel seen,Positive
+C01518,P0021,Dating,I see it differently,Negative
+C01519,P0735,Friendship,I see it differently,Negative
+C01520,P0673,Dating,Interesting perspective,Neutral
+C01521,P0132,Loneliness,I do not agree with this,Negative
+C01522,P0387,Social Anxiety,I feel understood,Positive
+C01523,P0278,Burnout,I will think about this,Neutral
+C01524,P1174,Social Anxiety,Interesting perspective,Neutral
+C01525,P0087,Dating,I feel understood,Positive
+C01526,P0287,Dating,I do not agree with this,Negative
+C01527,P0044,Burnout,Needed to hear this today,Positive
+C01528,P0782,Social Anxiety,Good information,Neutral
+C01529,P0852,Friendship,I thought I was the only one,Positive
+C01530,P0132,Loneliness,I will think about this,Neutral
+C01531,P0737,Social Anxiety,Not relevant to my experience,Negative
+C01532,P0525,Friendship,I do not agree with this,Negative
+C01533,P1132,Self Confidence,I see it differently,Negative
+C01534,P0331,Career Stress,I thought I was the only one,Positive
+C01535,P0624,Loneliness,Not relevant to my experience,Negative
+C01536,P0200,Social Anxiety,I feel understood,Positive
+C01537,P0304,Loneliness,So relatable,Positive
+C01538,P0624,Loneliness,Good information,Neutral
+C01539,P1107,Career Stress,Thank you for explaining this,Positive
+C01540,P1087,Social Anxiety,I feel understood,Positive
+C01541,P0052,Burnout,Can you explain more,Neutral
+C01542,P1076,Dating,Can you explain more,Neutral
+C01543,P1074,Loneliness,So relatable,Positive
+C01544,P0771,Self Confidence,Interesting perspective,Neutral
+C01545,P0100,Dating,Good information,Neutral
+C01546,P0421,Friendship,Needed to hear this today,Positive
+C01547,P0235,Self Confidence,Good information,Neutral
+C01548,P0169,Loneliness,So relatable,Positive
+C01549,P0926,Self Confidence,I thought I was the only one,Positive
+C01550,P0611,Friendship,Interesting perspective,Neutral
+C01551,P0934,Friendship,I thought I was the only one,Positive
+C01552,P0336,Friendship,I feel understood,Positive
+C01553,P0555,Burnout,So relatable,Positive
+C01554,P1170,Self Confidence,I thought I was the only one,Positive
+C01555,P0590,Career Stress,I feel understood,Positive
+C01556,P0168,Career Stress,Not relevant to my experience,Negative
+C01557,P0607,Dating,Interesting perspective,Neutral
+C01558,P0961,Career Stress,This made me feel seen,Positive
+C01559,P0322,Loneliness,I feel understood,Positive
+C01560,P0282,Social Anxiety,I will think about this,Neutral
+C01561,P0220,Loneliness,Needed to hear this today,Positive
+C01562,P0290,Burnout,Can you explain more,Neutral
+C01563,P0725,Dating,Thanks for sharing,Neutral
+C01564,P0863,Loneliness,I do not agree with this,Negative
+C01565,P0403,Friendship,Thanks for sharing,Neutral
+C01566,P0470,Self Confidence,Good information,Neutral
+C01567,P0457,Self Confidence,I see it differently,Negative
+C01568,P0155,Social Anxiety,I thought I was the only one,Positive
+C01569,P0979,Friendship,Thank you for explaining this,Positive
+C01570,P0089,Dating,Thank you for explaining this,Positive
+C01571,P0264,Burnout,I will think about this,Neutral
+C01572,P0783,Friendship,So relatable,Positive
+C01573,P0654,Burnout,I will think about this,Neutral
+C01574,P0976,Loneliness,I will think about this,Neutral
+C01575,P0088,Social Anxiety,This made me feel seen,Positive
+C01576,P0408,Career Stress,Interesting perspective,Neutral
+C01577,P0051,Dating,So relatable,Positive
+C01578,P1060,Loneliness,I feel understood,Positive
+C01579,P0539,Friendship,Good information,Neutral
+C01580,P0394,Self Confidence,Needed to hear this today,Positive
+C01581,P0960,Dating,Good information,Neutral
+C01582,P0626,Dating,Thanks for sharing,Neutral
+C01583,P0253,Career Stress,So relatable,Positive
+C01584,P0553,Friendship,So relatable,Positive
+C01585,P1148,Career Stress,I will think about this,Neutral
+C01586,P0973,Burnout,Interesting perspective,Neutral
+C01587,P0069,Loneliness,This does not help me,Negative
+C01588,P1191,Burnout,So relatable,Positive
+C01589,P0974,Dating,Thank you for explaining this,Positive
+C01590,P0175,Dating,I see it differently,Negative
+C01591,P0137,Dating,Good information,Neutral
+C01592,P0929,Social Anxiety,So relatable,Positive
+C01593,P0314,Dating,I do not agree with this,Negative
+C01594,P0065,Social Anxiety,I thought I was the only one,Positive
+C01595,P0140,Career Stress,I do not agree with this,Negative
+C01596,P0590,Career Stress,I feel understood,Positive
+C01597,P1131,Self Confidence,Thanks for sharing,Neutral
+C01598,P0665,Self Confidence,This does not help me,Negative
+C01599,P0337,Career Stress,I will think about this,Neutral
+C01600,P0189,Friendship,Interesting perspective,Neutral
+C01601,P0480,Social Anxiety,I feel understood,Positive
+C01602,P0317,Dating,I feel understood,Positive
+C01603,P1041,Dating,I will think about this,Neutral
+C01604,P0196,Dating,This made me feel seen,Positive
+C01605,P0617,Burnout,This made me feel seen,Positive
+C01606,P0131,Burnout,I feel understood,Positive
+C01607,P0591,Career Stress,I feel understood,Positive
+C01608,P0825,Social Anxiety,Not relevant to my experience,Negative
+C01609,P0896,Dating,Not relevant to my experience,Negative
+C01610,P1132,Self Confidence,I will think about this,Neutral
+C01611,P1148,Career Stress,Thank you for explaining this,Positive
+C01612,P1177,Dating,Needed to hear this today,Positive
+C01613,P0433,Social Anxiety,I will think about this,Neutral
+C01614,P0385,Loneliness,Not relevant to my experience,Negative
+C01615,P0591,Career Stress,I do not agree with this,Negative
+C01616,P1060,Loneliness,This made me feel seen,Positive
+C01617,P1001,Dating,So relatable,Positive
+C01618,P0730,Social Anxiety,Good information,Neutral
+C01619,P0173,Self Confidence,Thank you for explaining this,Positive
+C01620,P0594,Social Anxiety,I thought I was the only one,Positive
+C01621,P0344,Dating,Needed to hear this today,Positive
+C01622,P0734,Loneliness,This does not help me,Negative
+C01623,P0037,Loneliness,I will think about this,Neutral
+C01624,P0574,Loneliness,Interesting perspective,Neutral
+C01625,P0045,Self Confidence,This made me feel seen,Positive
+C01626,P0531,Loneliness,This does not help me,Negative
+C01627,P0815,Social Anxiety,So relatable,Positive
+C01628,P0670,Burnout,Not relevant to my experience,Negative
+C01629,P0283,Social Anxiety,Interesting perspective,Neutral
+C01630,P0450,Social Anxiety,I thought I was the only one,Positive
+C01631,P0191,Career Stress,I feel understood,Positive
+C01632,P0521,Burnout,Thank you for explaining this,Positive
+C01633,P0338,Loneliness,Good information,Neutral
+C01634,P0406,Social Anxiety,I will think about this,Neutral
+C01635,P1128,Social Anxiety,Thank you for explaining this,Positive
+C01636,P0523,Friendship,Interesting perspective,Neutral
+C01637,P0661,Career Stress,Needed to hear this today,Positive
+C01638,P1042,Social Anxiety,I feel understood,Positive
+C01639,P0757,Burnout,I do not agree with this,Negative
+C01640,P0208,Friendship,Can you explain more,Neutral
+C01641,P0327,Social Anxiety,This made me feel seen,Positive
+C01642,P1162,Loneliness,So relatable,Positive
+C01643,P0894,Loneliness,Thank you for explaining this,Positive
+C01644,P0300,Dating,I thought I was the only one,Positive
+C01645,P0978,Social Anxiety,I thought I was the only one,Positive
+C01646,P0511,Dating,Good information,Neutral
+C01647,P0069,Loneliness,Interesting perspective,Neutral
+C01648,P0734,Loneliness,I thought I was the only one,Positive
+C01649,P0155,Social Anxiety,I will think about this,Neutral
+C01650,P0189,Friendship,So relatable,Positive
+C01651,P0495,Burnout,Interesting perspective,Neutral
+C01652,P0415,Career Stress,Can you explain more,Neutral
+C01653,P0753,Career Stress,I feel understood,Positive
+C01654,P0342,Dating,I will think about this,Neutral
+C01655,P0978,Social Anxiety,I thought I was the only one,Positive
+C01656,P0087,Dating,So relatable,Positive
+C01657,P0254,Social Anxiety,Good information,Neutral
+C01658,P1086,Loneliness,Can you explain more,Neutral
+C01659,P0115,Self Confidence,So relatable,Positive
+C01660,P0028,Social Anxiety,I feel understood,Positive
+C01661,P0939,Self Confidence,I feel understood,Positive
+C01662,P1191,Burnout,Thanks for sharing,Neutral
+C01663,P0399,Social Anxiety,This made me feel seen,Positive
+C01664,P1034,Career Stress,Interesting perspective,Neutral
+C01665,P0288,Social Anxiety,So relatable,Positive
+C01666,P0984,Dating,Needed to hear this today,Positive
+C01667,P0864,Career Stress,I feel understood,Positive
+C01668,P0471,Career Stress,Can you explain more,Neutral
+C01669,P1120,Loneliness,Not relevant to my experience,Negative
+C01670,P1128,Social Anxiety,Thanks for sharing,Neutral
+C01671,P0631,Loneliness,Can you explain more,Neutral
+C01672,P1097,Career Stress,Needed to hear this today,Positive
+C01673,P1125,Loneliness,This made me feel seen,Positive
+C01674,P1057,Social Anxiety,I will think about this,Neutral
+C01675,P0574,Loneliness,Thanks for sharing,Neutral
+C01676,P0980,Friendship,Thank you for explaining this,Positive
+C01677,P0513,Dating,Can you explain more,Neutral
+C01678,P0239,Burnout,Thanks for sharing,Neutral
+C01679,P0803,Career Stress,I thought I was the only one,Positive
+C01680,P1040,Social Anxiety,Good information,Neutral
+C01681,P0431,Friendship,I feel understood,Positive
+C01682,P1107,Career Stress,Not relevant to my experience,Negative
+C01683,P0299,Social Anxiety,Not relevant to my experience,Negative
+C01684,P0685,Self Confidence,I will think about this,Neutral
+C01685,P0295,Dating,I will think about this,Neutral
+C01686,P0080,Self Confidence,This does not help me,Negative
+C01687,P0455,Loneliness,Thank you for explaining this,Positive
+C01688,P0912,Dating,I thought I was the only one,Positive
+C01689,P0660,Social Anxiety,I feel understood,Positive
+C01690,P0356,Friendship,Thanks for sharing,Neutral
+C01691,P0029,Burnout,I do not agree with this,Negative
+C01692,P0606,Self Confidence,Needed to hear this today,Positive
+C01693,P0038,Social Anxiety,Thanks for sharing,Neutral
+C01694,P0983,Dating,So relatable,Positive
+C01695,P0289,Self Confidence,This does not help me,Negative
+C01696,P0726,Friendship,Good information,Neutral
+C01697,P0397,Self Confidence,This does not help me,Negative
+C01698,P0670,Burnout,Thank you for explaining this,Positive
+C01699,P1120,Loneliness,I see it differently,Negative
+C01700,P0542,Burnout,Good information,Neutral
+C01701,P1046,Loneliness,Can you explain more,Neutral
+C01702,P0959,Friendship,Interesting perspective,Neutral
+C01703,P0542,Burnout,Needed to hear this today,Positive
+C01704,P0040,Social Anxiety,I feel understood,Positive
+C01705,P0271,Dating,Thank you for explaining this,Positive
+C01706,P0585,Loneliness,This made me feel seen,Positive
+C01707,P1003,Career Stress,Needed to hear this today,Positive
+C01708,P0211,Career Stress,Thanks for sharing,Neutral
+C01709,P1172,Career Stress,Needed to hear this today,Positive
+C01710,P0999,Self Confidence,Needed to hear this today,Positive
+C01711,P0797,Friendship,This made me feel seen,Positive
+C01712,P0083,Friendship,Good information,Neutral
+C01713,P0048,Career Stress,I will think about this,Neutral
+C01714,P1123,Self Confidence,So relatable,Positive
+C01715,P0824,Friendship,Interesting perspective,Neutral
+C01716,P0031,Self Confidence,I thought I was the only one,Positive
+C01717,P1117,Social Anxiety,I feel understood,Positive
+C01718,P1089,Self Confidence,I do not agree with this,Negative
+C01719,P0707,Loneliness,I thought I was the only one,Positive
+C01720,P0651,Loneliness,This made me feel seen,Positive
+C01721,P0391,Dating,I will think about this,Neutral
+C01722,P0710,Social Anxiety,Needed to hear this today,Positive
+C01723,P0013,Social Anxiety,Thanks for sharing,Neutral
+C01724,P0426,Dating,I thought I was the only one,Positive
+C01725,P0151,Dating,Not relevant to my experience,Negative
+C01726,P0887,Friendship,I see it differently,Negative
+C01727,P0203,Dating,Can you explain more,Neutral
+C01728,P0484,Loneliness,I feel understood,Positive
+C01729,P0956,Social Anxiety,Needed to hear this today,Positive
+C01730,P0087,Dating,I see it differently,Negative
+C01731,P0219,Social Anxiety,Thank you for explaining this,Positive
+C01732,P0803,Career Stress,I feel understood,Positive
+C01733,P1011,Career Stress,Interesting perspective,Neutral
+C01734,P0959,Friendship,I see it differently,Negative
+C01735,P0154,Career Stress,I thought I was the only one,Positive
+C01736,P0860,Loneliness,Needed to hear this today,Positive
+C01737,P0730,Social Anxiety,I feel understood,Positive
+C01738,P0813,Career Stress,I thought I was the only one,Positive
+C01739,P1113,Social Anxiety,Not relevant to my experience,Negative
+C01740,P0869,Friendship,I thought I was the only one,Positive
+C01741,P0373,Loneliness,I will think about this,Neutral
+C01742,P0435,Social Anxiety,Needed to hear this today,Positive
+C01743,P0910,Burnout,I will think about this,Neutral
+C01744,P1080,Dating,I thought I was the only one,Positive
+C01745,P0017,Dating,I thought I was the only one,Positive
+C01746,P0761,Career Stress,This made me feel seen,Positive
+C01747,P0629,Loneliness,This made me feel seen,Positive
+C01748,P0726,Friendship,Needed to hear this today,Positive
+C01749,P0088,Social Anxiety,Thank you for explaining this,Positive
+C01750,P0101,Burnout,I see it differently,Negative
+C01751,P0920,Dating,I feel understood,Positive
+C01752,P0043,Self Confidence,Thanks for sharing,Neutral
+C01753,P1076,Dating,This made me feel seen,Positive
+C01754,P0578,Loneliness,Interesting perspective,Neutral
+C01755,P0887,Friendship,Thank you for explaining this,Positive
+C01756,P1096,Career Stress,I will think about this,Neutral
+C01757,P0934,Friendship,This made me feel seen,Positive
+C01758,P0311,Burnout,I do not agree with this,Negative
+C01759,P1091,Loneliness,Good information,Neutral
+C01760,P0153,Self Confidence,Thank you for explaining this,Positive
+C01761,P0148,Social Anxiety,I see it differently,Negative
+C01762,P0025,Dating,Thank you for explaining this,Positive
+C01763,P1048,Dating,This made me feel seen,Positive
+C01764,P0436,Dating,Interesting perspective,Neutral
+C01765,P0771,Self Confidence,I see it differently,Negative
+C01766,P0540,Social Anxiety,I thought I was the only one,Positive
+C01767,P0724,Social Anxiety,I do not agree with this,Negative
+C01768,P0198,Loneliness,Good information,Neutral
+C01769,P0882,Self Confidence,Can you explain more,Neutral
+C01770,P0163,Career Stress,I thought I was the only one,Positive
+C01771,P0718,Burnout,I thought I was the only one,Positive
+C01772,P0683,Burnout,So relatable,Positive
+C01773,P0695,Career Stress,Good information,Neutral
+C01774,P0359,Self Confidence,Not relevant to my experience,Negative
+C01775,P0453,Self Confidence,Thanks for sharing,Neutral
+C01776,P0513,Dating,Interesting perspective,Neutral
+C01777,P1117,Social Anxiety,So relatable,Positive
+C01778,P0552,Career Stress,Interesting perspective,Neutral
+C01779,P0944,Burnout,Good information,Neutral
+C01780,P0936,Friendship,Can you explain more,Neutral
+C01781,P0688,Career Stress,So relatable,Positive
+C01782,P0381,Dating,Can you explain more,Neutral
+C01783,P0240,Loneliness,Thank you for explaining this,Positive
+C01784,P1054,Social Anxiety,This does not help me,Negative
+C01785,P0460,Career Stress,I feel understood,Positive
+C01786,P0452,Burnout,I feel understood,Positive
+C01787,P1185,Dating,I feel understood,Positive
+C01788,P0704,Self Confidence,This does not help me,Negative
+C01789,P0725,Dating,Interesting perspective,Neutral
+C01790,P0531,Loneliness,Needed to hear this today,Positive
+C01791,P1174,Social Anxiety,I will think about this,Neutral
+C01792,P0818,Dating,I see it differently,Negative
+C01793,P0146,Dating,This made me feel seen,Positive
+C01794,P0907,Self Confidence,Thanks for sharing,Neutral
+C01795,P1154,Social Anxiety,This made me feel seen,Positive
+C01796,P0044,Burnout,Thank you for explaining this,Positive
+C01797,P0912,Dating,Thank you for explaining this,Positive
+C01798,P0385,Loneliness,This made me feel seen,Positive
+C01799,P0634,Burnout,Interesting perspective,Neutral
+C01800,P0414,Self Confidence,Interesting perspective,Neutral
+C01801,P0473,Burnout,Thank you for explaining this,Positive
+C01802,P0780,Social Anxiety,I see it differently,Negative
+C01803,P0130,Career Stress,I do not agree with this,Negative
+C01804,P1198,Dating,Thanks for sharing,Neutral
+C01805,P1097,Career Stress,Interesting perspective,Neutral
+C01806,P0082,Friendship,I see it differently,Negative
+C01807,P0252,Self Confidence,I feel understood,Positive
+C01808,P0538,Loneliness,So relatable,Positive
+C01809,P0468,Career Stress,This made me feel seen,Positive
+C01810,P1145,Self Confidence,I will think about this,Neutral
+C01811,P0165,Social Anxiety,I do not agree with this,Negative
+C01812,P0574,Loneliness,Thank you for explaining this,Positive
+C01813,P0975,Career Stress,Can you explain more,Neutral
+C01814,P0873,Career Stress,Thank you for explaining this,Positive
+C01815,P0364,Self Confidence,So relatable,Positive
+C01816,P0435,Social Anxiety,So relatable,Positive
+C01817,P0871,Career Stress,I thought I was the only one,Positive
+C01818,P1184,Self Confidence,So relatable,Positive
+C01819,P0908,Self Confidence,Needed to hear this today,Positive
+C01820,P0985,Friendship,I feel understood,Positive
+C01821,P1146,Burnout,Needed to hear this today,Positive
+C01822,P0514,Career Stress,Thank you for explaining this,Positive
+C01823,P0091,Dating,This does not help me,Negative
+C01824,P1001,Dating,Good information,Neutral
+C01825,P0692,Burnout,This does not help me,Negative
+C01826,P0253,Career Stress,I will think about this,Neutral
+C01827,P0458,Self Confidence,I see it differently,Negative
+C01828,P0854,Social Anxiety,I feel understood,Positive
+C01829,P0591,Career Stress,I will think about this,Neutral
+C01830,P0751,Self Confidence,So relatable,Positive
+C01831,P0104,Career Stress,Thanks for sharing,Neutral
+C01832,P0269,Self Confidence,So relatable,Positive
+C01833,P1152,Social Anxiety,So relatable,Positive
+C01834,P0060,Friendship,Can you explain more,Neutral
+C01835,P0521,Burnout,So relatable,Positive
+C01836,P0121,Social Anxiety,This made me feel seen,Positive
+C01837,P0961,Career Stress,Not relevant to my experience,Negative
+C01838,P0914,Self Confidence,Good information,Neutral
+C01839,P1149,Career Stress,I thought I was the only one,Positive
+C01840,P0361,Dating,I will think about this,Neutral
+C01841,P0409,Loneliness,Interesting perspective,Neutral
+C01842,P0757,Burnout,Thank you for explaining this,Positive
+C01843,P0125,Social Anxiety,Interesting perspective,Neutral
+C01844,P0445,Burnout,This made me feel seen,Positive
+C01845,P0427,Career Stress,I see it differently,Negative
+C01846,P0211,Career Stress,Needed to hear this today,Positive
+C01847,P1109,Self Confidence,Needed to hear this today,Positive
+C01848,P0062,Loneliness,I will think about this,Neutral
+C01849,P0641,Dating,Can you explain more,Neutral
+C01850,P0273,Loneliness,Thanks for sharing,Neutral
+C01851,P1162,Loneliness,I feel understood,Positive
+C01852,P1129,Career Stress,This does not help me,Negative
+C01853,P0316,Friendship,Needed to hear this today,Positive
+C01854,P0750,Burnout,This made me feel seen,Positive
+C01855,P0805,Social Anxiety,So relatable,Positive
+C01856,P0022,Burnout,I thought I was the only one,Positive
+C01857,P0329,Friendship,Not relevant to my experience,Negative
+C01858,P1167,Social Anxiety,Good information,Neutral
+C01859,P0159,Friendship,Thank you for explaining this,Positive
+C01860,P0511,Dating,I thought I was the only one,Positive
+C01861,P0020,Loneliness,This does not help me,Negative
+C01862,P0316,Friendship,This does not help me,Negative
+C01863,P0069,Loneliness,This made me feel seen,Positive
+C01864,P0688,Career Stress,Needed to hear this today,Positive
+C01865,P0738,Loneliness,Thanks for sharing,Neutral
+C01866,P0737,Social Anxiety,This does not help me,Negative
+C01867,P0048,Career Stress,I will think about this,Neutral
+C01868,P1083,Loneliness,I feel understood,Positive
+C01869,P0290,Burnout,I thought I was the only one,Positive
+C01870,P0383,Career Stress,Can you explain more,Neutral
+C01871,P0399,Social Anxiety,Not relevant to my experience,Negative
+C01872,P1137,Dating,Thanks for sharing,Neutral
+C01873,P0154,Career Stress,Can you explain more,Neutral
+C01874,P0054,Dating,I thought I was the only one,Positive
+C01875,P0013,Social Anxiety,Thanks for sharing,Neutral
+C01876,P0164,Self Confidence,Needed to hear this today,Positive
+C01877,P0147,Career Stress,Good information,Neutral
+C01878,P0454,Dating,I will think about this,Neutral
+C01879,P0762,Career Stress,So relatable,Positive
+C01880,P0382,Dating,Thank you for explaining this,Positive
+C01881,P0855,Burnout,I do not agree with this,Negative
+C01882,P0881,Loneliness,Good information,Neutral
+C01883,P0796,Self Confidence,Can you explain more,Neutral
+C01884,P0629,Loneliness,This made me feel seen,Positive
+C01885,P0431,Friendship,This made me feel seen,Positive
+C01886,P0117,Social Anxiety,Interesting perspective,Neutral
+C01887,P1037,Loneliness,Thanks for sharing,Neutral
+C01888,P0849,Loneliness,I feel understood,Positive
+C01889,P0172,Social Anxiety,Thank you for explaining this,Positive
+C01890,P0424,Social Anxiety,I will think about this,Neutral
+C01891,P0697,Social Anxiety,Needed to hear this today,Positive
+C01892,P0894,Loneliness,I feel understood,Positive
+C01893,P0454,Dating,Thank you for explaining this,Positive
+C01894,P0442,Social Anxiety,So relatable,Positive
+C01895,P0090,Friendship,This made me feel seen,Positive
+C01896,P0496,Social Anxiety,Thanks for sharing,Neutral
+C01897,P0573,Career Stress,Thank you for explaining this,Positive
+C01898,P1138,Social Anxiety,Needed to hear this today,Positive
+C01899,P1020,Social Anxiety,Good information,Neutral
+C01900,P0892,Career Stress,I see it differently,Negative
+C01901,P0915,Friendship,Needed to hear this today,Positive
+C01902,P0573,Career Stress,I feel understood,Positive
+C01903,P0158,Career Stress,This made me feel seen,Positive
+C01904,P0914,Self Confidence,Good information,Neutral
+C01905,P0918,Career Stress,I feel understood,Positive
+C01906,P1200,Career Stress,I thought I was the only one,Positive
+C01907,P1123,Self Confidence,Thank you for explaining this,Positive
+C01908,P0227,Dating,I will think about this,Neutral
+C01909,P1053,Social Anxiety,Good information,Neutral
+C01910,P0956,Social Anxiety,Can you explain more,Neutral
+C01911,P0408,Career Stress,Thanks for sharing,Neutral
+C01912,P0106,Dating,I will think about this,Neutral
+C01913,P1043,Career Stress,I do not agree with this,Negative
+C01914,P0448,Loneliness,I will think about this,Neutral
+C01915,P0613,Loneliness,I will think about this,Neutral
+C01916,P0560,Friendship,Needed to hear this today,Positive
+C01917,P0917,Burnout,Interesting perspective,Neutral
+C01918,P0904,Dating,So relatable,Positive
+C01919,P0447,Social Anxiety,Thanks for sharing,Neutral
+C01920,P0574,Loneliness,I see it differently,Negative
+C01921,P0569,Friendship,This does not help me,Negative
+C01922,P0852,Friendship,I thought I was the only one,Positive
+C01923,P0331,Career Stress,Thank you for explaining this,Positive
+C01924,P1112,Dating,Thank you for explaining this,Positive
+C01925,P1021,Friendship,Thanks for sharing,Neutral
+C01926,P0718,Burnout,This made me feel seen,Positive
+C01927,P0718,Burnout,This made me feel seen,Positive
+C01928,P0916,Social Anxiety,Thank you for explaining this,Positive
+C01929,P0336,Friendship,Good information,Neutral
+C01930,P0300,Dating,Can you explain more,Neutral
+C01931,P0110,Friendship,Not relevant to my experience,Negative
+C01932,P0555,Burnout,Interesting perspective,Neutral
+C01933,P1150,Dating,Interesting perspective,Neutral
+C01934,P0310,Social Anxiety,So relatable,Positive
+C01935,P1005,Career Stress,This made me feel seen,Positive
+C01936,P0073,Social Anxiety,Interesting perspective,Neutral
+C01937,P0829,Self Confidence,Interesting perspective,Neutral
+C01938,P0587,Dating,I feel understood,Positive
+C01939,P0059,Self Confidence,This made me feel seen,Positive
+C01940,P0775,Loneliness,I feel understood,Positive
+C01941,P0418,Self Confidence,I do not agree with this,Negative
+C01942,P0601,Career Stress,Needed to hear this today,Positive
+C01943,P0488,Dating,I see it differently,Negative
+C01944,P0194,Career Stress,Needed to hear this today,Positive
+C01945,P1156,Career Stress,Needed to hear this today,Positive
+C01946,P0419,Social Anxiety,Needed to hear this today,Positive
+C01947,P0376,Burnout,Good information,Neutral
+C01948,P0573,Career Stress,I see it differently,Negative
+C01949,P0589,Social Anxiety,This made me feel seen,Positive
+C01950,P0167,Career Stress,So relatable,Positive
+C01951,P0748,Self Confidence,Interesting perspective,Neutral
+C01952,P0016,Social Anxiety,Needed to hear this today,Positive
+C01953,P1175,Dating,Not relevant to my experience,Negative
+C01954,P0671,Burnout,Thank you for explaining this,Positive
+C01955,P0055,Friendship,Not relevant to my experience,Negative
+C01956,P0690,Self Confidence,Interesting perspective,Neutral
+C01957,P0717,Burnout,Good information,Neutral
+C01958,P0584,Career Stress,I do not agree with this,Negative
+C01959,P0530,Self Confidence,I thought I was the only one,Positive
+C01960,P1135,Dating,This made me feel seen,Positive
+C01961,P0430,Self Confidence,Interesting perspective,Neutral
+C01962,P0301,Loneliness,I feel understood,Positive
+C01963,P0131,Burnout,I see it differently,Negative
+C01964,P0947,Burnout,Interesting perspective,Neutral
+C01965,P0076,Social Anxiety,I will think about this,Neutral
+C01966,P1009,Burnout,Not relevant to my experience,Negative
+C01967,P0882,Self Confidence,Thank you for explaining this,Positive
+C01968,P1042,Social Anxiety,Thanks for sharing,Neutral
+C01969,P0469,Self Confidence,Needed to hear this today,Positive
+C01970,P1187,Dating,I do not agree with this,Negative
+C01971,P0571,Burnout,Thank you for explaining this,Positive
+C01972,P0893,Burnout,I thought I was the only one,Positive
+C01973,P0833,Dating,Interesting perspective,Neutral
+C01974,P0049,Loneliness,I do not agree with this,Negative
+C01975,P0708,Dating,I thought I was the only one,Positive
+C01976,P0244,Loneliness,I feel understood,Positive
+C01977,P0026,Social Anxiety,Needed to hear this today,Positive
+C01978,P0729,Self Confidence,So relatable,Positive
+C01979,P0332,Loneliness,I will think about this,Neutral
+C01980,P0886,Social Anxiety,I will think about this,Neutral
+C01981,P0158,Career Stress,Good information,Neutral
+C01982,P0251,Career Stress,Can you explain more,Neutral
+C01983,P0579,Friendship,So relatable,Positive
+C01984,P0698,Friendship,Thank you for explaining this,Positive
+C01985,P0860,Loneliness,So relatable,Positive
+C01986,P0391,Dating,This made me feel seen,Positive
+C01987,P0059,Self Confidence,This made me feel seen,Positive
+C01988,P0756,Social Anxiety,Interesting perspective,Neutral
+C01989,P0101,Burnout,This does not help me,Negative
+C01990,P0712,Self Confidence,Thank you for explaining this,Positive
+C01991,P0282,Social Anxiety,Needed to hear this today,Positive
+C01992,P1115,Self Confidence,Thanks for sharing,Neutral
+C01993,P0134,Dating,Good information,Neutral
+C01994,P0460,Career Stress,Thanks for sharing,Neutral
+C01995,P1115,Self Confidence,Thanks for sharing,Neutral
+C01996,P1195,Burnout,I feel understood,Positive
+C01997,P0834,Loneliness,Good information,Neutral
+C01998,P0843,Friendship,Needed to hear this today,Positive
+C01999,P0821,Loneliness,Thank you for explaining this,Positive
+C02000,P0621,Dating,Thanks for sharing,Neutral
+C02001,P0331,Career Stress,Needed to hear this today,Positive
+C02002,P0896,Dating,I feel understood,Positive
+C02003,P0821,Loneliness,Can you explain more,Neutral
+C02004,P0252,Self Confidence,Interesting perspective,Neutral
+C02005,P0626,Dating,Good information,Neutral
+C02006,P0856,Loneliness,Not relevant to my experience,Negative
+C02007,P0081,Career Stress,I feel understood,Positive
+C02008,P0307,Self Confidence,Thanks for sharing,Neutral
+C02009,P0310,Social Anxiety,I will think about this,Neutral
+C02010,P0997,Friendship,This does not help me,Negative
+C02011,P1161,Dating,Needed to hear this today,Positive
+C02012,P0164,Self Confidence,So relatable,Positive
+C02013,P0781,Social Anxiety,So relatable,Positive
+C02014,P1037,Loneliness,I see it differently,Negative
+C02015,P0074,Friendship,Thanks for sharing,Neutral
+C02016,P0944,Burnout,Thank you for explaining this,Positive
+C02017,P0814,Friendship,Good information,Neutral
+C02018,P0106,Dating,I do not agree with this,Negative
+C02019,P0991,Friendship,Needed to hear this today,Positive
+C02020,P0711,Loneliness,Interesting perspective,Neutral
+C02021,P0062,Loneliness,I feel understood,Positive
+C02022,P0542,Burnout,This made me feel seen,Positive
+C02023,P1107,Career Stress,So relatable,Positive
+C02024,P1075,Career Stress,Needed to hear this today,Positive
+C02025,P1143,Loneliness,Can you explain more,Neutral
+C02026,P0668,Career Stress,So relatable,Positive
+C02027,P1194,Social Anxiety,Needed to hear this today,Positive
+C02028,P0720,Friendship,So relatable,Positive
+C02029,P0622,Career Stress,Interesting perspective,Neutral
+C02030,P1108,Career Stress,Thanks for sharing,Neutral
+C02031,P0175,Dating,Needed to hear this today,Positive
+C02032,P0157,Dating,So relatable,Positive
+C02033,P0338,Loneliness,Interesting perspective,Neutral
+C02034,P0658,Self Confidence,This does not help me,Negative
+C02035,P1188,Dating,I do not agree with this,Negative
+C02036,P0760,Dating,Thank you for explaining this,Positive
+C02037,P0735,Friendship,Can you explain more,Neutral
+C02038,P0125,Social Anxiety,Needed to hear this today,Positive
+C02039,P0738,Loneliness,I will think about this,Neutral
+C02040,P0398,Loneliness,I see it differently,Negative
+C02041,P1048,Dating,I will think about this,Neutral
+C02042,P0767,Career Stress,Not relevant to my experience,Negative
+C02043,P0762,Career Stress,So relatable,Positive
+C02044,P1103,Dating,So relatable,Positive
+C02045,P0281,Friendship,I will think about this,Neutral
+C02046,P0486,Loneliness,So relatable,Positive
+C02047,P0680,Self Confidence,So relatable,Positive
+C02048,P0922,Self Confidence,Good information,Neutral
+C02049,P0290,Burnout,Needed to hear this today,Positive
+C02050,P0204,Friendship,So relatable,Positive
+C02051,P1082,Self Confidence,I see it differently,Negative
+C02052,P0494,Social Anxiety,Thank you for explaining this,Positive
+C02053,P0680,Self Confidence,I do not agree with this,Negative
+C02054,P0127,Social Anxiety,I feel understood,Positive
+C02055,P0915,Friendship,Thank you for explaining this,Positive
+C02056,P0688,Career Stress,I do not agree with this,Negative
+C02057,P0717,Burnout,I see it differently,Negative
+C02058,P0645,Self Confidence,Interesting perspective,Neutral
+C02059,P0081,Career Stress,I will think about this,Neutral
+C02060,P1104,Burnout,Can you explain more,Neutral
+C02061,P0917,Burnout,Interesting perspective,Neutral
+C02062,P0110,Friendship,I feel understood,Positive
+C02063,P0015,Social Anxiety,Interesting perspective,Neutral
+C02064,P0579,Friendship,So relatable,Positive
+C02065,P0009,Self Confidence,Interesting perspective,Neutral
+C02066,P0288,Social Anxiety,Thanks for sharing,Neutral
+C02067,P0713,Career Stress,So relatable,Positive
+C02068,P0904,Dating,Can you explain more,Neutral
+C02069,P1080,Dating,Can you explain more,Neutral
+C02070,P0318,Loneliness,Needed to hear this today,Positive
+C02071,P0180,Social Anxiety,Needed to hear this today,Positive
+C02072,P0887,Friendship,Needed to hear this today,Positive
+C02073,P1002,Friendship,Thank you for explaining this,Positive
+C02074,P1074,Loneliness,I will think about this,Neutral
+C02075,P0704,Self Confidence,Interesting perspective,Neutral
+C02076,P0247,Social Anxiety,This does not help me,Negative
+C02077,P0073,Social Anxiety,I see it differently,Negative
+C02078,P0058,Friendship,Not relevant to my experience,Negative
+C02079,P0890,Loneliness,Not relevant to my experience,Negative
+C02080,P0588,Career Stress,I do not agree with this,Negative
+C02081,P0596,Career Stress,So relatable,Positive
+C02082,P0899,Loneliness,I will think about this,Neutral
+C02083,P0433,Social Anxiety,I feel understood,Positive
+C02084,P0407,Social Anxiety,Can you explain more,Neutral
+C02085,P0617,Burnout,Interesting perspective,Neutral
+C02086,P0833,Dating,So relatable,Positive
+C02087,P0370,Burnout,Thank you for explaining this,Positive
+C02088,P0480,Social Anxiety,I see it differently,Negative
+C02089,P0611,Friendship,Can you explain more,Neutral
+C02090,P0163,Career Stress,Needed to hear this today,Positive
+C02091,P0493,Self Confidence,I feel understood,Positive
+C02092,P0130,Career Stress,Needed to hear this today,Positive
+C02093,P0565,Loneliness,Good information,Neutral
+C02094,P0344,Dating,This made me feel seen,Positive
+C02095,P0471,Career Stress,This made me feel seen,Positive
+C02096,P0457,Self Confidence,Can you explain more,Neutral
+C02097,P0743,Loneliness,So relatable,Positive
+C02098,P0067,Dating,Good information,Neutral
+C02099,P0961,Career Stress,Needed to hear this today,Positive
+C02100,P0945,Career Stress,Thank you for explaining this,Positive
+C02101,P0933,Social Anxiety,I will think about this,Neutral
+C02102,P0768,Burnout,I feel understood,Positive
+C02103,P0777,Burnout,I do not agree with this,Negative
+C02104,P1162,Loneliness,Needed to hear this today,Positive
+C02105,P0291,Dating,So relatable,Positive
+C02106,P0733,Social Anxiety,Not relevant to my experience,Negative
+C02107,P0845,Dating,Thank you for explaining this,Positive
+C02108,P0522,Burnout,I will think about this,Neutral
+C02109,P0649,Career Stress,Interesting perspective,Neutral
+C02110,P0277,Loneliness,This made me feel seen,Positive
+C02111,P0021,Dating,So relatable,Positive
+C02112,P1073,Loneliness,Interesting perspective,Neutral
+C02113,P0368,Social Anxiety,Thanks for sharing,Neutral
+C02114,P1069,Dating,Thanks for sharing,Neutral
+C02115,P0016,Social Anxiety,I feel understood,Positive
+C02116,P0315,Loneliness,Thank you for explaining this,Positive
+C02117,P1101,Career Stress,I thought I was the only one,Positive
+C02118,P0806,Loneliness,I thought I was the only one,Positive
+C02119,P0177,Friendship,Good information,Neutral
+C02120,P0886,Social Anxiety,I see it differently,Negative
+C02121,P1071,Friendship,Needed to hear this today,Positive
+C02122,P0613,Loneliness,Interesting perspective,Neutral
+C02123,P0676,Career Stress,I feel understood,Positive
+C02124,P0397,Self Confidence,I thought I was the only one,Positive
+C02125,P1192,Dating,I feel understood,Positive
+C02126,P0789,Career Stress,Thank you for explaining this,Positive
+C02127,P0661,Career Stress,Needed to hear this today,Positive
+C02128,P0074,Friendship,Good information,Neutral
+C02129,P1121,Dating,Needed to hear this today,Positive
+C02130,P1025,Dating,This made me feel seen,Positive
+C02131,P0389,Dating,This made me feel seen,Positive
+C02132,P0646,Career Stress,Good information,Neutral
+C02133,P0471,Career Stress,Good information,Neutral
+C02134,P1175,Dating,I see it differently,Negative
+C02135,P0842,Social Anxiety,I thought I was the only one,Positive
+C02136,P0562,Loneliness,I do not agree with this,Negative
+C02137,P0983,Dating,This made me feel seen,Positive
+C02138,P0139,Social Anxiety,Can you explain more,Neutral
+C02139,P0690,Self Confidence,Can you explain more,Neutral
+C02140,P0312,Social Anxiety,Not relevant to my experience,Negative
+C02141,P0772,Dating,I do not agree with this,Negative
+C02142,P0089,Dating,So relatable,Positive
+C02143,P0413,Loneliness,I see it differently,Negative
+C02144,P0566,Dating,I see it differently,Negative
+C02145,P0393,Loneliness,Needed to hear this today,Positive
+C02146,P0167,Career Stress,I do not agree with this,Negative
+C02147,P0455,Loneliness,I see it differently,Negative
+C02148,P0611,Friendship,I will think about this,Neutral
+C02149,P0974,Dating,This made me feel seen,Positive
+C02150,P0866,Social Anxiety,Can you explain more,Neutral
+C02151,P0019,Dating,I do not agree with this,Negative
+C02152,P0899,Loneliness,Thank you for explaining this,Positive
+C02153,P0538,Loneliness,I will think about this,Neutral
+C02154,P0100,Dating,Thank you for explaining this,Positive
+C02155,P0809,Self Confidence,Needed to hear this today,Positive
+C02156,P0223,Social Anxiety,Can you explain more,Neutral
+C02157,P0502,Friendship,I see it differently,Negative
+C02158,P0485,Career Stress,I do not agree with this,Negative
+C02159,P0771,Self Confidence,This made me feel seen,Positive
+C02160,P0402,Social Anxiety,Not relevant to my experience,Negative
+C02161,P0814,Friendship,I will think about this,Neutral
+C02162,P0274,Loneliness,I thought I was the only one,Positive
+C02163,P0798,Social Anxiety,Interesting perspective,Neutral
+C02164,P0647,Career Stress,Needed to hear this today,Positive
+C02165,P1186,Dating,Can you explain more,Neutral
+C02166,P0443,Social Anxiety,Thank you for explaining this,Positive
+C02167,P0965,Burnout,Thanks for sharing,Neutral
+C02168,P0037,Loneliness,Thank you for explaining this,Positive
+C02169,P1098,Career Stress,I do not agree with this,Negative
+C02170,P1027,Loneliness,Thank you for explaining this,Positive
+C02171,P0588,Career Stress,Can you explain more,Neutral
+C02172,P0108,Burnout,This made me feel seen,Positive
+C02173,P0099,Self Confidence,I will think about this,Neutral
+C02174,P0443,Social Anxiety,Interesting perspective,Neutral
+C02175,P0903,Dating,Can you explain more,Neutral
+C02176,P0586,Career Stress,I thought I was the only one,Positive
+C02177,P1047,Loneliness,I do not agree with this,Negative
+C02178,P0056,Burnout,Good information,Neutral
+C02179,P0609,Self Confidence,Interesting perspective,Neutral
+C02180,P1110,Dating,Can you explain more,Neutral
+C02181,P0632,Self Confidence,Thanks for sharing,Neutral
+C02182,P0888,Career Stress,This made me feel seen,Positive
+C02183,P0476,Loneliness,Thank you for explaining this,Positive
+C02184,P0861,Self Confidence,I do not agree with this,Negative
+C02185,P0040,Social Anxiety,Thanks for sharing,Neutral
+C02186,P0627,Loneliness,I will think about this,Neutral
+C02187,P0561,Dating,Interesting perspective,Neutral
+C02188,P0261,Social Anxiety,So relatable,Positive
+C02189,P0544,Burnout,I see it differently,Negative
+C02190,P0075,Loneliness,This made me feel seen,Positive
+C02191,P0934,Friendship,Thank you for explaining this,Positive
+C02192,P1200,Career Stress,Thank you for explaining this,Positive
+C02193,P0708,Dating,Interesting perspective,Neutral
+C02194,P0490,Dating,I feel understood,Positive
+C02195,P1061,Career Stress,I feel understood,Positive
+C02196,P1139,Dating,Interesting perspective,Neutral
+C02197,P1144,Loneliness,Thanks for sharing,Neutral
+C02198,P0176,Social Anxiety,Thanks for sharing,Neutral
+C02199,P0285,Loneliness,Thanks for sharing,Neutral
+C02200,P0496,Social Anxiety,I feel understood,Positive

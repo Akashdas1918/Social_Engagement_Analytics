@@ -1,0 +1,1201 @@
+post_id,date,topic,content_format,hook_type,caption_length,reach,likes,comments,shares,saves,retention_rate,followers_gained
+P0001,2025-04-01,Friendship,Static Image,Text,Medium,25828,651,368,408,507,34.8,134
+P0002,2025-05-29,Burnout,Carousel,Story,Medium,12371,624,170,54,398,34.4,60
+P0003,2025-03-07,Career Stress,Short Video,Story,Medium,26847,1509,379,120,287,52.2,70
+P0004,2025-03-26,Dating,Long Video,Story,Medium,2752,68,19,14,42,43.9,14
+P0005,2025-03-26,Friendship,Carousel,Story,Long,11930,770,47,73,35,38.5,24
+P0006,2025-04-13,Friendship,Static Image,Question,Medium,15415,266,104,105,149,31.0,41
+P0007,2025-06-04,Loneliness,Short Video,Question,Long,9466,500,50,106,244,33.4,47
+P0008,2025-04-11,Dating,Carousel,Text,Medium,4225,416,51,126,45,30.6,30
+P0009,2025-04-20,Self Confidence,Static Image,Text,Long,5257,151,57,53,57,29.9,19
+P0010,2025-06-23,Social Anxiety,Carousel,Text,Short,10498,1313,116,452,447,43.9,134
+P0011,2025-03-30,Dating,Short Video,Visual,Medium,27126,1316,237,528,268,29.6,131
+P0012,2025-04-16,Career Stress,Static Image,Text,Medium,4636,117,33,11,62,45.0,15
+P0013,2025-03-26,Social Anxiety,Short Video,Question,Long,5532,675,81,167,38,29.4,33
+P0014,2025-03-30,Social Anxiety,Long Video,Text,Medium,20298,1780,274,233,342,30.0,83
+P0015,2025-06-18,Social Anxiety,Carousel,Story,Short,26936,1696,103,485,294,38.4,135
+P0016,2025-02-11,Social Anxiety,Long Video,Question,Long,29267,1305,169,450,530,24.2,153
+P0017,2025-06-02,Dating,Static Image,Question,Long,8050,295,22,99,246,37.1,59
+P0018,2025-02-26,Burnout,Long Video,Visual,Medium,14351,1202,141,73,409,37.2,60
+P0019,2025-02-27,Dating,Short Video,Visual,Short,25017,911,288,549,206,36.3,130
+P0020,2025-01-03,Loneliness,Long Video,Text,Short,28063,811,310,116,402,24.9,67
+P0021,2025-04-02,Dating,Long Video,Story,Short,21604,798,94,556,327,31.1,148
+P0022,2025-06-16,Burnout,Static Image,Question,Short,28828,1013,201,73,112,37.7,43
+P0023,2025-03-02,Loneliness,Short Video,Story,Long,24228,2654,79,157,886,39.2,127
+P0024,2025-04-19,Loneliness,Static Image,Story,Long,22723,931,166,320,498,17.4,132
+P0025,2025-06-14,Dating,Long Video,Question,Long,24588,493,193,90,424,23.2,69
+P0026,2025-01-28,Social Anxiety,Long Video,Visual,Short,17533,364,39,83,61,40.7,31
+P0027,2025-06-20,Career Stress,Long Video,Text,Long,15383,1403,47,107,164,60.1,50
+P0028,2025-04-05,Social Anxiety,Carousel,Visual,Medium,27811,2191,78,644,157,46.1,141
+P0029,2025-05-22,Burnout,Carousel,Story,Medium,23494,2584,141,489,576,52.7,148
+P0030,2025-01-26,Self Confidence,Carousel,Visual,Short,2303,149,16,29,36,31.1,13
+P0031,2025-04-10,Self Confidence,Short Video,Text,Long,28491,2846,366,724,1310,52.3,295
+P0032,2025-05-13,Self Confidence,Static Image,Visual,Short,5713,261,58,18,73,44.0,25
+P0033,2025-05-10,Social Anxiety,Static Image,Story,Long,4553,417,62,108,132,22.8,39
+P0034,2025-01-31,Social Anxiety,Static Image,Question,Medium,5447,318,48,71,121,40.0,39
+P0035,2025-05-13,Loneliness,Short Video,Story,Long,4032,133,54,50,104,56.8,30
+P0036,2025-03-07,Friendship,Long Video,Question,Short,23959,628,77,419,264,33.5,118
+P0037,2025-06-08,Loneliness,Long Video,Story,Medium,23518,1217,437,455,706,41.6,182
+P0038,2025-05-04,Social Anxiety,Static Image,Text,Medium,1455,47,13,7,13,25.5,9
+P0039,2025-05-03,Burnout,Static Image,Story,Medium,3762,359,28,92,25,36.7,27
+P0040,2025-01-26,Social Anxiety,Long Video,Visual,Short,13872,677,296,305,71,33.6,71
+P0041,2025-03-22,Loneliness,Long Video,Story,Long,7537,286,147,232,237,48.1,80
+P0042,2025-04-01,Dating,Short Video,Visual,Short,21072,2137,506,180,739,36.3,123
+P0043,2025-05-19,Self Confidence,Static Image,Story,Long,18540,684,28,235,233,46.1,71
+P0044,2025-05-22,Burnout,Short Video,Question,Medium,16518,1618,112,618,289,29.3,155
+P0045,2025-04-21,Self Confidence,Carousel,Story,Short,4878,318,59,29,41,36.9,19
+P0046,2025-03-16,Loneliness,Carousel,Text,Medium,29158,1449,422,344,147,31.5,93
+P0047,2025-04-06,Dating,Short Video,Question,Medium,17190,1728,320,238,624,59.8,116
+P0048,2025-05-13,Career Stress,Static Image,Story,Medium,24344,1968,233,323,570,40.2,126
+P0049,2025-06-12,Loneliness,Short Video,Visual,Short,2625,137,31,46,36,58.2,7
+P0050,2025-03-09,Friendship,Short Video,Question,Long,12748,734,44,119,331,76.0,67
+P0051,2025-03-17,Dating,Long Video,Question,Short,21309,1236,40,126,318,43.0,61
+P0052,2025-06-01,Burnout,Long Video,Story,Medium,6414,304,81,98,46,36.6,28
+P0053,2025-01-03,Career Stress,Long Video,Visual,Short,5837,188,38,58,109,48.8,15
+P0054,2025-04-25,Dating,Short Video,Story,Long,25696,2553,529,124,480,55.5,87
+P0055,2025-01-04,Friendship,Carousel,Text,Medium,23174,1824,522,489,819,20.1,185
+P0056,2025-02-01,Burnout,Carousel,Question,Medium,12049,529,33,329,213,37.3,81
+P0057,2025-02-21,Social Anxiety,Carousel,Text,Short,21239,2846,382,416,755,39.4,157
+P0058,2025-01-21,Friendship,Long Video,Text,Long,2688,143,28,45,77,20.3,22
+P0059,2025-02-13,Self Confidence,Long Video,Question,Medium,10721,216,112,103,231,37.9,41
+P0060,2025-04-10,Friendship,Carousel,Question,Short,7046,793,141,26,121,41.5,18
+P0061,2025-03-21,Self Confidence,Long Video,Question,Medium,23324,2118,429,90,270,52.4,50
+P0062,2025-01-06,Loneliness,Short Video,Text,Long,16153,1845,282,165,577,66.3,115
+P0063,2025-04-07,Dating,Static Image,Question,Medium,12209,669,40,31,99,17.1,24
+P0064,2025-01-25,Dating,Long Video,Story,Medium,16257,1452,213,253,219,30.3,85
+P0065,2025-06-23,Social Anxiety,Short Video,Text,Short,2481,77,27,48,36,43.1,8
+P0066,2025-06-11,Loneliness,Long Video,Story,Short,10727,428,153,131,213,44.4,54
+P0067,2025-06-04,Dating,Long Video,Visual,Short,10013,587,46,107,175,33.0,48
+P0068,2025-05-27,Burnout,Carousel,Question,Long,8042,1038,67,203,78,29.5,47
+P0069,2025-05-23,Loneliness,Long Video,Text,Short,1557,69,5,16,10,24.0,7
+P0070,2025-03-11,Social Anxiety,Carousel,Story,Short,19249,1294,97,164,250,42.8,63
+P0071,2025-02-11,Social Anxiety,Carousel,Story,Short,536,42,5,8,17,22.7,6
+P0072,2025-05-03,Dating,Carousel,Story,Medium,25966,1180,428,79,392,40.4,65
+P0073,2025-02-11,Social Anxiety,Carousel,Visual,Short,27605,931,62,113,493,47.0,89
+P0074,2025-06-03,Friendship,Static Image,Text,Short,8779,241,97,146,66,31.4,33
+P0075,2025-05-29,Loneliness,Long Video,Story,Short,11165,660,213,228,127,42.6,63
+P0076,2025-01-04,Social Anxiety,Short Video,Question,Medium,11808,978,180,257,156,50.1,75
+P0077,2025-03-11,Social Anxiety,Long Video,Visual,Long,20946,1011,311,36,60,56.6,22
+P0078,2025-04-07,Burnout,Short Video,Visual,Long,12743,850,55,311,217,51.7,77
+P0079,2025-05-18,Social Anxiety,Short Video,Question,Short,7322,574,163,204,189,51.6,69
+P0080,2025-03-17,Self Confidence,Static Image,Question,Long,4918,105,60,57,57,27.5,22
+P0081,2025-06-08,Career Stress,Short Video,Question,Medium,4906,296,42,176,224,33.1,51
+P0082,2025-04-04,Friendship,Static Image,Question,Medium,12683,766,153,159,61,30.4,36
+P0083,2025-04-23,Friendship,Static Image,Visual,Short,6529,144,96,58,122,33.9,29
+P0084,2025-03-15,Loneliness,Carousel,Question,Medium,11847,1477,163,112,227,38.3,51
+P0085,2025-06-25,Social Anxiety,Carousel,Question,Short,10514,781,68,369,512,26.7,136
+P0086,2025-02-16,Loneliness,Short Video,Visual,Medium,13913,787,242,237,229,23.5,74
+P0087,2025-02-10,Dating,Carousel,Story,Short,26362,3629,722,975,201,38.5,209
+P0088,2025-04-22,Social Anxiety,Static Image,Story,Long,22417,742,125,118,540,26.9,85
+P0089,2025-03-11,Dating,Long Video,Text,Long,12443,1045,73,328,86,32.3,66
+P0090,2025-03-16,Friendship,Carousel,Question,Short,19695,850,277,448,552,23.4,153
+P0091,2025-05-29,Dating,Carousel,Visual,Short,5256,686,119,115,134,33.0,42
+P0092,2025-06-21,Social Anxiety,Carousel,Text,Short,5883,697,37,118,69,33.9,38
+P0093,2025-05-28,Social Anxiety,Short Video,Story,Short,9985,889,135,229,129,11.8,62
+P0094,2025-06-15,Career Stress,Static Image,Story,Short,24947,469,124,337,329,35.0,106
+P0095,2025-03-20,Dating,Short Video,Story,Medium,13420,486,345,163,90,58.1,44
+P0096,2025-06-15,Self Confidence,Short Video,Text,Medium,5018,435,56,103,115,52.3,38
+P0097,2025-05-16,Career Stress,Static Image,Visual,Short,20503,527,175,430,443,42.3,133
+P0098,2025-03-07,Dating,Static Image,Text,Long,21577,1015,217,367,331,36.6,113
+P0099,2025-06-09,Self Confidence,Carousel,Text,Long,12540,504,52,263,314,44.1,90
+P0100,2025-06-04,Dating,Carousel,Visual,Long,28222,1917,114,233,189,42.4,70
+P0101,2025-04-04,Burnout,Static Image,Visual,Long,16491,1410,190,127,322,47.5,71
+P0102,2025-03-14,Self Confidence,Carousel,Question,Short,16407,1694,238,616,682,23.5,201
+P0103,2025-02-11,Career Stress,Carousel,Question,Long,10356,824,164,209,287,20.1,75
+P0104,2025-02-13,Career Stress,Long Video,Question,Medium,21145,918,128,324,294,52.4,95
+P0105,2025-03-23,Friendship,Static Image,Visual,Medium,721,34,7,2,10,21.6,4
+P0106,2025-03-18,Dating,Long Video,Story,Short,1278,112,23,4,8,40.2,5
+P0107,2025-01-01,Burnout,Short Video,Question,Medium,3799,245,59,98,111,56.5,35
+P0108,2025-01-18,Burnout,Long Video,Visual,Medium,3626,385,30,54,62,42.2,23
+P0109,2025-02-18,Career Stress,Carousel,Story,Long,25047,1837,252,678,869,21.2,229
+P0110,2025-01-28,Friendship,Short Video,Story,Short,10113,361,34,24,181,44.2,29
+P0111,2025-04-09,Self Confidence,Static Image,Story,Medium,5456,274,51,48,85,51.6,22
+P0112,2025-04-01,Dating,Static Image,Text,Long,6443,329,47,41,51,35.2,20
+P0113,2025-02-03,Social Anxiety,Carousel,Visual,Short,5672,488,171,49,198,43.4,37
+P0114,2025-02-04,Burnout,Long Video,Story,Long,13907,783,76,218,211,24.7,80
+P0115,2025-01-29,Self Confidence,Carousel,Visual,Medium,1959,150,16,30,62,15.8,13
+P0116,2025-02-26,Dating,Carousel,Visual,Medium,5293,460,20,13,58,31.2,15
+P0117,2025-01-05,Social Anxiety,Long Video,Story,Short,14363,1308,45,105,286,20.3,52
+P0118,2025-03-18,Social Anxiety,Short Video,Text,Short,3587,140,65,38,53,36.4,28
+P0119,2025-02-05,Dating,Long Video,Question,Medium,6559,673,28,35,48,8.0,10
+P0120,2025-04-05,Self Confidence,Long Video,Visual,Long,20913,777,234,263,798,41.7,149
+P0121,2025-02-09,Social Anxiety,Long Video,Story,Short,15209,1440,132,182,307,35.3,76
+P0122,2025-04-17,Social Anxiety,Short Video,Story,Long,1416,98,17,31,53,25.3,15
+P0123,2025-02-25,Dating,Carousel,Text,Long,17254,1375,220,190,250,34.5,76
+P0124,2025-02-08,Self Confidence,Short Video,Story,Medium,25966,2762,228,783,1045,54.8,273
+P0125,2025-03-02,Social Anxiety,Static Image,Story,Long,12078,882,29,40,301,39.4,46
+P0126,2025-03-25,Friendship,Static Image,Visual,Medium,6490,230,22,67,39,44.9,21
+P0127,2025-04-15,Social Anxiety,Carousel,Story,Short,15149,1881,373,464,172,23.4,108
+P0128,2025-03-28,Social Anxiety,Carousel,Text,Long,15407,1974,260,261,288,30.8,79
+P0129,2025-04-23,Friendship,Short Video,Story,Short,8889,745,21,127,141,61.3,39
+P0130,2025-01-08,Career Stress,Static Image,Story,Medium,4522,194,17,17,26,12.5,4
+P0131,2025-03-07,Burnout,Short Video,Text,Short,24364,1411,579,1028,938,37.4,303
+P0132,2025-06-22,Loneliness,Short Video,Text,Long,14616,1036,99,332,61,53.7,64
+P0133,2025-01-31,Social Anxiety,Carousel,Visual,Short,25123,1572,438,396,361,30.5,123
+P0134,2025-02-21,Dating,Long Video,Story,Short,15649,609,311,358,497,44.9,130
+P0135,2025-06-05,Burnout,Static Image,Visual,Long,23975,1287,349,519,470,5.0,152
+P0136,2025-01-17,Career Stress,Carousel,Visual,Medium,3865,236,28,73,61,28.5,26
+P0137,2025-01-27,Dating,Carousel,Story,Long,6951,728,149,63,36,32.6,17
+P0138,2025-04-07,Loneliness,Short Video,Text,Long,8194,501,194,213,346,62.1,90
+P0139,2025-02-01,Social Anxiety,Carousel,Visual,Medium,13416,1204,348,350,192,51.8,90
+P0140,2025-05-10,Career Stress,Static Image,Story,Short,23145,1145,66,59,219,37.8,40
+P0141,2025-04-18,Career Stress,Carousel,Story,Short,14845,880,51,262,153,33.3,70
+P0142,2025-03-27,Career Stress,Long Video,Text,Long,8843,432,68,110,80,33.6,44
+P0143,2025-03-30,Self Confidence,Carousel,Text,Medium,20044,2483,225,334,708,35.5,142
+P0144,2025-01-24,Dating,Carousel,Question,Long,10815,677,143,232,106,60.2,51
+P0145,2025-05-25,Social Anxiety,Carousel,Visual,Medium,9094,1055,181,234,99,45.5,51
+P0146,2025-01-23,Dating,Short Video,Visual,Short,11781,1133,49,209,386,33.2,91
+P0147,2025-02-03,Career Stress,Carousel,Story,Short,7602,287,74,86,74,34.5,38
+P0148,2025-02-24,Social Anxiety,Carousel,Visual,Medium,21179,1071,377,621,436,31.2,158
+P0149,2025-03-30,Burnout,Carousel,Question,Medium,26748,3477,426,175,155,9.4,57
+P0150,2025-05-31,Loneliness,Carousel,Story,Medium,19454,759,281,412,572,53.2,145
+P0151,2025-05-15,Dating,Short Video,Text,Long,8408,1019,89,175,130,51.7,43
+P0152,2025-05-31,Burnout,Short Video,Story,Medium,2252,136,17,75,37,42.3,22
+P0153,2025-04-20,Self Confidence,Long Video,Story,Medium,7440,544,38,73,91,35.3,26
+P0154,2025-02-08,Career Stress,Long Video,Question,Long,25311,924,266,42,128,33.2,29
+P0155,2025-05-13,Social Anxiety,Short Video,Text,Medium,22538,1146,157,351,490,30.1,125
+P0156,2025-03-14,Burnout,Static Image,Visual,Medium,19751,905,302,427,124,50.2,88
+P0157,2025-01-05,Dating,Carousel,Text,Short,9038,1106,195,106,137,34.5,39
+P0158,2025-06-02,Career Stress,Long Video,Story,Short,12384,282,47,173,250,49.1,66
+P0159,2025-01-29,Friendship,Short Video,Story,Short,7216,477,40,95,138,46.8,39
+P0160,2025-06-07,Self Confidence,Long Video,Story,Medium,2173,160,33,42,23,42.8,6
+P0161,2025-05-24,Loneliness,Static Image,Question,Medium,17688,1104,240,111,331,30.4,62
+P0162,2025-05-10,Friendship,Short Video,Text,Long,734,100,8,18,17,61.3,5
+P0163,2025-02-12,Career Stress,Static Image,Story,Short,8879,399,141,178,89,32.3,38
+P0164,2025-01-05,Self Confidence,Static Image,Story,Long,28464,1345,208,253,84,42.7,56
+P0165,2025-04-09,Social Anxiety,Long Video,Text,Medium,28381,1549,128,460,486,37.1,138
+P0166,2025-02-11,Friendship,Static Image,Story,Short,23968,997,152,189,263,37.8,79
+P0167,2025-05-03,Career Stress,Short Video,Question,Short,6445,796,77,156,69,34.8,40
+P0168,2025-02-08,Career Stress,Long Video,Story,Short,9083,191,18,144,29,36.2,28
+P0169,2025-01-13,Loneliness,Short Video,Story,Short,19111,2376,369,657,538,58.0,179
+P0170,2025-01-28,Friendship,Short Video,Story,Short,12946,1008,92,224,330,40.1,85
+P0171,2025-01-28,Dating,Long Video,Visual,Medium,20822,1118,281,219,454,55.5,109
+P0172,2025-05-02,Social Anxiety,Static Image,Text,Long,18713,566,173,216,101,45.1,50
+P0173,2025-06-22,Self Confidence,Long Video,Visual,Long,24977,1899,243,344,503,38.6,119
+P0174,2025-01-13,Loneliness,Static Image,Story,Long,4040,203,60,48,56,48.3,11
+P0175,2025-01-20,Dating,Carousel,Visual,Short,3308,137,37,49,10,31.1,13
+P0176,2025-02-28,Social Anxiety,Long Video,Text,Medium,6259,384,105,54,203,35.0,38
+P0177,2025-03-03,Friendship,Carousel,Story,Long,7106,272,40,101,197,46.2,48
+P0178,2025-02-06,Friendship,Static Image,Text,Long,10011,575,49,88,215,24.5,44
+P0179,2025-03-18,Friendship,Long Video,Text,Short,9965,540,88,146,123,52.7,40
+P0180,2025-06-03,Social Anxiety,Carousel,Text,Short,16206,856,304,317,76,42.9,66
+P0181,2025-05-02,Self Confidence,Long Video,Text,Long,2415,103,3,35,11,18.2,14
+P0182,2025-06-10,Social Anxiety,Carousel,Text,Long,18989,630,283,252,121,45.5,61
+P0183,2025-03-28,Self Confidence,Short Video,Question,Long,28617,1744,377,402,354,55.7,125
+P0184,2025-04-26,Social Anxiety,Static Image,Text,Medium,16539,1210,240,294,92,25.6,62
+P0185,2025-04-06,Dating,Short Video,Visual,Long,7095,468,43,189,252,59.9,71
+P0186,2025-01-03,Burnout,Short Video,Question,Long,15523,2326,435,642,471,53.6,161
+P0187,2025-05-11,Loneliness,Long Video,Question,Medium,12808,499,197,53,324,11.9,58
+P0188,2025-05-12,Dating,Static Image,Story,Long,4347,113,17,39,88,50.5,14
+P0189,2025-03-23,Friendship,Static Image,Text,Short,25625,975,251,118,324,8.8,62
+P0190,2025-01-13,Self Confidence,Short Video,Story,Medium,9648,964,85,126,336,49.6,61
+P0191,2025-04-08,Career Stress,Long Video,Story,Short,19698,1069,127,68,92,26.2,29
+P0192,2025-03-16,Social Anxiety,Carousel,Visual,Medium,20855,1261,73,471,382,44.2,125
+P0193,2025-05-17,Social Anxiety,Carousel,Visual,Medium,13968,1386,143,253,339,31.5,91
+P0194,2025-05-21,Career Stress,Carousel,Question,Short,3365,134,58,99,54,38.6,27
+P0195,2025-01-19,Burnout,Long Video,Story,Long,1749,105,7,16,51,33.9,7
+P0196,2025-06-26,Dating,Long Video,Visual,Medium,4963,154,13,109,46,34.7,25
+P0197,2025-06-05,Career Stress,Short Video,Story,Long,15321,1065,256,554,384,53.8,136
+P0198,2025-02-03,Loneliness,Carousel,Story,Long,7189,226,69,55,179,47.0,30
+P0199,2025-03-19,Dating,Static Image,Text,Medium,10791,541,76,211,180,41.0,64
+P0200,2025-01-23,Social Anxiety,Carousel,Question,Medium,16826,1395,77,389,536,13.3,135
+P0201,2025-04-19,Self Confidence,Static Image,Story,Medium,10575,391,70,40,130,34.6,29
+P0202,2025-02-13,Social Anxiety,Carousel,Story,Short,22903,721,172,171,351,35.6,66
+P0203,2025-01-06,Dating,Carousel,Visual,Medium,1243,88,21,27,19,29.4,7
+P0204,2025-06-11,Friendship,Long Video,Question,Long,14628,893,177,108,335,13.3,71
+P0205,2025-06-26,Friendship,Short Video,Visual,Short,19858,1192,235,251,415,37.4,100
+P0206,2025-02-17,Social Anxiety,Carousel,Question,Medium,14146,950,290,148,489,44.3,92
+P0207,2025-05-01,Loneliness,Short Video,Text,Medium,8092,416,91,179,169,59.8,56
+P0208,2025-05-31,Friendship,Long Video,Text,Long,17558,666,53,234,211,33.9,69
+P0209,2025-03-10,Social Anxiety,Carousel,Question,Medium,21770,1326,312,73,349,34.2,62
+P0210,2025-02-03,Burnout,Short Video,Text,Long,8132,647,138,124,73,35.7,41
+P0211,2025-02-25,Career Stress,Long Video,Story,Long,3088,173,34,18,25,22.1,8
+P0212,2025-05-07,Burnout,Short Video,Story,Short,14590,402,182,143,302,24.7,60
+P0213,2025-04-30,Self Confidence,Carousel,Story,Medium,4525,244,53,44,23,23.0,14
+P0214,2025-04-23,Dating,Carousel,Question,Short,9563,505,112,210,140,42.3,64
+P0215,2025-01-06,Loneliness,Short Video,Story,Long,23913,1289,321,601,374,68.3,152
+P0216,2025-05-11,Self Confidence,Short Video,Visual,Medium,2888,329,58,96,128,33.8,37
+P0217,2025-03-31,Loneliness,Static Image,Visual,Short,25880,1322,126,247,556,23.9,109
+P0218,2025-02-22,Friendship,Long Video,Visual,Short,8615,696,115,88,108,27.6,24
+P0219,2025-04-11,Social Anxiety,Long Video,Visual,Long,22020,2318,298,411,461,20.8,134
+P0220,2025-06-29,Loneliness,Carousel,Question,Long,18724,895,87,180,192,42.3,58
+P0221,2025-01-24,Loneliness,Static Image,Story,Long,1461,46,2,7,26,19.7,17
+P0222,2025-03-09,Loneliness,Static Image,Story,Medium,5077,187,48,98,145,62.3,43
+P0223,2025-02-24,Social Anxiety,Carousel,Visual,Long,2539,177,55,14,106,26.0,16
+P0224,2025-02-12,Social Anxiety,Short Video,Question,Long,22182,1812,506,455,568,62.5,155
+P0225,2025-02-17,Friendship,Long Video,Visual,Short,14590,1081,205,127,226,61.8,52
+P0226,2025-02-15,Dating,Carousel,Question,Short,23090,877,402,400,166,47.0,91
+P0227,2025-03-03,Dating,Carousel,Visual,Medium,754,46,11,1,14,45.1,13
+P0228,2025-04-18,Career Stress,Long Video,Question,Short,9530,481,57,55,207,42.8,41
+P0229,2025-03-31,Self Confidence,Carousel,Story,Medium,24270,1544,170,242,711,53.8,127
+P0230,2025-01-20,Loneliness,Carousel,Story,Medium,10780,707,36,279,75,32.1,62
+P0231,2025-03-26,Social Anxiety,Short Video,Story,Long,21908,1605,277,445,581,56.5,146
+P0232,2025-04-16,Self Confidence,Carousel,Visual,Long,2246,169,44,79,23,15.1,22
+P0233,2025-05-24,Career Stress,Long Video,Question,Short,1947,102,18,27,36,38.4,9
+P0234,2025-01-19,Loneliness,Static Image,Visual,Medium,23442,1034,278,307,94,53.9,62
+P0235,2025-03-01,Self Confidence,Long Video,Story,Medium,18006,891,173,414,427,31.6,137
+P0236,2025-03-09,Social Anxiety,Short Video,Text,Short,5237,595,59,45,124,34.8,27
+P0237,2025-06-28,Friendship,Long Video,Story,Medium,3769,302,29,10,96,35.8,20
+P0238,2025-03-31,Dating,Static Image,Question,Long,20516,755,187,229,114,30.2,61
+P0239,2025-01-04,Burnout,Short Video,Question,Long,19448,1423,106,115,252,31.2,54
+P0240,2025-01-30,Loneliness,Short Video,Story,Short,10868,819,201,384,118,50.9,90
+P0241,2025-03-01,Friendship,Carousel,Question,Medium,18794,1574,51,541,423,37.6,151
+P0242,2025-03-20,Loneliness,Short Video,Text,Medium,500,27,6,6,19,38.6,11
+P0243,2025-06-07,Dating,Static Image,Question,Short,15228,1144,86,236,48,38.0,57
+P0244,2025-05-15,Loneliness,Short Video,Question,Long,3904,374,48,17,33,49.6,15
+P0245,2025-03-05,Social Anxiety,Static Image,Question,Medium,22654,1514,298,451,656,32.4,154
+P0246,2025-03-22,Dating,Short Video,Text,Short,18258,758,195,238,502,48.7,106
+P0247,2025-05-08,Social Anxiety,Long Video,Text,Long,27442,1085,360,503,297,31.2,134
+P0248,2025-04-21,Social Anxiety,Long Video,Visual,Short,14131,847,94,277,311,10.0,93
+P0249,2025-06-12,Dating,Short Video,Text,Short,6325,816,170,230,300,67.2,87
+P0250,2025-03-03,Career Stress,Static Image,Question,Medium,10691,277,22,91,184,34.1,44
+P0251,2025-05-30,Career Stress,Short Video,Text,Medium,6673,387,137,199,189,52.5,67
+P0252,2025-04-30,Self Confidence,Long Video,Story,Long,647,71,6,16,18,25.1,15
+P0253,2025-03-12,Career Stress,Carousel,Question,Medium,3625,268,28,37,32,24.2,9
+P0254,2025-03-26,Social Anxiety,Long Video,Question,Medium,11985,755,117,179,261,34.9,72
+P0255,2025-05-14,Friendship,Static Image,Question,Short,10570,733,40,140,97,51.2,48
+P0256,2025-06-20,Dating,Static Image,Text,Medium,5395,319,69,86,29,49.5,21
+P0257,2025-03-05,Career Stress,Long Video,Story,Long,20818,962,287,351,299,33.1,111
+P0258,2025-02-14,Self Confidence,Short Video,Story,Long,2671,103,47,21,50,40.0,15
+P0259,2025-04-04,Loneliness,Static Image,Question,Long,24319,999,90,368,467,36.4,124
+P0260,2025-04-10,Social Anxiety,Long Video,Question,Short,6335,258,56,37,104,53.8,25
+P0261,2025-06-20,Social Anxiety,Carousel,Story,Medium,5661,448,134,62,74,13.9,22
+P0262,2025-01-15,Self Confidence,Short Video,Question,Long,3696,494,102,116,136,48.7,43
+P0263,2025-02-23,Burnout,Static Image,Visual,Medium,9815,512,54,104,152,5.0,42
+P0264,2025-05-16,Burnout,Long Video,Visual,Short,6971,435,66,51,43,47.5,12
+P0265,2025-03-24,Self Confidence,Short Video,Text,Short,6890,748,114,252,144,69.1,60
+P0266,2025-04-15,Burnout,Static Image,Story,Long,2910,131,35,53,81,51.7,18
+P0267,2025-03-21,Loneliness,Static Image,Visual,Short,7720,436,29,34,25,44.0,15
+P0268,2025-04-18,Loneliness,Short Video,Question,Short,23113,2765,214,573,145,38.7,116
+P0269,2025-03-05,Self Confidence,Short Video,Text,Short,6989,853,65,144,181,58.6,54
+P0270,2025-03-08,Self Confidence,Static Image,Text,Short,15922,682,79,108,86,27.1,36
+P0271,2025-03-25,Dating,Static Image,Visual,Short,23141,827,148,345,194,33.7,85
+P0272,2025-03-24,Career Stress,Static Image,Visual,Long,695,28,3,2,6,46.6,9
+P0273,2025-01-26,Loneliness,Carousel,Story,Short,1568,126,5,17,14,27.4,6
+P0274,2025-01-30,Loneliness,Carousel,Question,Short,4183,246,29,59,36,38.6,22
+P0275,2025-06-06,Social Anxiety,Static Image,Visual,Short,4823,378,68,143,31,46.8,38
+P0276,2025-06-17,Career Stress,Static Image,Visual,Medium,13405,681,61,128,220,42.0,57
+P0277,2025-02-20,Loneliness,Static Image,Question,Long,4900,305,41,24,42,51.4,14
+P0278,2025-01-29,Burnout,Static Image,Question,Short,26272,734,290,450,479,71.7,137
+P0279,2025-01-29,Loneliness,Static Image,Visual,Long,17112,1311,183,180,102,12.3,49
+P0280,2025-01-31,Dating,Long Video,Visual,Long,29709,1243,171,485,687,35.0,175
+P0281,2025-04-29,Friendship,Short Video,Visual,Medium,27444,1546,148,74,319,39.3,52
+P0282,2025-02-16,Social Anxiety,Long Video,Question,Medium,3835,195,27,64,33,28.6,17
+P0283,2025-05-14,Social Anxiety,Carousel,Story,Long,15418,1757,347,480,693,8.2,175
+P0284,2025-02-13,Loneliness,Short Video,Visual,Short,22491,1393,104,368,559,38.9,141
+P0285,2025-02-20,Loneliness,Long Video,Question,Short,14450,657,300,72,431,25.9,54
+P0286,2025-04-17,Social Anxiety,Static Image,Text,Long,19882,392,182,113,351,37.7,74
+P0287,2025-02-01,Dating,Long Video,Question,Long,28470,887,110,212,442,9.5,90
+P0288,2025-06-04,Social Anxiety,Carousel,Text,Short,25568,1874,553,131,372,15.8,79
+P0289,2025-02-26,Self Confidence,Static Image,Question,Long,647,27,3,9,9,38.8,2
+P0290,2025-06-09,Burnout,Static Image,Story,Short,6596,274,59,65,66,52.1,24
+P0291,2025-01-26,Dating,Static Image,Text,Short,18134,560,220,145,206,25.8,48
+P0292,2025-06-23,Career Stress,Static Image,Text,Short,16170,1066,235,338,179,11.3,91
+P0293,2025-05-24,Dating,Short Video,Visual,Short,3860,426,79,52,48,39.4,24
+P0294,2025-06-03,Friendship,Long Video,Visual,Long,5750,360,17,25,88,35.2,22
+P0295,2025-05-03,Dating,Short Video,Story,Long,22944,2280,241,558,266,52.8,137
+P0296,2025-03-23,Self Confidence,Carousel,Question,Medium,637,31,11,7,9,40.8,8
+P0297,2025-04-08,Career Stress,Long Video,Text,Short,6117,260,17,77,123,29.7,30
+P0298,2025-05-17,Social Anxiety,Short Video,Text,Long,15427,823,414,305,321,52.2,107
+P0299,2025-05-26,Social Anxiety,Carousel,Story,Medium,19365,2217,489,193,94,14.3,43
+P0300,2025-01-13,Dating,Short Video,Text,Short,1863,142,11,41,48,48.8,21
+P0301,2025-03-28,Loneliness,Short Video,Question,Short,3337,115,44,95,81,71.2,33
+P0302,2025-03-07,Social Anxiety,Static Image,Visual,Long,22274,758,222,103,213,25.2,49
+P0303,2025-05-17,Social Anxiety,Long Video,Question,Short,25990,921,107,55,377,20.0,60
+P0304,2025-01-28,Loneliness,Carousel,Question,Short,17170,2260,508,700,623,43.0,201
+P0305,2025-04-20,Social Anxiety,Short Video,Visual,Short,3729,191,53,80,75,44.7,42
+P0306,2025-02-19,Dating,Short Video,Visual,Short,25155,2992,528,209,998,36.1,163
+P0307,2025-02-13,Self Confidence,Carousel,Text,Short,13460,727,44,71,81,41.6,29
+P0308,2025-04-12,Dating,Carousel,Question,Long,28412,1974,170,656,547,46.7,187
+P0309,2025-02-05,Career Stress,Short Video,Story,Medium,16813,1002,45,361,101,38.5,83
+P0310,2025-01-13,Social Anxiety,Short Video,Visual,Long,9289,644,77,86,323,32.8,57
+P0311,2025-04-25,Burnout,Carousel,Question,Short,19428,2085,445,386,512,48.3,137
+P0312,2025-01-17,Social Anxiety,Static Image,Visual,Short,3524,165,29,29,13,47.2,13
+P0313,2025-03-27,Self Confidence,Static Image,Question,Medium,15001,1076,172,164,195,38.1,53
+P0314,2025-05-10,Dating,Carousel,Story,Long,3005,71,5,39,12,45.4,10
+P0315,2025-05-24,Loneliness,Long Video,Question,Medium,9110,490,24,26,76,38.1,20
+P0316,2025-06-02,Friendship,Static Image,Question,Medium,6409,342,43,30,121,30.6,25
+P0317,2025-02-04,Dating,Carousel,Text,Short,10864,1099,89,186,162,29.1,58
+P0318,2025-05-24,Loneliness,Short Video,Text,Long,24945,2944,323,107,239,33.4,56
+P0319,2025-01-23,Loneliness,Carousel,Text,Medium,17037,1575,288,212,281,47.1,69
+P0320,2025-04-27,Career Stress,Carousel,Question,Long,10210,469,142,24,228,40.3,35
+P0321,2025-04-12,Career Stress,Static Image,Visual,Medium,27504,1738,131,437,557,40.8,153
+P0322,2025-03-21,Loneliness,Static Image,Story,Long,15915,401,155,288,44,27.0,66
+P0323,2025-03-16,Social Anxiety,Static Image,Visual,Short,20912,612,318,291,571,35.8,121
+P0324,2025-01-19,Dating,Static Image,Story,Medium,21838,644,194,62,211,22.1,32
+P0325,2025-06-07,Friendship,Static Image,Visual,Short,25583,1078,286,257,163,41.5,65
+P0326,2025-04-12,Burnout,Long Video,Text,Long,21954,2103,141,88,429,22.8,72
+P0327,2025-02-17,Social Anxiety,Static Image,Question,Short,8288,161,45,129,70,38.6,36
+P0328,2025-04-11,Friendship,Carousel,Visual,Long,24475,474,310,347,492,31.7,126
+P0329,2025-05-23,Friendship,Carousel,Text,Medium,23791,744,238,344,335,28.9,100
+P0330,2025-04-10,Career Stress,Long Video,Question,Medium,23909,1227,179,423,555,39.8,150
+P0331,2025-06-22,Career Stress,Carousel,Question,Short,25230,2135,423,531,701,40.9,183
+P0332,2025-05-27,Loneliness,Long Video,Text,Short,17358,1577,175,459,301,49.7,122
+P0333,2025-02-14,Self Confidence,Long Video,Question,Short,17229,1321,219,142,491,44.5,80
+P0334,2025-04-20,Burnout,Long Video,Story,Long,27534,1324,312,306,580,58.8,128
+P0335,2025-04-23,Loneliness,Long Video,Text,Long,3703,236,29,9,10,16.0,10
+P0336,2025-04-17,Friendship,Static Image,Question,Short,21517,519,188,168,312,18.0,65
+P0337,2025-01-08,Career Stress,Carousel,Text,Long,29930,2019,397,370,308,31.4,113
+P0338,2025-04-23,Loneliness,Long Video,Question,Long,15588,1190,168,381,133,46.7,95
+P0339,2025-01-26,Friendship,Short Video,Text,Medium,25197,1928,109,234,389,43.6,94
+P0340,2025-01-14,Dating,Long Video,Question,Long,5073,434,47,105,157,20.7,42
+P0341,2025-02-12,Career Stress,Static Image,Story,Medium,9131,384,123,33,34,47.9,15
+P0342,2025-04-01,Dating,Carousel,Text,Short,623,51,1,3,5,24.0,12
+P0343,2025-04-02,Self Confidence,Carousel,Text,Medium,18643,1926,393,312,219,40.7,79
+P0344,2025-05-31,Dating,Static Image,Question,Medium,4858,262,69,74,87,27.2,35
+P0345,2025-05-09,Burnout,Static Image,Question,Long,12762,339,177,81,289,32.0,52
+P0346,2025-01-10,Friendship,Short Video,Question,Short,13443,898,154,144,493,55.6,83
+P0347,2025-03-27,Dating,Static Image,Visual,Long,9870,194,47,122,25,12.2,30
+P0348,2025-03-17,Self Confidence,Long Video,Text,Short,7875,207,50,94,79,22.7,31
+P0349,2025-05-11,Career Stress,Long Video,Story,Long,26410,1293,134,67,476,29.9,70
+P0350,2025-03-04,Dating,Carousel,Story,Short,18041,1863,232,83,550,52.6,88
+P0351,2025-04-07,Self Confidence,Long Video,Text,Short,9332,167,56,140,60,45.3,42
+P0352,2025-05-01,Social Anxiety,Short Video,Question,Short,7607,794,173,212,325,47.6,76
+P0353,2025-05-21,Friendship,Carousel,Question,Medium,24153,1923,420,476,894,31.8,203
+P0354,2025-05-08,Burnout,Long Video,Question,Short,17124,1795,345,317,389,30.3,114
+P0355,2025-02-06,Dating,Carousel,Question,Long,23975,1075,139,602,466,58.0,163
+P0356,2025-02-06,Friendship,Carousel,Story,Short,17608,794,125,263,212,14.2,77
+P0357,2025-02-10,Dating,Short Video,Story,Short,5369,437,32,72,43,38.8,22
+P0358,2025-06-19,Self Confidence,Carousel,Text,Medium,19842,2299,500,671,540,51.2,193
+P0359,2025-06-16,Self Confidence,Short Video,Story,Medium,3006,437,28,71,143,32.3,33
+P0360,2025-02-28,Self Confidence,Carousel,Visual,Short,20750,611,192,297,358,40.6,103
+P0361,2025-02-16,Dating,Short Video,Visual,Short,6595,275,17,42,157,47.6,33
+P0362,2025-04-12,Loneliness,Long Video,Story,Short,26424,1031,160,230,205,43.4,84
+P0363,2025-04-21,Friendship,Carousel,Question,Short,16381,865,128,98,142,25.9,30
+P0364,2025-03-26,Self Confidence,Carousel,Story,Medium,17193,994,240,54,454,32.9,71
+P0365,2025-04-02,Self Confidence,Static Image,Question,Short,18439,1166,275,366,188,29.7,96
+P0366,2025-04-19,Career Stress,Carousel,Story,Medium,13585,970,113,229,65,18.9,55
+P0367,2025-01-30,Self Confidence,Short Video,Text,Short,28502,2118,210,558,536,24.8,164
+P0368,2025-03-16,Social Anxiety,Short Video,Question,Long,19433,1650,44,220,424,42.5,98
+P0369,2025-05-09,Career Stress,Carousel,Story,Short,1659,205,43,20,17,26.0,8
+P0370,2025-02-25,Burnout,Static Image,Story,Medium,22405,605,91,95,447,28.7,73
+P0371,2025-04-10,Career Stress,Static Image,Question,Short,24480,1408,351,320,367,49.8,105
+P0372,2025-04-09,Dating,Carousel,Text,Medium,27661,1968,203,815,458,32.9,201
+P0373,2025-01-13,Loneliness,Short Video,Question,Long,24945,2313,288,425,461,50.6,145
+P0374,2025-03-31,Career Stress,Carousel,Text,Medium,12428,304,50,65,198,30.8,39
+P0375,2025-02-06,Dating,Static Image,Visual,Long,26334,935,308,421,396,54.7,118
+P0376,2025-03-13,Burnout,Long Video,Question,Short,2224,67,26,16,24,19.7,11
+P0377,2025-05-04,Career Stress,Short Video,Visual,Medium,28638,1585,138,101,227,37.9,49
+P0378,2025-03-21,Self Confidence,Carousel,Text,Short,18074,971,192,88,216,15.8,38
+P0379,2025-01-24,Burnout,Long Video,Story,Medium,12981,436,55,22,52,64.4,6
+P0380,2025-06-03,Self Confidence,Short Video,Text,Medium,28379,1916,158,427,227,43.2,104
+P0381,2025-06-11,Dating,Long Video,Visual,Short,27928,1108,193,139,273,44.5,54
+P0382,2025-06-12,Dating,Short Video,Text,Short,13017,1785,256,355,329,52.6,107
+P0383,2025-04-03,Career Stress,Long Video,Question,Short,16611,556,77,236,145,50.7,54
+P0384,2025-03-28,Social Anxiety,Long Video,Question,Long,22645,827,126,212,455,25.9,101
+P0385,2025-05-16,Loneliness,Carousel,Text,Medium,24931,1854,726,466,1036,23.1,206
+P0386,2025-05-23,Loneliness,Short Video,Visual,Short,4505,395,93,34,76,44.0,22
+P0387,2025-01-20,Social Anxiety,Short Video,Visual,Long,12494,1289,93,255,268,52.3,88
+P0388,2025-04-08,Loneliness,Carousel,Story,Long,9273,405,66,58,321,27.2,46
+P0389,2025-02-26,Dating,Short Video,Text,Short,17936,1779,421,224,531,36.9,113
+P0390,2025-05-12,Social Anxiety,Long Video,Story,Long,1979,161,19,58,65,35.1,23
+P0391,2025-04-21,Dating,Long Video,Question,Medium,26022,1210,369,436,578,37.4,145
+P0392,2025-05-24,Loneliness,Short Video,Story,Medium,17026,2342,388,382,541,48.1,136
+P0393,2025-01-11,Loneliness,Short Video,Story,Long,21423,1921,399,105,508,57.7,83
+P0394,2025-03-16,Self Confidence,Short Video,Story,Medium,2783,189,28,40,58,45.8,19
+P0395,2025-06-28,Social Anxiety,Static Image,Text,Short,6617,261,95,67,122,8.4,29
+P0396,2025-06-23,Loneliness,Carousel,Question,Medium,26585,3705,277,832,743,48.3,247
+P0397,2025-01-31,Self Confidence,Static Image,Story,Short,21909,941,130,309,331,62.3,99
+P0398,2025-05-11,Loneliness,Short Video,Visual,Short,12653,1534,125,269,119,49.1,62
+P0399,2025-05-15,Social Anxiety,Static Image,Visual,Short,24283,1027,220,305,128,41.7,71
+P0400,2025-03-22,Self Confidence,Short Video,Visual,Medium,2447,151,12,43,12,35.0,14
+P0401,2025-05-15,Dating,Carousel,Visual,Long,10366,371,151,150,73,39.2,39
+P0402,2025-05-20,Social Anxiety,Long Video,Text,Long,12224,332,74,202,161,38.4,57
+P0403,2025-02-20,Friendship,Short Video,Text,Medium,15509,894,332,52,175,51.5,30
+P0404,2025-06-02,Dating,Short Video,Text,Medium,971,24,8,21,9,30.9,7
+P0405,2025-01-17,Dating,Static Image,Story,Long,20733,864,247,333,385,26.0,104
+P0406,2025-06-04,Social Anxiety,Short Video,Question,Medium,28213,2543,76,366,707,46.7,156
+P0407,2025-03-15,Social Anxiety,Long Video,Story,Long,6883,643,33,35,50,50.3,12
+P0408,2025-04-06,Career Stress,Carousel,Visual,Medium,29925,2167,522,971,485,31.9,237
+P0409,2025-03-21,Loneliness,Short Video,Text,Long,28229,2667,669,360,1139,47.6,212
+P0410,2025-03-13,Friendship,Long Video,Visual,Long,22779,1453,284,80,201,40.0,44
+P0411,2025-06-21,Self Confidence,Carousel,Story,Short,27650,2171,77,325,647,42.2,141
+P0412,2025-01-23,Loneliness,Short Video,Question,Long,26901,1812,168,549,837,49.7,203
+P0413,2025-05-06,Loneliness,Carousel,Story,Medium,5895,377,15,125,120,25.5,45
+P0414,2025-04-08,Self Confidence,Carousel,Question,Short,22796,2840,446,151,507,26.9,89
+P0415,2025-02-10,Career Stress,Short Video,Text,Long,4005,180,57,29,113,51.7,20
+P0416,2025-02-10,Loneliness,Short Video,Story,Short,9325,1074,224,120,96,67.3,33
+P0417,2025-05-03,Dating,Short Video,Story,Short,15808,1111,207,141,538,52.4,92
+P0418,2025-02-19,Self Confidence,Long Video,Question,Short,18113,1117,292,186,466,38.1,103
+P0419,2025-04-26,Social Anxiety,Static Image,Question,Short,4944,278,38,8,11,34.4,9
+P0420,2025-04-17,Loneliness,Short Video,Visual,Short,10949,549,62,110,56,59.5,32
+P0421,2025-01-28,Friendship,Short Video,Text,Long,17487,1714,125,191,242,48.8,65
+P0422,2025-03-24,Burnout,Long Video,Question,Short,27186,1465,280,63,664,7.9,97
+P0423,2025-02-07,Self Confidence,Carousel,Question,Short,10361,622,26,207,142,30.6,56
+P0424,2025-01-30,Social Anxiety,Long Video,Story,Short,18013,1933,124,493,227,33.4,123
+P0425,2025-03-13,Loneliness,Short Video,Question,Medium,16321,1549,344,246,396,41.3,89
+P0426,2025-01-21,Dating,Long Video,Text,Long,5756,276,48,99,138,54.2,39
+P0427,2025-03-24,Career Stress,Long Video,Text,Short,15070,1272,39,211,333,19.8,81
+P0428,2025-05-17,Career Stress,Carousel,Story,Short,11853,754,122,264,75,52.1,59
+P0429,2025-01-09,Career Stress,Long Video,Text,Medium,23014,519,146,336,441,48.9,121
+P0430,2025-04-10,Self Confidence,Static Image,Story,Short,29820,1334,364,382,485,15.1,133
+P0431,2025-02-07,Friendship,Static Image,Visual,Short,11300,148,98,73,69,39.0,14
+P0432,2025-01-13,Self Confidence,Carousel,Text,Short,6965,249,127,77,230,32.0,38
+P0433,2025-04-25,Social Anxiety,Carousel,Question,Medium,29709,1439,504,191,700,34.4,127
+P0434,2025-06-07,Loneliness,Static Image,Question,Short,3044,100,32,13,51,56.4,16
+P0435,2025-02-03,Social Anxiety,Static Image,Question,Medium,23822,2369,340,525,444,40.2,152
+P0436,2025-05-12,Dating,Long Video,Story,Medium,29145,844,384,261,172,23.4,73
+P0437,2025-01-28,Self Confidence,Carousel,Story,Medium,29604,2920,296,899,367,44.6,206
+P0438,2025-03-26,Dating,Long Video,Visual,Long,21779,786,75,263,271,36.1,88
+P0439,2025-01-28,Burnout,Long Video,Question,Long,27038,1331,316,195,168,33.3,59
+P0440,2025-04-27,Dating,Carousel,Question,Short,21263,831,229,106,158,17.0,42
+P0441,2025-03-23,Career Stress,Carousel,Visual,Medium,8551,1121,72,120,205,23.4,53
+P0442,2025-06-06,Social Anxiety,Short Video,Question,Medium,23850,1450,507,253,976,51.3,175
+P0443,2025-06-04,Social Anxiety,Carousel,Question,Short,12551,993,337,174,152,26.2,55
+P0444,2025-01-21,Self Confidence,Carousel,Question,Short,1630,46,24,36,6,33.8,19
+P0445,2025-03-19,Burnout,Carousel,Text,Short,8922,920,155,146,109,29.3,47
+P0446,2025-03-28,Self Confidence,Carousel,Text,Medium,5464,530,124,85,86,29.5,33
+P0447,2025-06-03,Social Anxiety,Static Image,Text,Medium,5437,334,25,70,119,39.0,36
+P0448,2025-01-27,Loneliness,Carousel,Visual,Medium,10712,843,87,225,68,21.3,50
+P0449,2025-02-03,Dating,Short Video,Question,Long,12595,1218,107,107,396,79.8,73
+P0450,2025-02-07,Social Anxiety,Short Video,Text,Medium,17869,1638,142,78,86,34.6,19
+P0451,2025-03-14,Friendship,Long Video,Visual,Long,6301,267,53,127,97,27.7,46
+P0452,2025-04-01,Burnout,Short Video,Text,Medium,25946,2801,435,399,1004,35.7,201
+P0453,2025-05-19,Self Confidence,Short Video,Question,Short,12221,592,23,40,160,27.5,28
+P0454,2025-06-14,Dating,Static Image,Question,Long,27732,2033,367,216,537,33.8,105
+P0455,2025-04-13,Loneliness,Long Video,Visual,Long,8589,547,58,75,191,54.4,40
+P0456,2025-03-25,Dating,Carousel,Text,Short,9832,1049,123,227,214,38.5,71
+P0457,2025-03-22,Self Confidence,Long Video,Question,Medium,28248,691,153,358,467,29.1,115
+P0458,2025-03-16,Self Confidence,Carousel,Text,Long,29431,1270,299,696,955,48.3,239
+P0459,2025-04-27,Self Confidence,Static Image,Question,Short,10300,311,22,50,75,34.4,20
+P0460,2025-02-24,Career Stress,Carousel,Text,Medium,681,39,2,11,4,8.1,4
+P0461,2025-06-18,Social Anxiety,Long Video,Visual,Short,28512,1978,71,252,499,34.1,108
+P0462,2025-02-22,Self Confidence,Long Video,Story,Short,18199,790,178,176,141,56.4,49
+P0463,2025-05-07,Loneliness,Carousel,Question,Long,7046,540,84,58,205,49.5,40
+P0464,2025-05-06,Friendship,Long Video,Story,Short,3690,262,16,24,43,32.2,17
+P0465,2025-06-28,Career Stress,Short Video,Visual,Long,15438,1878,245,211,192,47.8,57
+P0466,2025-05-03,Friendship,Static Image,Question,Short,7853,147,42,48,127,24.4,29
+P0467,2025-06-02,Self Confidence,Short Video,Question,Medium,27651,1790,162,296,951,58.7,169
+P0468,2025-02-21,Career Stress,Short Video,Text,Long,11183,1087,240,128,330,49.1,54
+P0469,2025-03-27,Self Confidence,Long Video,Question,Medium,6041,212,86,184,129,44.1,49
+P0470,2025-02-11,Self Confidence,Long Video,Question,Long,17613,825,360,147,191,26.2,43
+P0471,2025-04-15,Career Stress,Static Image,Question,Short,5183,167,17,21,9,45.4,13
+P0472,2025-01-13,Self Confidence,Short Video,Question,Medium,24372,2388,330,335,454,29.4,115
+P0473,2025-02-15,Burnout,Short Video,Story,Long,7106,314,61,85,178,36.2,38
+P0474,2025-05-07,Social Anxiety,Short Video,Text,Long,8388,720,63,66,177,53.9,39
+P0475,2025-02-06,Dating,Static Image,Question,Short,23122,388,126,276,287,54.1,87
+P0476,2025-05-11,Loneliness,Short Video,Visual,Short,29042,1482,341,445,648,50.7,159
+P0477,2025-06-03,Friendship,Static Image,Story,Medium,19070,960,133,139,282,28.8,62
+P0478,2025-04-21,Social Anxiety,Long Video,Story,Medium,9613,681,41,182,193,46.7,58
+P0479,2025-03-30,Dating,Static Image,Text,Medium,7750,328,125,46,242,47.7,44
+P0480,2025-02-19,Social Anxiety,Static Image,Question,Long,16680,943,180,50,117,39.4,24
+P0481,2025-06-19,Social Anxiety,Short Video,Story,Short,15632,1228,163,345,278,60.6,95
+P0482,2025-03-29,Burnout,Static Image,Question,Short,12254,380,107,47,149,42.5,31
+P0483,2025-01-22,Burnout,Short Video,Text,Medium,23625,2747,212,367,750,30.0,165
+P0484,2025-04-26,Loneliness,Long Video,Visual,Long,27075,2864,389,310,127,14.5,84
+P0485,2025-01-05,Career Stress,Long Video,Visual,Long,8998,647,38,131,190,28.2,46
+P0486,2025-01-10,Loneliness,Long Video,Story,Long,28490,1989,209,362,545,40.1,135
+P0487,2025-02-12,Career Stress,Short Video,Visual,Long,27542,2042,220,323,729,67.1,151
+P0488,2025-04-22,Dating,Short Video,Text,Long,21542,1350,498,283,754,41.9,132
+P0489,2025-02-25,Burnout,Long Video,Text,Short,19923,818,80,50,45,47.2,11
+P0490,2025-06-19,Dating,Carousel,Story,Long,14831,686,163,249,170,51.5,73
+P0491,2025-03-22,Self Confidence,Long Video,Question,Long,25197,618,47,109,53,34.8,28
+P0492,2025-05-02,Career Stress,Static Image,Question,Short,7712,323,9,56,108,9.6,31
+P0493,2025-05-05,Self Confidence,Static Image,Visual,Short,20410,1883,193,211,497,40.0,101
+P0494,2025-01-31,Social Anxiety,Short Video,Text,Medium,11434,323,192,41,56,38.2,10
+P0495,2025-06-07,Burnout,Long Video,Story,Short,12439,612,32,108,78,62.7,28
+P0496,2025-03-21,Social Anxiety,Short Video,Text,Medium,24078,681,137,200,663,43.9,122
+P0497,2025-06-12,Career Stress,Long Video,Question,Medium,18994,426,119,199,89,26.5,53
+P0498,2025-04-02,Career Stress,Carousel,Story,Medium,1796,51,24,21,7,36.0,3
+P0499,2025-05-31,Self Confidence,Static Image,Story,Long,18261,751,72,241,267,40.6,78
+P0500,2025-06-06,Social Anxiety,Carousel,Question,Short,26820,2719,827,1058,1208,54.5,338
+P0501,2025-05-21,Self Confidence,Long Video,Question,Long,21730,1208,288,149,493,34.4,82
+P0502,2025-02-25,Friendship,Short Video,Question,Medium,25769,1533,302,719,692,45.9,214
+P0503,2025-01-07,Burnout,Static Image,Visual,Short,8237,309,59,94,61,34.0,27
+P0504,2025-02-20,Dating,Long Video,Story,Short,28749,1063,194,429,317,36.3,121
+P0505,2025-02-15,Burnout,Short Video,Text,Long,10180,688,164,30,71,50.0,15
+P0506,2025-05-18,Career Stress,Long Video,Visual,Medium,17728,765,85,190,446,43.9,88
+P0507,2025-01-23,Friendship,Short Video,Text,Long,10520,691,96,75,41,23.3,29
+P0508,2025-05-16,Dating,Static Image,Text,Long,12736,749,183,260,212,28.5,86
+P0509,2025-01-05,Friendship,Carousel,Question,Short,2779,190,36,54,33,44.5,21
+P0510,2025-01-06,Social Anxiety,Carousel,Text,Long,24784,2457,471,287,821,55.5,161
+P0511,2025-02-08,Dating,Long Video,Question,Long,23610,706,252,69,142,41.0,36
+P0512,2025-03-25,Career Stress,Static Image,Story,Long,673,24,3,4,10,42.1,2
+P0513,2025-01-20,Dating,Static Image,Text,Long,4822,285,30,22,35,45.9,13
+P0514,2025-05-11,Career Stress,Long Video,Question,Short,21170,503,323,100,233,36.2,57
+P0515,2025-05-26,Friendship,Short Video,Visual,Long,28007,3181,552,855,704,65.1,251
+P0516,2025-01-17,Career Stress,Static Image,Text,Long,8353,295,131,43,50,47.9,21
+P0517,2025-06-11,Self Confidence,Carousel,Story,Medium,8480,631,139,161,41,54.5,48
+P0518,2025-02-02,Burnout,Short Video,Question,Medium,5711,339,27,160,54,56.5,43
+P0519,2025-06-14,Social Anxiety,Carousel,Story,Short,23986,1455,87,410,116,20.8,98
+P0520,2025-03-23,Social Anxiety,Static Image,Story,Short,3354,285,7,6,39,11.8,9
+P0521,2025-03-05,Burnout,Long Video,Story,Long,4723,337,32,79,43,28.4,32
+P0522,2025-01-05,Burnout,Carousel,Text,Short,7216,285,79,36,157,31.2,28
+P0523,2025-03-21,Friendship,Short Video,Question,Medium,3483,235,30,19,125,43.8,17
+P0524,2025-02-14,Loneliness,Short Video,Question,Medium,8936,861,81,288,141,61.1,63
+P0525,2025-04-30,Friendship,Long Video,Question,Long,10729,838,76,181,147,35.4,48
+P0526,2025-04-10,Loneliness,Static Image,Text,Medium,1709,113,15,22,19,31.9,4
+P0527,2025-04-24,Career Stress,Static Image,Visual,Short,20031,849,139,331,133,47.1,90
+P0528,2025-02-14,Social Anxiety,Short Video,Story,Long,22794,1338,194,846,266,52.8,188
+P0529,2025-06-21,Friendship,Long Video,Text,Short,4280,337,76,94,106,36.9,32
+P0530,2025-04-13,Self Confidence,Static Image,Text,Long,6631,266,55,55,114,41.7,26
+P0531,2025-04-06,Loneliness,Short Video,Question,Long,27500,2375,365,542,183,43.4,121
+P0532,2025-04-18,Loneliness,Static Image,Visual,Short,14535,869,33,224,131,28.6,60
+P0533,2025-06-08,Dating,Short Video,Text,Short,25151,1044,322,325,720,18.7,147
+P0534,2025-01-11,Self Confidence,Static Image,Question,Long,2898,108,10,24,10,21.9,5
+P0535,2025-06-28,Dating,Short Video,Question,Medium,1919,132,38,52,34,28.5,14
+P0536,2025-03-22,Dating,Carousel,Story,Long,4370,271,37,37,155,45.2,28
+P0537,2025-05-05,Self Confidence,Static Image,Text,Medium,954,26,4,14,7,37.0,9
+P0538,2025-03-07,Loneliness,Long Video,Question,Long,20693,1330,374,131,422,34.2,86
+P0539,2025-02-15,Friendship,Static Image,Text,Long,5612,221,9,15,35,32.9,11
+P0540,2025-06-04,Social Anxiety,Static Image,Visual,Medium,16515,766,69,396,454,25.7,132
+P0541,2025-06-10,Social Anxiety,Long Video,Visual,Long,22878,1316,417,539,115,48.5,114
+P0542,2025-01-19,Burnout,Static Image,Story,Long,19398,1038,236,56,75,36.9,20
+P0543,2025-01-25,Social Anxiety,Static Image,Story,Long,24113,1850,196,628,304,38.8,152
+P0544,2025-06-21,Burnout,Static Image,Story,Short,14922,950,230,149,311,32.4,68
+P0545,2025-03-01,Burnout,Carousel,Question,Medium,2495,223,44,62,10,33.7,15
+P0546,2025-01-26,Social Anxiety,Long Video,Text,Medium,7136,311,21,29,211,5.0,37
+P0547,2025-05-05,Career Stress,Long Video,Question,Medium,10871,884,183,86,197,48.8,44
+P0548,2025-01-16,Loneliness,Static Image,Text,Long,26205,2799,294,684,299,15.9,163
+P0549,2025-04-20,Friendship,Long Video,Story,Long,14159,1035,61,68,353,35.1,59
+P0550,2025-03-16,Self Confidence,Long Video,Question,Medium,26780,2118,313,390,644,41.3,148
+P0551,2025-03-02,Social Anxiety,Carousel,Story,Long,15655,1048,204,213,370,45.2,84
+P0552,2025-06-02,Career Stress,Carousel,Question,Long,9436,454,98,70,269,56.7,47
+P0553,2025-01-14,Friendship,Carousel,Question,Long,9302,605,96,37,238,31.7,44
+P0554,2025-02-18,Career Stress,Short Video,Story,Short,18572,1338,394,574,216,9.4,135
+P0555,2025-03-26,Burnout,Long Video,Story,Short,1199,28,15,15,17,44.6,8
+P0556,2025-05-13,Social Anxiety,Static Image,Text,Medium,20975,985,322,390,136,51.4,90
+P0557,2025-02-08,Dating,Static Image,Visual,Medium,5071,171,35,18,68,42.0,18
+P0558,2025-03-30,Friendship,Short Video,Question,Long,11042,373,40,190,47,60.8,39
+P0559,2025-05-07,Loneliness,Static Image,Story,Medium,1312,45,21,19,6,58.1,6
+P0560,2025-06-08,Friendship,Short Video,Story,Medium,8400,715,72,55,316,77.5,53
+P0561,2025-05-28,Dating,Static Image,Text,Medium,18040,1296,273,150,267,34.3,71
+P0562,2025-05-28,Loneliness,Carousel,Text,Short,15263,2076,69,628,245,39.7,157
+P0563,2025-03-26,Loneliness,Short Video,Visual,Medium,12116,1572,259,310,138,42.5,71
+P0564,2025-03-08,Social Anxiety,Carousel,Question,Long,16172,1174,229,309,104,38.3,70
+P0565,2025-01-14,Loneliness,Short Video,Visual,Medium,20207,669,115,347,293,58.6,114
+P0566,2025-05-24,Dating,Long Video,Text,Medium,18386,448,168,397,466,25.8,131
+P0567,2025-03-14,Career Stress,Long Video,Visual,Short,20144,1089,276,176,381,52.4,84
+P0568,2025-01-20,Burnout,Carousel,Story,Medium,19561,2564,483,443,385,48.6,136
+P0569,2025-03-10,Friendship,Carousel,Story,Medium,13936,692,50,37,183,31.6,39
+P0570,2025-05-07,Friendship,Long Video,Text,Long,29133,1075,64,54,118,27.2,34
+P0571,2025-02-07,Burnout,Carousel,Story,Medium,26851,2166,406,581,187,58.7,135
+P0572,2025-01-23,Career Stress,Short Video,Visual,Medium,8156,607,108,155,72,67.1,42
+P0573,2025-05-09,Career Stress,Long Video,Visual,Long,23487,1691,233,314,159,32.1,79
+P0574,2025-02-10,Loneliness,Carousel,Visual,Long,23231,579,87,319,523,35.7,124
+P0575,2025-01-14,Career Stress,Carousel,Visual,Long,12341,1021,122,90,135,33.8,40
+P0576,2025-05-26,Social Anxiety,Short Video,Visual,Short,3516,352,41,19,139,56.2,25
+P0577,2025-01-10,Loneliness,Static Image,Visual,Long,3324,202,20,35,80,24.3,25
+P0578,2025-03-09,Loneliness,Static Image,Visual,Long,21914,808,164,70,241,44.4,38
+P0579,2025-02-06,Friendship,Static Image,Text,Long,29018,922,217,436,146,34.0,100
+P0580,2025-03-11,Career Stress,Long Video,Visual,Long,14441,782,19,31,123,28.4,17
+P0581,2025-02-19,Social Anxiety,Short Video,Text,Medium,7726,452,29,65,153,41.2,34
+P0582,2025-02-04,Dating,Carousel,Text,Long,19785,1002,93,104,103,37.4,28
+P0583,2025-02-07,Self Confidence,Carousel,Story,Long,10127,1203,246,307,209,32.7,86
+P0584,2025-01-01,Career Stress,Short Video,Question,Short,8409,955,150,134,251,45.0,57
+P0585,2025-04-05,Loneliness,Static Image,Text,Long,10698,957,94,118,156,45.3,32
+P0586,2025-03-19,Career Stress,Static Image,Story,Medium,29796,895,226,259,126,44.1,76
+P0587,2025-04-20,Dating,Static Image,Question,Long,18522,611,92,237,75,33.1,51
+P0588,2025-04-02,Career Stress,Short Video,Story,Long,2024,154,12,13,53,44.2,18
+P0589,2025-03-09,Social Anxiety,Short Video,Story,Medium,1453,127,29,19,18,54.7,13
+P0590,2025-02-08,Career Stress,Short Video,Text,Medium,27468,1237,364,165,578,36.3,113
+P0591,2025-03-31,Career Stress,Carousel,Story,Long,14953,834,160,78,301,43.5,63
+P0592,2025-01-07,Self Confidence,Static Image,Visual,Short,13077,465,44,306,376,47.0,103
+P0593,2025-01-18,Friendship,Short Video,Visual,Medium,13167,1186,235,238,84,62.7,53
+P0594,2025-05-07,Social Anxiety,Long Video,Question,Short,13788,1145,46,294,57,29.8,73
+P0595,2025-05-06,Dating,Static Image,Question,Long,1261,48,3,11,15,39.9,6
+P0596,2025-05-31,Career Stress,Carousel,Text,Short,29913,2072,627,347,970,52.4,191
+P0597,2025-03-02,Burnout,Long Video,Story,Medium,4384,423,67,46,159,50.4,28
+P0598,2025-06-02,Social Anxiety,Static Image,Visual,Long,13689,783,49,236,316,38.4,81
+P0599,2025-03-09,Loneliness,Short Video,Question,Medium,21341,1999,177,334,823,62.9,153
+P0600,2025-03-14,Friendship,Short Video,Question,Medium,8212,429,139,110,126,34.0,39
+P0601,2025-06-24,Career Stress,Static Image,Text,Medium,4952,349,70,95,64,32.2,27
+P0602,2025-05-04,Self Confidence,Long Video,Question,Medium,22319,2229,373,314,273,26.0,93
+P0603,2025-01-22,Career Stress,Static Image,Text,Short,19362,491,234,151,216,47.3,53
+P0604,2025-06-25,Burnout,Static Image,Text,Short,9705,415,50,84,254,27.1,54
+P0605,2025-03-17,Self Confidence,Short Video,Story,Medium,19927,1169,517,269,208,57.7,74
+P0606,2025-01-25,Self Confidence,Short Video,Story,Short,6335,693,137,52,168,34.6,30
+P0607,2025-03-13,Dating,Short Video,Visual,Short,15976,1188,286,112,338,68.8,65
+P0608,2025-04-07,Career Stress,Long Video,Text,Long,15852,588,56,240,234,23.2,72
+P0609,2025-02-26,Self Confidence,Carousel,Story,Short,2864,78,20,30,16,32.6,13
+P0610,2025-03-11,Burnout,Short Video,Question,Medium,19490,1278,441,428,460,53.8,149
+P0611,2025-03-21,Friendship,Long Video,Visual,Short,5017,269,62,94,53,28.4,34
+P0612,2025-03-26,Self Confidence,Carousel,Story,Long,22241,1893,436,233,746,26.4,134
+P0613,2025-04-14,Loneliness,Carousel,Story,Medium,7860,1081,197,139,241,17.6,60
+P0614,2025-03-18,Social Anxiety,Short Video,Story,Long,8175,480,142,128,266,58.7,52
+P0615,2025-01-17,Burnout,Long Video,Text,Short,19942,1226,84,237,355,37.9,96
+P0616,2025-03-09,Career Stress,Short Video,Text,Medium,5915,662,56,120,209,44.1,46
+P0617,2025-04-25,Burnout,Carousel,Visual,Long,17868,1893,108,152,579,39.6,96
+P0618,2025-02-24,Self Confidence,Static Image,Story,Short,10542,625,31,81,141,57.2,34
+P0619,2025-01-07,Loneliness,Short Video,Visual,Short,8584,1205,47,209,129,72.4,54
+P0620,2025-02-14,Self Confidence,Static Image,Text,Long,5972,374,39,136,25,43.7,25
+P0621,2025-04-30,Dating,Carousel,Story,Medium,7588,341,51,122,295,39.6,61
+P0622,2025-01-22,Career Stress,Short Video,Text,Medium,3723,326,79,92,100,30.4,31
+P0623,2025-03-05,Self Confidence,Short Video,Question,Long,19532,1533,346,352,676,35.0,146
+P0624,2025-02-02,Loneliness,Long Video,Question,Long,7572,330,16,192,208,37.5,63
+P0625,2025-06-02,Self Confidence,Carousel,Text,Short,24198,1970,244,336,228,37.4,90
+P0626,2025-05-12,Dating,Short Video,Text,Short,24820,1917,130,106,77,61.9,31
+P0627,2025-02-14,Loneliness,Short Video,Visual,Short,29566,1665,502,245,328,43.1,89
+P0628,2025-06-13,Career Stress,Short Video,Question,Short,6408,553,46,159,187,56.1,55
+P0629,2025-05-15,Loneliness,Short Video,Story,Medium,8255,632,131,97,32,35.0,16
+P0630,2025-01-13,Self Confidence,Carousel,Visual,Short,947,67,5,13,23,42.9,6
+P0631,2025-06-18,Loneliness,Long Video,Text,Short,18193,1945,224,246,685,36.4,120
+P0632,2025-03-27,Self Confidence,Carousel,Story,Long,28599,2268,223,266,476,46.7,106
+P0633,2025-02-27,Social Anxiety,Carousel,Text,Long,26805,1366,313,559,475,17.5,155
+P0634,2025-04-11,Burnout,Carousel,Story,Long,10932,771,41,320,356,46.0,106
+P0635,2025-03-20,Career Stress,Carousel,Visual,Medium,21792,1047,311,638,164,20.9,132
+P0636,2025-01-29,Loneliness,Short Video,Question,Medium,13174,1188,102,243,293,67.3,68
+P0637,2025-02-15,Friendship,Static Image,Question,Medium,13758,450,78,45,131,32.2,25
+P0638,2025-05-26,Self Confidence,Carousel,Visual,Medium,20127,2111,386,111,770,30.5,110
+P0639,2025-05-19,Friendship,Carousel,Text,Short,18157,518,38,74,101,15.8,31
+P0640,2025-02-18,Self Confidence,Carousel,Visual,Short,13385,1701,182,78,496,35.5,79
+P0641,2025-02-18,Dating,Long Video,Visual,Short,17936,1506,154,366,555,50.2,140
+P0642,2025-03-25,Career Stress,Carousel,Visual,Medium,26849,2412,336,456,732,5.0,168
+P0643,2025-03-04,Career Stress,Short Video,Text,Medium,18700,1094,163,201,362,45.3,78
+P0644,2025-04-15,Dating,Carousel,Visual,Long,20032,1614,379,168,475,39.1,89
+P0645,2025-04-24,Self Confidence,Carousel,Text,Long,11697,1413,195,448,271,41.6,115
+P0646,2025-04-01,Career Stress,Carousel,Visual,Short,21947,1311,99,95,577,29.3,86
+P0647,2025-01-22,Career Stress,Carousel,Visual,Long,17443,542,329,339,482,64.3,109
+P0648,2025-01-30,Burnout,Carousel,Text,Medium,27501,1663,444,566,550,20.8,163
+P0649,2025-03-25,Career Stress,Carousel,Question,Long,2853,137,13,63,78,16.8,17
+P0650,2025-02-12,Social Anxiety,Carousel,Visual,Medium,23974,1134,110,203,799,20.2,139
+P0651,2025-01-26,Loneliness,Carousel,Text,Short,15769,977,160,257,266,19.1,90
+P0652,2025-03-01,Loneliness,Short Video,Story,Short,27007,1436,134,761,615,37.6,209
+P0653,2025-01-19,Burnout,Long Video,Text,Long,8297,608,110,86,43,18.2,26
+P0654,2025-04-19,Burnout,Short Video,Question,Short,26002,2375,512,883,567,54.1,234
+P0655,2025-01-17,Self Confidence,Long Video,Story,Long,29626,1961,310,462,612,41.3,162
+P0656,2025-05-23,Loneliness,Carousel,Question,Long,5359,398,50,40,68,40.9,17
+P0657,2025-06-07,Burnout,Static Image,Visual,Medium,21830,1392,243,361,543,27.4,143
+P0658,2025-04-09,Self Confidence,Carousel,Story,Medium,15471,1041,300,389,465,25.8,129
+P0659,2025-02-22,Loneliness,Static Image,Story,Medium,4016,277,37,33,69,13.9,14
+P0660,2025-03-13,Social Anxiety,Carousel,Story,Medium,13390,817,140,79,253,30.8,50
+P0661,2025-01-08,Career Stress,Static Image,Visual,Long,28560,597,338,145,541,48.1,91
+P0662,2025-02-27,Dating,Long Video,Text,Long,29883,1966,88,65,140,34.3,33
+P0663,2025-04-03,Burnout,Carousel,Question,Long,24008,2857,324,858,904,5.0,264
+P0664,2025-03-23,Loneliness,Static Image,Visual,Long,22591,694,49,344,121,51.6,79
+P0665,2025-06-16,Self Confidence,Static Image,Visual,Long,29042,588,53,323,651,5.0,146
+P0666,2025-04-18,Social Anxiety,Carousel,Visual,Medium,8501,627,158,19,88,54.8,29
+P0667,2025-06-26,Social Anxiety,Static Image,Question,Short,3529,306,62,63,30,36.8,11
+P0668,2025-04-02,Career Stress,Long Video,Text,Short,12789,871,54,103,143,35.0,40
+P0669,2025-06-08,Friendship,Long Video,Visual,Long,17728,511,31,117,66,34.6,37
+P0670,2025-05-08,Burnout,Static Image,Text,Medium,944,35,6,12,22,22.6,1
+P0671,2025-02-08,Burnout,Carousel,Visual,Short,28698,3671,679,313,926,35.6,183
+P0672,2025-03-28,Dating,Carousel,Story,Short,11916,1201,216,265,153,19.3,77
+P0673,2025-01-29,Dating,Long Video,Visual,Long,10514,512,24,67,34,37.5,13
+P0674,2025-04-16,Social Anxiety,Carousel,Story,Long,17123,1583,396,601,354,25.0,144
+P0675,2025-03-20,Self Confidence,Long Video,Text,Medium,700,74,6,22,10,55.5,18
+P0676,2025-01-24,Career Stress,Carousel,Text,Medium,28131,1380,392,156,284,55.7,65
+P0677,2025-02-07,Career Stress,Carousel,Question,Short,23081,1528,258,186,449,52.1,85
+P0678,2025-04-15,Self Confidence,Static Image,Visual,Long,25249,1858,397,606,208,29.6,131
+P0679,2025-02-16,Career Stress,Short Video,Question,Medium,24042,2040,527,255,682,43.7,131
+P0680,2025-03-06,Self Confidence,Static Image,Visual,Medium,25180,441,238,315,160,32.5,76
+P0681,2025-05-05,Self Confidence,Carousel,Text,Short,2485,122,21,16,60,30.3,14
+P0682,2025-06-22,Loneliness,Static Image,Text,Long,9545,516,83,112,82,17.0,34
+P0683,2025-06-26,Burnout,Long Video,Question,Long,12368,364,63,215,222,30.1,67
+P0684,2025-05-05,Friendship,Static Image,Story,Short,27362,962,115,155,187,29.9,55
+P0685,2025-05-19,Self Confidence,Static Image,Visual,Long,1293,34,16,8,8,45.8,0
+P0686,2025-04-23,Friendship,Static Image,Story,Medium,16101,906,125,98,249,40.3,56
+P0687,2025-04-21,Burnout,Short Video,Story,Short,6310,697,114,150,283,19.7,67
+P0688,2025-05-09,Career Stress,Short Video,Text,Long,26965,1905,351,336,83,38.7,71
+P0689,2025-01-15,Dating,Carousel,Question,Medium,27430,2412,497,74,282,19.3,50
+P0690,2025-05-14,Self Confidence,Carousel,Question,Medium,14548,648,96,107,597,39.1,97
+P0691,2025-01-06,Social Anxiety,Carousel,Question,Long,6023,319,115,40,154,21.3,27
+P0692,2025-03-24,Burnout,Short Video,Text,Medium,6697,879,103,152,162,37.7,48
+P0693,2025-01-05,Social Anxiety,Short Video,Text,Short,11911,773,179,138,115,86.5,44
+P0694,2025-01-07,Dating,Carousel,Visual,Short,21958,2096,335,246,714,40.2,131
+P0695,2025-05-01,Career Stress,Static Image,Visual,Short,26626,1221,148,409,366,20.0,121
+P0696,2025-06-08,Loneliness,Long Video,Text,Short,19134,635,148,137,221,33.3,54
+P0697,2025-04-14,Social Anxiety,Static Image,Visual,Medium,28611,1539,220,495,184,32.7,116
+P0698,2025-05-29,Friendship,Carousel,Question,Long,11112,292,44,189,261,22.1,74
+P0699,2025-04-21,Friendship,Long Video,Question,Short,24772,755,71,525,317,43.9,139
+P0700,2025-01-22,Burnout,Carousel,Visual,Short,16035,1548,103,71,230,37.1,42
+P0701,2025-01-31,Dating,Short Video,Question,Long,25735,2174,307,1079,1026,54.8,321
+P0702,2025-01-03,Loneliness,Carousel,Visual,Medium,24367,2727,499,299,1033,47.8,176
+P0703,2025-05-06,Loneliness,Static Image,Question,Medium,25149,1450,165,74,103,23.7,31
+P0704,2025-06-28,Self Confidence,Carousel,Text,Short,20891,1289,340,426,413,23.4,129
+P0705,2025-05-10,Social Anxiety,Carousel,Text,Long,3140,154,65,86,97,48.6,29
+P0706,2025-03-08,Self Confidence,Short Video,Story,Medium,11376,871,89,141,219,55.1,48
+P0707,2025-03-05,Loneliness,Static Image,Question,Medium,24306,1058,152,237,63,29.6,60
+P0708,2025-05-21,Dating,Short Video,Visual,Short,28053,1437,591,398,607,44.7,150
+P0709,2025-03-13,Career Stress,Carousel,Text,Medium,13024,1111,320,282,457,27.8,106
+P0710,2025-01-04,Social Anxiety,Carousel,Text,Short,4245,692,109,34,209,24.7,43
+P0711,2025-05-02,Loneliness,Static Image,Question,Medium,1209,77,5,13,18,5.0,2
+P0712,2025-04-19,Self Confidence,Long Video,Visual,Medium,4320,127,58,81,74,64.9,25
+P0713,2025-05-09,Career Stress,Static Image,Visual,Long,2245,83,7,9,13,43.0,6
+P0714,2025-01-16,Social Anxiety,Carousel,Question,Short,23084,822,215,709,491,9.5,190
+P0715,2025-05-02,Dating,Carousel,Story,Medium,11814,1392,170,142,273,29.4,68
+P0716,2025-02-23,Burnout,Short Video,Question,Long,20221,1623,390,207,273,36.5,72
+P0717,2025-01-21,Burnout,Short Video,Text,Short,4049,246,90,15,112,41.8,25
+P0718,2025-03-06,Burnout,Static Image,Question,Short,6837,343,63,10,13,18.9,7
+P0719,2025-06-16,Social Anxiety,Long Video,Story,Medium,16856,573,298,269,247,68.7,80
+P0720,2025-06-09,Friendship,Long Video,Visual,Medium,28418,1477,176,329,625,19.1,137
+P0721,2025-03-10,Loneliness,Carousel,Story,Short,29576,1402,343,1084,1138,17.6,338
+P0722,2025-02-22,Career Stress,Carousel,Story,Long,10539,988,212,128,315,47.9,65
+P0723,2025-03-06,Career Stress,Carousel,Visual,Short,28457,1181,646,574,920,37.5,223
+P0724,2025-06-20,Social Anxiety,Short Video,Question,Medium,23701,1839,93,860,442,40.1,208
+P0725,2025-02-07,Dating,Carousel,Visual,Medium,11857,880,188,88,215,30.2,49
+P0726,2025-01-26,Friendship,Long Video,Story,Long,5512,256,87,83,137,37.2,23
+P0727,2025-02-18,Friendship,Carousel,Text,Medium,19159,1888,100,496,292,46.5,127
+P0728,2025-06-25,Burnout,Carousel,Visual,Long,15822,1932,260,608,102,28.8,116
+P0729,2025-05-01,Self Confidence,Static Image,Text,Medium,11374,331,53,45,61,25.4,15
+P0730,2025-01-29,Social Anxiety,Long Video,Visual,Medium,28810,1932,389,375,531,40.2,127
+P0731,2025-05-16,Career Stress,Carousel,Question,Short,13327,965,105,151,77,42.1,49
+P0732,2025-06-05,Career Stress,Long Video,Text,Short,17236,545,168,118,66,32.6,28
+P0733,2025-01-07,Social Anxiety,Long Video,Question,Long,13425,521,194,142,294,40.7,66
+P0734,2025-05-27,Loneliness,Carousel,Story,Medium,17901,2381,354,452,638,40.0,158
+P0735,2025-06-01,Friendship,Long Video,Text,Short,27133,1517,477,137,108,5.0,44
+P0736,2025-02-20,Burnout,Carousel,Question,Short,20493,748,404,316,871,46.3,168
+P0737,2025-02-06,Social Anxiety,Long Video,Visual,Long,28602,1840,181,770,294,48.8,178
+P0738,2025-03-10,Loneliness,Carousel,Story,Short,8047,1014,225,208,136,45.2,57
+P0739,2025-06-08,Social Anxiety,Long Video,Text,Long,19227,987,387,259,249,49.2,77
+P0740,2025-05-04,Career Stress,Carousel,Visual,Short,22571,1461,531,83,204,39.0,39
+P0741,2025-03-19,Dating,Long Video,Question,Medium,9892,658,170,121,198,29.2,54
+P0742,2025-05-23,Burnout,Carousel,Question,Short,27684,2129,136,668,593,40.5,201
+P0743,2025-05-02,Loneliness,Carousel,Text,Short,8191,938,92,283,131,42.6,67
+P0744,2025-02-21,Dating,Short Video,Visual,Medium,27625,2052,312,618,542,59.9,179
+P0745,2025-06-13,Friendship,Carousel,Visual,Short,7645,757,122,29,66,19.6,16
+P0746,2025-01-07,Loneliness,Short Video,Question,Long,25813,1087,86,374,164,49.9,93
+P0747,2025-02-17,Burnout,Static Image,Story,Short,8564,229,66,16,62,27.7,20
+P0748,2025-06-13,Self Confidence,Static Image,Visual,Medium,14030,290,68,142,156,21.1,45
+P0749,2025-01-29,Dating,Carousel,Text,Long,18897,2037,517,188,589,48.5,107
+P0750,2025-03-15,Burnout,Carousel,Visual,Short,21041,2931,620,784,153,42.8,158
+P0751,2025-05-23,Self Confidence,Static Image,Text,Long,24503,1702,108,133,317,34.7,68
+P0752,2025-01-31,Loneliness,Carousel,Story,Short,23968,1584,191,256,310,21.0,83
+P0753,2025-05-05,Career Stress,Short Video,Question,Short,15653,863,353,240,224,49.7,71
+P0754,2025-05-31,Burnout,Static Image,Visual,Short,18253,856,108,78,502,37.9,77
+P0755,2025-03-30,Self Confidence,Long Video,Question,Medium,5242,368,98,25,26,34.2,13
+P0756,2025-06-11,Social Anxiety,Static Image,Visual,Long,20618,2004,377,280,315,30.7,89
+P0757,2025-03-02,Burnout,Static Image,Story,Long,6458,632,92,158,132,24.2,55
+P0758,2025-01-25,Social Anxiety,Long Video,Visual,Medium,10610,452,194,167,307,36.4,72
+P0759,2025-02-10,Friendship,Short Video,Question,Medium,16592,1914,274,582,539,52.6,180
+P0760,2025-05-08,Dating,Short Video,Question,Long,5755,437,34,53,190,41.8,46
+P0761,2025-05-07,Career Stress,Static Image,Text,Long,22021,1387,250,227,398,32.3,92
+P0762,2025-01-16,Career Stress,Long Video,Visual,Medium,28242,1133,269,669,482,42.6,188
+P0763,2025-01-07,Self Confidence,Short Video,Story,Short,16713,1318,365,597,573,33.8,175
+P0764,2025-06-08,Dating,Static Image,Story,Long,17238,600,160,290,424,32.7,106
+P0765,2025-05-26,Career Stress,Long Video,Visual,Short,29422,1496,141,309,741,45.2,148
+P0766,2025-02-07,Burnout,Short Video,Question,Long,18302,852,319,139,713,42.4,111
+P0767,2025-03-04,Career Stress,Short Video,Visual,Short,10504,385,162,27,239,60.0,34
+P0768,2025-02-02,Burnout,Carousel,Story,Short,22179,2485,454,89,345,14.7,55
+P0769,2025-03-02,Loneliness,Static Image,Text,Medium,8175,686,38,223,177,14.9,63
+P0770,2025-05-08,Career Stress,Static Image,Story,Medium,27916,1422,126,191,360,48.1,77
+P0771,2025-01-30,Self Confidence,Long Video,Story,Short,24108,1223,255,431,122,33.3,88
+P0772,2025-03-02,Dating,Carousel,Text,Short,20584,1678,162,180,675,15.0,116
+P0773,2025-04-13,Loneliness,Static Image,Question,Medium,26626,2260,408,177,243,23.8,64
+P0774,2025-03-10,Dating,Static Image,Text,Short,27602,1698,429,162,331,55.8,69
+P0775,2025-06-10,Loneliness,Short Video,Question,Short,2727,336,57,73,69,46.1,25
+P0776,2025-06-17,Social Anxiety,Static Image,Question,Medium,3853,163,37,64,66,59.5,16
+P0777,2025-05-07,Burnout,Long Video,Story,Short,15814,691,163,118,63,12.6,33
+P0778,2025-03-13,Dating,Static Image,Story,Medium,21647,1001,261,178,441,42.1,94
+P0779,2025-02-06,Dating,Short Video,Visual,Long,25632,1837,530,323,854,58.3,169
+P0780,2025-01-30,Social Anxiety,Carousel,Story,Long,5120,627,52,63,259,18.4,47
+P0781,2025-03-06,Social Anxiety,Long Video,Story,Short,15841,941,56,459,570,23.3,160
+P0782,2025-03-12,Social Anxiety,Short Video,Story,Short,15227,794,66,294,399,65.3,111
+P0783,2025-04-20,Friendship,Static Image,Visual,Medium,22904,834,57,359,484,40.1,121
+P0784,2025-03-04,Dating,Long Video,Question,Long,24692,814,407,432,236,52.0,113
+P0785,2025-03-12,Self Confidence,Long Video,Story,Long,9982,616,80,131,56,42.4,36
+P0786,2025-05-14,Career Stress,Long Video,Question,Short,29456,1911,74,621,495,32.4,172
+P0787,2025-04-25,Social Anxiety,Short Video,Text,Long,21291,1159,278,570,183,55.5,133
+P0788,2025-02-26,Burnout,Carousel,Story,Long,9344,373,43,121,230,21.7,46
+P0789,2025-05-19,Career Stress,Long Video,Visual,Short,16552,889,164,71,226,50.8,48
+P0790,2025-01-15,Dating,Carousel,Visual,Medium,28813,1430,477,775,219,40.5,177
+P0791,2025-05-08,Social Anxiety,Short Video,Question,Medium,20319,2165,278,449,186,52.3,110
+P0792,2025-02-05,Burnout,Long Video,Question,Long,22326,1805,300,109,639,41.1,99
+P0793,2025-03-16,Burnout,Carousel,Text,Medium,11500,1401,61,306,189,18.7,79
+P0794,2025-04-25,Dating,Static Image,Story,Medium,8015,478,102,75,95,57.0,30
+P0795,2025-03-07,Social Anxiety,Long Video,Text,Medium,5570,488,62,65,101,37.4,30
+P0796,2025-04-08,Self Confidence,Carousel,Text,Short,604,58,13,16,13,39.4,0
+P0797,2025-04-25,Friendship,Static Image,Story,Long,24846,987,222,244,297,35.0,82
+P0798,2025-06-19,Social Anxiety,Carousel,Text,Long,19826,1596,119,288,880,27.6,156
+P0799,2025-06-04,Career Stress,Carousel,Question,Medium,23806,1953,255,48,81,33.8,23
+P0800,2025-05-24,Friendship,Long Video,Text,Medium,12270,495,194,124,160,39.8,52
+P0801,2025-04-01,Social Anxiety,Short Video,Text,Medium,20561,1715,382,91,159,39.0,38
+P0802,2025-04-29,Burnout,Short Video,Text,Long,16516,2084,307,421,634,50.0,155
+P0803,2025-04-03,Career Stress,Short Video,Question,Long,15913,971,266,207,66,52.5,62
+P0804,2025-05-26,Career Stress,Long Video,Visual,Short,24314,527,221,212,346,30.5,82
+P0805,2025-01-26,Social Anxiety,Carousel,Story,Short,21408,2009,198,526,454,30.0,154
+P0806,2025-01-04,Loneliness,Long Video,Text,Short,27617,1244,405,618,369,38.8,152
+P0807,2025-06-29,Burnout,Static Image,Story,Short,8997,455,137,87,143,25.3,33
+P0808,2025-03-07,Social Anxiety,Static Image,Text,Medium,7689,477,38,194,231,28.2,69
+P0809,2025-01-13,Self Confidence,Carousel,Visual,Long,6308,759,59,47,297,50.3,47
+P0810,2025-06-25,Social Anxiety,Short Video,Text,Short,29140,2246,541,570,897,58.3,206
+P0811,2025-06-21,Self Confidence,Carousel,Story,Medium,21450,1126,419,619,362,6.3,147
+P0812,2025-03-08,Dating,Long Video,Question,Medium,14067,927,222,344,339,28.2,103
+P0813,2025-02-24,Career Stress,Carousel,Story,Short,15974,512,146,68,229,13.5,41
+P0814,2025-01-26,Friendship,Short Video,Question,Medium,14730,947,204,235,69,65.8,56
+P0815,2025-03-25,Social Anxiety,Carousel,Story,Long,19974,1606,260,436,132,41.0,92
+P0816,2025-05-15,Career Stress,Static Image,Story,Short,1518,33,4,17,19,15.0,14
+P0817,2025-05-28,Self Confidence,Long Video,Question,Medium,20736,1148,269,251,131,32.9,70
+P0818,2025-03-16,Dating,Short Video,Question,Long,8036,768,135,28,267,67.7,47
+P0819,2025-04-25,Dating,Static Image,Text,Short,16343,369,151,28,98,46.7,20
+P0820,2025-04-27,Dating,Static Image,Text,Medium,888,53,10,2,7,59.1,10
+P0821,2025-03-30,Loneliness,Short Video,Question,Long,13056,698,289,376,81,51.6,78
+P0822,2025-01-13,Loneliness,Static Image,Visual,Long,2997,211,11,11,53,39.9,9
+P0823,2025-01-30,Friendship,Static Image,Question,Short,4505,260,54,26,22,32.3,11
+P0824,2025-02-28,Friendship,Short Video,Story,Medium,17318,369,198,179,95,71.6,49
+P0825,2025-02-01,Social Anxiety,Carousel,Text,Short,16710,870,177,214,118,37.5,52
+P0826,2025-05-22,Self Confidence,Carousel,Text,Short,11930,438,42,112,78,31.1,30
+P0827,2025-01-20,Friendship,Carousel,Text,Long,21974,1635,474,699,358,34.9,170
+P0828,2025-03-28,Loneliness,Short Video,Question,Medium,22451,1678,415,380,948,49.3,186
+P0829,2025-03-23,Self Confidence,Static Image,Visual,Long,21871,965,247,410,453,46.4,139
+P0830,2025-01-25,Friendship,Carousel,Visual,Long,10131,384,42,99,74,51.3,25
+P0831,2025-04-11,Dating,Short Video,Question,Long,12257,1168,269,227,78,32.5,49
+P0832,2025-02-02,Self Confidence,Static Image,Visual,Long,2465,150,31,14,37,40.0,1
+P0833,2025-04-10,Dating,Carousel,Question,Short,7317,648,69,199,257,49.7,73
+P0834,2025-03-27,Loneliness,Static Image,Text,Medium,14515,464,117,83,145,35.3,39
+P0835,2025-04-17,Friendship,Short Video,Question,Long,1197,143,27,35,50,68.7,9
+P0836,2025-05-23,Dating,Long Video,Question,Long,16692,1566,153,210,381,5.0,87
+P0837,2025-03-04,Friendship,Short Video,Question,Medium,28728,2294,80,390,143,32.8,90
+P0838,2025-02-01,Self Confidence,Short Video,Text,Long,28172,1612,184,237,843,50.0,144
+P0839,2025-02-23,Friendship,Short Video,Question,Long,24020,1917,167,194,727,41.5,124
+P0840,2025-02-07,Burnout,Long Video,Story,Short,9960,413,129,129,39,43.2,30
+P0841,2025-01-09,Career Stress,Carousel,Text,Medium,19626,1911,52,462,84,30.1,97
+P0842,2025-05-10,Social Anxiety,Static Image,Text,Medium,4810,374,13,76,40,31.1,15
+P0843,2025-06-21,Friendship,Static Image,Visual,Short,23615,1422,113,212,120,28.3,54
+P0844,2025-06-12,Social Anxiety,Carousel,Visual,Short,12871,1009,365,159,297,49.4,61
+P0845,2025-06-12,Dating,Long Video,Text,Short,15271,803,139,126,273,29.3,56
+P0846,2025-01-02,Career Stress,Static Image,Question,Long,8641,309,54,111,167,35.7,36
+P0847,2025-04-30,Loneliness,Long Video,Text,Short,4669,509,113,45,22,20.8,18
+P0848,2025-05-18,Social Anxiety,Short Video,Text,Short,8293,1048,42,278,225,53.6,83
+P0849,2025-06-26,Loneliness,Carousel,Text,Short,29107,1908,495,658,118,8.7,127
+P0850,2025-03-08,Self Confidence,Carousel,Text,Medium,19625,1101,135,438,331,52.0,122
+P0851,2025-02-28,Friendship,Long Video,Visual,Short,9294,151,93,103,111,29.7,40
+P0852,2025-05-15,Friendship,Static Image,Text,Medium,29290,1563,44,192,473,40.3,96
+P0853,2025-03-30,Career Stress,Short Video,Text,Long,28035,2388,760,726,1151,65.2,277
+P0854,2025-01-22,Social Anxiety,Short Video,Story,Long,24546,2672,95,468,817,44.7,184
+P0855,2025-05-29,Burnout,Short Video,Story,Short,19693,1863,394,234,779,52.1,142
+P0856,2025-05-29,Loneliness,Static Image,Visual,Long,1383,24,6,18,11,33.8,12
+P0857,2025-01-01,Dating,Static Image,Story,Short,17039,337,45,63,155,52.2,28
+P0858,2025-06-28,Dating,Short Video,Visual,Medium,13831,517,189,388,407,62.5,128
+P0859,2025-02-18,Self Confidence,Short Video,Story,Short,1481,202,41,32,61,70.2,9
+P0860,2025-03-04,Loneliness,Carousel,Question,Long,4664,232,64,89,116,34.7,40
+P0861,2025-04-18,Self Confidence,Static Image,Visual,Long,10400,405,32,56,30,22.6,18
+P0862,2025-04-30,Loneliness,Long Video,Question,Medium,27788,1018,168,216,583,56.5,112
+P0863,2025-02-26,Loneliness,Carousel,Story,Medium,9768,755,181,252,304,50.2,90
+P0864,2025-03-07,Career Stress,Long Video,Question,Long,850,42,6,16,5,47.0,0
+P0865,2025-02-07,Friendship,Static Image,Question,Short,28820,1233,407,622,257,41.8,149
+P0866,2025-03-17,Social Anxiety,Static Image,Visual,Long,1365,34,17,17,25,29.2,8
+P0867,2025-01-23,Career Stress,Short Video,Story,Long,7219,286,136,75,153,63.2,42
+P0868,2025-06-25,Career Stress,Carousel,Question,Medium,6185,587,65,31,64,30.0,23
+P0869,2025-03-09,Friendship,Short Video,Question,Long,17560,1053,244,100,153,59.5,39
+P0870,2025-06-12,Social Anxiety,Static Image,Text,Short,12351,849,148,296,59,39.3,58
+P0871,2025-06-18,Career Stress,Static Image,Story,Short,22732,1678,267,441,474,10.9,137
+P0872,2025-01-27,Dating,Static Image,Question,Medium,6953,234,38,77,42,21.8,26
+P0873,2025-03-19,Career Stress,Short Video,Visual,Long,25376,1797,204,660,984,48.2,241
+P0874,2025-06-26,Social Anxiety,Short Video,Story,Long,26842,4114,248,1326,641,65.7,314
+P0875,2025-05-18,Social Anxiety,Long Video,Story,Long,29920,2921,317,135,940,39.9,142
+P0876,2025-05-03,Dating,Short Video,Text,Medium,6985,963,74,147,41,47.4,47
+P0877,2025-02-05,Loneliness,Carousel,Text,Long,11252,1308,97,164,365,41.7,83
+P0878,2025-03-12,Loneliness,Short Video,Visual,Long,8473,1057,45,216,308,43.1,75
+P0879,2025-05-01,Career Stress,Static Image,Story,Medium,27269,752,363,598,509,50.3,174
+P0880,2025-06-16,Social Anxiety,Long Video,Text,Short,29495,3747,403,254,677,40.9,136
+P0881,2025-05-12,Loneliness,Long Video,Text,Short,2846,229,37,10,20,31.6,17
+P0882,2025-05-22,Self Confidence,Long Video,Question,Short,9138,336,91,18,127,13.6,19
+P0883,2025-06-20,Career Stress,Long Video,Question,Long,7191,279,75,40,191,36.9,29
+P0884,2025-02-20,Social Anxiety,Long Video,Visual,Long,4724,262,36,53,64,46.2,16
+P0885,2025-04-27,Loneliness,Short Video,Question,Medium,1891,165,31,53,36,52.6,12
+P0886,2025-05-31,Social Anxiety,Carousel,Story,Short,17711,1273,216,216,492,22.7,101
+P0887,2025-05-14,Friendship,Carousel,Question,Long,10737,946,94,334,278,48.0,100
+P0888,2025-04-03,Career Stress,Carousel,Visual,Medium,17173,983,309,485,553,37.4,158
+P0889,2025-03-06,Social Anxiety,Short Video,Question,Short,29076,1794,824,275,553,52.6,115
+P0890,2025-03-28,Loneliness,Carousel,Text,Long,1599,181,33,16,7,34.3,13
+P0891,2025-03-19,Loneliness,Short Video,Visual,Short,22369,2278,583,739,776,53.8,227
+P0892,2025-04-20,Career Stress,Static Image,Story,Long,9442,233,93,118,86,54.7,46
+P0893,2025-03-14,Burnout,Carousel,Story,Long,17050,1530,219,513,94,31.6,102
+P0894,2025-01-25,Loneliness,Short Video,Story,Long,16648,1641,361,315,201,29.9,91
+P0895,2025-03-29,Friendship,Short Video,Question,Long,8742,717,59,182,349,32.4,74
+P0896,2025-04-05,Dating,Static Image,Visual,Medium,20550,634,227,103,328,43.6,61
+P0897,2025-02-06,Social Anxiety,Static Image,Visual,Short,5779,486,88,14,57,33.1,19
+P0898,2025-04-11,Dating,Short Video,Story,Medium,27866,2026,104,72,154,27.7,31
+P0899,2025-06-25,Loneliness,Long Video,Story,Medium,9984,1073,94,305,247,21.4,88
+P0900,2025-06-12,Loneliness,Static Image,Visual,Long,23014,1635,305,294,98,32.9,62
+P0901,2025-05-05,Social Anxiety,Long Video,Story,Medium,6758,549,100,55,154,35.0,28
+P0902,2025-04-17,Self Confidence,Short Video,Visual,Short,5222,283,102,41,193,45.6,29
+P0903,2025-04-06,Dating,Long Video,Visual,Long,27531,767,288,112,524,35.9,83
+P0904,2025-04-26,Dating,Long Video,Text,Medium,521,37,10,6,17,12.5,0
+P0905,2025-04-03,Social Anxiety,Short Video,Story,Long,28641,2434,476,343,874,37.2,171
+P0906,2025-04-24,Burnout,Short Video,Visual,Short,5368,192,12,57,112,44.5,24
+P0907,2025-04-30,Self Confidence,Short Video,Visual,Medium,2191,221,35,25,81,42.4,18
+P0908,2025-05-10,Self Confidence,Short Video,Text,Medium,8242,475,33,137,48,39.0,24
+P0909,2025-03-24,Social Anxiety,Long Video,Visual,Medium,24829,2627,235,461,779,37.2,184
+P0910,2025-03-30,Burnout,Short Video,Text,Medium,28393,1485,304,756,710,48.3,229
+P0911,2025-06-08,Self Confidence,Long Video,Text,Long,5891,442,79,187,98,46.5,45
+P0912,2025-03-20,Dating,Static Image,Text,Short,4984,76,29,48,19,42.8,8
+P0913,2025-05-11,Self Confidence,Static Image,Story,Short,21171,683,242,242,342,16.8,98
+P0914,2025-04-13,Self Confidence,Carousel,Text,Short,29987,2983,310,860,320,32.3,200
+P0915,2025-01-15,Friendship,Long Video,Text,Medium,13145,427,104,242,276,30.0,75
+P0916,2025-03-13,Social Anxiety,Carousel,Question,Long,16447,1523,127,434,103,19.7,101
+P0917,2025-02-14,Burnout,Carousel,Story,Long,26187,2571,493,418,405,60.0,134
+P0918,2025-04-14,Career Stress,Static Image,Visual,Medium,16495,722,54,43,26,55.9,7
+P0919,2025-01-13,Social Anxiety,Short Video,Visual,Short,13713,1168,46,234,213,60.6,68
+P0920,2025-01-21,Dating,Short Video,Text,Short,18496,1399,223,159,757,42.0,126
+P0921,2025-01-16,Loneliness,Static Image,Story,Medium,12424,1058,27,181,139,14.8,56
+P0922,2025-03-28,Self Confidence,Short Video,Story,Long,1350,108,25,12,16,58.2,6
+P0923,2025-02-22,Dating,Short Video,Text,Long,29803,907,345,77,238,13.0,49
+P0924,2025-04-26,Career Stress,Static Image,Visual,Medium,29707,2067,341,609,692,34.1,194
+P0925,2025-03-30,Burnout,Carousel,Text,Long,1095,83,21,21,7,54.3,8
+P0926,2025-03-23,Self Confidence,Short Video,Story,Short,28094,1628,490,708,209,59.3,148
+P0927,2025-03-08,Self Confidence,Carousel,Question,Medium,23441,702,269,386,537,26.8,137
+P0928,2025-04-25,Dating,Static Image,Visual,Medium,2020,62,6,28,11,20.5,13
+P0929,2025-01-11,Social Anxiety,Static Image,Visual,Short,18442,479,32,124,47,53.5,30
+P0930,2025-05-05,Dating,Static Image,Visual,Long,15312,446,118,76,110,35.7,33
+P0931,2025-02-02,Burnout,Carousel,Visual,Short,1286,56,17,23,30,29.3,3
+P0932,2025-03-31,Social Anxiety,Carousel,Story,Long,12889,1007,253,123,381,46.8,79
+P0933,2025-04-13,Social Anxiety,Static Image,Visual,Medium,14395,1415,185,110,128,37.7,32
+P0934,2025-03-10,Friendship,Static Image,Text,Medium,11919,238,75,59,41,49.4,28
+P0935,2025-04-14,Self Confidence,Short Video,Question,Medium,15796,759,217,73,608,33.7,92
+P0936,2025-06-16,Friendship,Short Video,Text,Short,3174,201,32,19,21,31.5,14
+P0937,2025-04-12,Friendship,Static Image,Visual,Short,10926,209,78,63,57,62.0,10
+P0938,2025-04-14,Social Anxiety,Long Video,Visual,Long,5085,141,90,79,139,38.3,31
+P0939,2025-04-02,Self Confidence,Carousel,Story,Short,7151,510,71,112,158,28.3,45
+P0940,2025-04-25,Friendship,Carousel,Text,Short,17675,1018,177,221,448,38.9,87
+P0941,2025-03-25,Burnout,Carousel,Visual,Medium,16255,633,80,558,480,29.7,166
+P0942,2025-03-31,Social Anxiety,Static Image,Story,Long,12406,726,59,75,91,32.5,24
+P0943,2025-06-24,Burnout,Long Video,Visual,Medium,23697,1161,66,537,245,33.9,132
+P0944,2025-03-29,Burnout,Short Video,Text,Long,24929,2259,561,205,607,31.8,125
+P0945,2025-05-01,Career Stress,Static Image,Visual,Short,29306,372,115,236,114,29.1,65
+P0946,2025-04-26,Burnout,Short Video,Question,Medium,20044,1490,323,92,134,52.3,35
+P0947,2025-04-23,Burnout,Carousel,Question,Long,18423,2545,483,315,387,41.2,112
+P0948,2025-03-22,Social Anxiety,Carousel,Text,Medium,28851,1233,275,450,774,48.6,183
+P0949,2025-01-17,Social Anxiety,Static Image,Text,Medium,5135,379,20,39,96,33.5,21
+P0950,2025-04-25,Burnout,Short Video,Story,Short,29739,2175,700,304,550,55.8,115
+P0951,2025-04-29,Dating,Short Video,Visual,Short,27807,2288,345,425,648,30.9,160
+P0952,2025-04-23,Burnout,Long Video,Text,Long,28194,1774,66,399,588,26.9,138
+P0953,2025-03-22,Career Stress,Static Image,Question,Short,13135,923,26,33,282,29.7,37
+P0954,2025-05-13,Social Anxiety,Short Video,Story,Medium,22920,3770,445,946,224,57.1,198
+P0955,2025-02-14,Career Stress,Carousel,Story,Short,7010,344,96,53,143,32.0,22
+P0956,2025-05-09,Social Anxiety,Static Image,Visual,Long,18654,672,69,407,351,28.2,122
+P0957,2025-06-05,Friendship,Static Image,Visual,Short,15160,382,53,200,319,36.0,80
+P0958,2025-06-25,Social Anxiety,Long Video,Text,Short,13798,1522,264,301,189,29.1,84
+P0959,2025-02-22,Friendship,Carousel,Text,Medium,11511,498,170,24,159,32.3,29
+P0960,2025-02-10,Dating,Carousel,Visual,Short,15910,455,63,122,45,42.3,41
+P0961,2025-06-11,Career Stress,Long Video,Story,Long,3643,258,35,22,74,33.8,9
+P0962,2025-01-25,Friendship,Short Video,Question,Short,26625,2717,68,105,456,35.3,69
+P0963,2025-01-01,Burnout,Carousel,Visual,Short,10534,587,122,251,144,44.1,64
+P0964,2025-01-20,Career Stress,Static Image,Question,Medium,528,43,7,11,3,34.5,10
+P0965,2025-06-03,Burnout,Long Video,Visual,Short,6988,251,112,66,170,9.4,34
+P0966,2025-01-16,Social Anxiety,Short Video,Text,Short,22518,1698,210,251,1020,76.5,167
+P0967,2025-04-02,Career Stress,Long Video,Visual,Medium,27668,1242,216,369,368,31.9,112
+P0968,2025-04-03,Self Confidence,Carousel,Visual,Medium,1645,69,12,3,23,34.8,2
+P0969,2025-05-15,Self Confidence,Carousel,Question,Short,20958,497,227,352,385,43.7,120
+P0970,2025-01-14,Self Confidence,Static Image,Story,Long,18426,511,110,206,127,32.8,57
+P0971,2025-04-12,Dating,Static Image,Story,Short,5725,207,27,8,38,16.1,1
+P0972,2025-01-07,Social Anxiety,Long Video,Story,Medium,24343,2612,606,784,394,21.0,191
+P0973,2025-01-19,Burnout,Short Video,Text,Medium,11588,1705,375,75,205,38.4,44
+P0974,2025-02-10,Dating,Carousel,Question,Long,17811,1966,285,248,197,36.1,78
+P0975,2025-02-04,Career Stress,Carousel,Visual,Long,29523,3036,342,911,318,41.2,205
+P0976,2025-02-24,Loneliness,Long Video,Question,Short,5928,593,56,25,155,39.1,23
+P0977,2025-02-02,Burnout,Long Video,Visual,Short,17402,1178,308,308,324,63.3,102
+P0978,2025-04-14,Social Anxiety,Short Video,Text,Medium,18917,2729,596,381,640,28.4,148
+P0979,2025-05-17,Friendship,Long Video,Question,Long,7106,251,13,47,52,19.7,18
+P0980,2025-01-02,Friendship,Carousel,Question,Medium,18336,1340,182,366,178,22.7,90
+P0981,2025-03-09,Burnout,Long Video,Visual,Long,28590,2173,293,409,347,22.1,118
+P0982,2025-03-26,Loneliness,Carousel,Story,Long,7324,632,140,195,247,47.3,66
+P0983,2025-04-09,Dating,Long Video,Question,Medium,2774,161,18,28,62,41.4,16
+P0984,2025-05-20,Dating,Short Video,Text,Long,26779,1528,380,86,786,57.0,114
+P0985,2025-03-17,Friendship,Carousel,Story,Short,9592,735,49,73,246,47.2,50
+P0986,2025-01-10,Self Confidence,Static Image,Question,Medium,6274,400,71,112,34,34.4,19
+P0987,2025-02-27,Dating,Short Video,Visual,Short,23569,2324,217,473,125,46.2,103
+P0988,2025-01-16,Burnout,Carousel,Story,Medium,20279,1281,84,112,256,33.8,60
+P0989,2025-04-05,Career Stress,Carousel,Visual,Medium,23649,1668,53,423,274,67.3,110
+P0990,2025-06-15,Dating,Long Video,Visual,Long,16098,643,116,355,283,47.4,99
+P0991,2025-06-02,Friendship,Long Video,Visual,Short,1885,75,22,27,11,15.4,9
+P0992,2025-04-23,Social Anxiety,Static Image,Story,Medium,23056,1878,62,503,269,23.7,126
+P0993,2025-03-22,Dating,Carousel,Text,Long,8028,491,112,167,108,44.8,52
+P0994,2025-06-25,Dating,Carousel,Story,Long,5792,368,59,38,96,34.4,28
+P0995,2025-05-25,Burnout,Short Video,Question,Long,7970,959,99,251,292,59.1,87
+P0996,2025-01-10,Friendship,Static Image,Visual,Medium,21357,762,168,227,219,40.1,69
+P0997,2025-03-23,Friendship,Short Video,Question,Medium,23590,1101,357,127,99,43.6,45
+P0998,2025-01-04,Burnout,Long Video,Question,Long,5479,465,49,134,115,50.6,42
+P0999,2025-04-04,Self Confidence,Long Video,Visual,Long,10667,428,92,217,291,37.1,80
+P1000,2025-05-20,Career Stress,Long Video,Story,Short,27868,1641,234,227,370,44.5,86
+P1001,2025-06-20,Dating,Short Video,Story,Short,1424,188,18,8,54,36.9,18
+P1002,2025-04-24,Friendship,Static Image,Question,Short,20482,504,212,131,391,50.7,72
+P1003,2025-03-15,Career Stress,Carousel,Text,Medium,24630,2397,278,255,170,26.5,72
+P1004,2025-05-04,Career Stress,Static Image,Visual,Medium,8012,570,27,98,30,29.2,34
+P1005,2025-05-01,Career Stress,Carousel,Story,Short,13922,722,40,293,294,33.9,97
+P1006,2025-06-20,Career Stress,Short Video,Story,Long,23608,1341,179,779,239,66.1,172
+P1007,2025-05-05,Dating,Short Video,Question,Medium,28807,2555,408,1033,840,57.9,283
+P1008,2025-04-20,Social Anxiety,Short Video,Text,Long,18716,953,383,356,433,56.5,124
+P1009,2025-04-03,Burnout,Long Video,Question,Long,9626,898,165,277,229,44.5,73
+P1010,2025-05-11,Dating,Long Video,Visual,Short,15606,1106,60,137,145,28.6,46
+P1011,2025-01-21,Career Stress,Short Video,Text,Medium,4394,561,90,44,124,54.2,23
+P1012,2025-05-24,Social Anxiety,Short Video,Story,Short,20455,1946,450,398,422,47.0,131
+P1013,2025-02-23,Career Stress,Static Image,Text,Medium,25016,1834,301,325,580,55.6,123
+P1014,2025-01-13,Friendship,Long Video,Question,Medium,1511,78,3,13,20,34.8,4
+P1015,2025-02-05,Friendship,Long Video,Text,Short,4696,165,49,110,80,40.5,30
+P1016,2025-02-01,Career Stress,Long Video,Text,Medium,24612,1058,242,469,83,41.3,104
+P1017,2025-04-13,Dating,Static Image,Visual,Long,5499,521,78,93,139,38.6,36
+P1018,2025-02-16,Self Confidence,Short Video,Story,Long,16303,1059,180,406,288,33.1,110
+P1019,2025-06-29,Social Anxiety,Static Image,Story,Long,23299,1215,325,249,154,27.3,65
+P1020,2025-03-25,Social Anxiety,Static Image,Story,Medium,15687,987,294,396,139,25.2,84
+P1021,2025-06-06,Friendship,Short Video,Question,Short,9176,475,133,182,35,34.2,43
+P1022,2025-06-09,Social Anxiety,Static Image,Visual,Medium,23345,1516,201,262,409,36.6,107
+P1023,2025-05-22,Self Confidence,Short Video,Visual,Short,1391,127,22,20,43,44.4,7
+P1024,2025-06-06,Dating,Short Video,Text,Long,12181,475,132,39,205,56.5,33
+P1025,2025-01-03,Dating,Static Image,Visual,Medium,28102,1286,139,370,117,44.8,72
+P1026,2025-06-22,Dating,Static Image,Question,Medium,29322,616,148,141,342,17.2,68
+P1027,2025-06-06,Loneliness,Long Video,Text,Short,22931,750,214,158,84,50.8,45
+P1028,2025-04-25,Self Confidence,Short Video,Text,Long,12888,1125,79,332,321,37.5,103
+P1029,2025-01-25,Loneliness,Short Video,Text,Short,12905,1474,334,169,409,57.4,88
+P1030,2025-02-24,Career Stress,Carousel,Text,Long,25121,1390,144,63,100,20.1,22
+P1031,2025-06-19,Career Stress,Long Video,Visual,Medium,24633,1656,203,135,302,46.6,63
+P1032,2025-06-05,Friendship,Short Video,Story,Long,21593,1307,338,705,431,38.1,177
+P1033,2025-04-07,Dating,Static Image,Story,Short,14183,1103,85,245,45,51.6,55
+P1034,2025-02-14,Career Stress,Carousel,Text,Medium,29139,1610,55,481,655,41.4,178
+P1035,2025-01-25,Self Confidence,Long Video,Question,Long,27985,1935,435,751,111,25.5,150
+P1036,2025-02-02,Career Stress,Static Image,Story,Short,18750,1240,239,150,145,40.3,53
+P1037,2025-04-06,Loneliness,Long Video,Text,Long,4152,344,42,122,110,43.3,31
+P1038,2025-06-22,Burnout,Carousel,Text,Long,19687,1753,170,344,902,41.4,174
+P1039,2025-05-24,Burnout,Long Video,Story,Short,28456,1742,544,214,246,9.4,68
+P1040,2025-06-19,Social Anxiety,Static Image,Question,Medium,17210,851,179,371,459,40.5,121
+P1041,2025-06-11,Dating,Static Image,Text,Long,6986,351,41,46,39,33.5,11
+P1042,2025-02-16,Social Anxiety,Short Video,Text,Long,9474,1172,243,270,143,29.4,63
+P1043,2025-03-19,Career Stress,Short Video,Story,Short,16519,2050,70,590,774,30.9,195
+P1044,2025-06-09,Self Confidence,Long Video,Story,Medium,1602,133,21,14,48,23.5,12
+P1045,2025-06-22,Career Stress,Short Video,Visual,Long,20743,2115,430,484,235,55.0,121
+P1046,2025-03-09,Loneliness,Long Video,Visual,Long,7303,580,67,141,178,32.5,44
+P1047,2025-01-24,Loneliness,Carousel,Story,Medium,28957,2524,227,554,854,36.1,210
+P1048,2025-03-07,Dating,Carousel,Question,Short,2282,181,24,65,30,35.3,16
+P1049,2025-04-20,Social Anxiety,Short Video,Text,Short,17514,922,118,211,580,49.9,108
+P1050,2025-06-06,Burnout,Carousel,Text,Short,4063,411,33,18,80,59.0,16
+P1051,2025-05-01,Self Confidence,Long Video,Question,Long,6207,318,126,132,133,21.9,39
+P1052,2025-03-09,Dating,Static Image,Story,Long,28821,1204,43,269,111,32.2,73
+P1053,2025-05-13,Social Anxiety,Long Video,Question,Long,18572,913,373,311,367,63.8,103
+P1054,2025-04-28,Social Anxiety,Static Image,Story,Medium,8966,288,62,98,169,36.7,38
+P1055,2025-04-11,Self Confidence,Long Video,Visual,Short,28656,1186,137,97,600,19.2,92
+P1056,2025-06-17,Burnout,Short Video,Text,Long,7254,1096,126,77,154,55.6,31
+P1057,2025-05-14,Social Anxiety,Static Image,Visual,Medium,20645,385,51,244,92,36.7,70
+P1058,2025-06-13,Dating,Long Video,Visual,Short,25382,1121,189,192,679,35.0,123
+P1059,2025-06-10,Friendship,Long Video,Question,Long,763,59,12,3,18,41.8,12
+P1060,2025-05-07,Loneliness,Static Image,Story,Medium,25009,1833,161,68,564,56.3,87
+P1061,2025-01-28,Career Stress,Short Video,Story,Medium,15299,738,131,72,320,29.4,55
+P1062,2025-01-30,Social Anxiety,Static Image,Text,Short,14976,705,37,168,75,18.0,48
+P1063,2025-03-07,Loneliness,Long Video,Question,Long,24451,1250,276,176,99,27.3,55
+P1064,2025-05-19,Career Stress,Long Video,Text,Medium,24755,1362,65,264,113,45.2,63
+P1065,2025-01-08,Self Confidence,Short Video,Question,Medium,22538,1924,61,450,493,59.5,150
+P1066,2025-05-23,Self Confidence,Long Video,Question,Short,3878,155,33,56,41,57.1,28
+P1067,2025-01-02,Dating,Long Video,Question,Medium,14143,649,83,206,69,41.3,57
+P1068,2025-06-08,Dating,Carousel,Question,Medium,21408,1162,79,137,483,29.4,84
+P1069,2025-06-05,Dating,Carousel,Text,Long,9933,605,47,160,105,35.4,44
+P1070,2025-04-01,Social Anxiety,Carousel,Text,Medium,14313,1127,91,335,391,28.6,118
+P1071,2025-02-12,Friendship,Carousel,Text,Long,5324,342,94,113,160,20.1,42
+P1072,2025-06-02,Burnout,Static Image,Question,Long,24340,1565,154,554,82,48.3,114
+P1073,2025-03-19,Loneliness,Long Video,Question,Medium,5686,172,33,10,94,17.5,19
+P1074,2025-01-27,Loneliness,Carousel,Question,Long,19889,1678,64,505,694,47.8,179
+P1075,2025-01-09,Career Stress,Long Video,Text,Short,3634,90,21,30,19,48.0,14
+P1076,2025-04-03,Dating,Carousel,Text,Long,24911,1006,308,849,155,30.1,173
+P1077,2025-01-24,Social Anxiety,Short Video,Text,Long,5146,664,40,34,197,58.0,33
+P1078,2025-01-31,Self Confidence,Carousel,Question,Long,14935,1510,343,135,336,34.6,64
+P1079,2025-02-28,Social Anxiety,Long Video,Visual,Short,26995,1600,165,424,205,40.2,103
+P1080,2025-05-08,Dating,Carousel,Text,Short,21095,860,144,243,429,30.0,92
+P1081,2025-06-17,Self Confidence,Long Video,Story,Short,21632,1430,235,245,120,40.2,70
+P1082,2025-04-03,Self Confidence,Carousel,Question,Medium,9868,342,31,203,175,39.8,53
+P1083,2025-06-17,Loneliness,Long Video,Story,Medium,28290,1105,430,165,176,49.0,47
+P1084,2025-01-24,Social Anxiety,Short Video,Question,Long,18247,1326,287,255,324,29.2,85
+P1085,2025-03-19,Self Confidence,Long Video,Story,Short,9976,352,23,70,30,31.7,19
+P1086,2025-06-22,Loneliness,Static Image,Text,Long,19129,472,214,38,138,29.7,24
+P1087,2025-02-26,Social Anxiety,Short Video,Text,Long,13007,946,345,407,316,34.9,109
+P1088,2025-01-07,Career Stress,Long Video,Question,Medium,24330,441,37,85,404,31.4,62
+P1089,2025-06-10,Self Confidence,Carousel,Question,Medium,4155,258,61,143,158,11.4,59
+P1090,2025-01-31,Social Anxiety,Short Video,Story,Short,29272,2425,112,1233,868,42.6,328
+P1091,2025-02-25,Loneliness,Long Video,Text,Long,18581,1117,245,52,656,41.3,89
+P1092,2025-02-17,Loneliness,Long Video,Visual,Short,28946,2457,245,201,507,39.0,103
+P1093,2025-05-24,Friendship,Static Image,Visual,Medium,27005,693,314,457,446,33.4,143
+P1094,2025-03-31,Social Anxiety,Static Image,Text,Short,15821,831,162,232,47,33.5,58
+P1095,2025-06-18,Career Stress,Long Video,Question,Long,17882,617,178,72,376,32.9,56
+P1096,2025-06-22,Career Stress,Static Image,Question,Short,9413,517,126,118,121,37.7,38
+P1097,2025-05-30,Career Stress,Static Image,Text,Long,22132,1012,243,395,186,40.6,95
+P1098,2025-04-30,Career Stress,Short Video,Story,Short,1489,110,27,18,25,16.7,2
+P1099,2025-06-19,Friendship,Static Image,Visual,Long,3823,113,12,49,45,30.9,15
+P1100,2025-01-17,Career Stress,Carousel,Question,Long,23118,1101,205,822,269,49.4,183
+P1101,2025-02-28,Career Stress,Long Video,Visual,Medium,610,22,2,7,10,30.9,9
+P1102,2025-05-22,Dating,Short Video,Question,Short,26917,1802,402,658,350,32.4,154
+P1103,2025-02-06,Dating,Carousel,Question,Medium,20496,995,106,329,419,29.0,107
+P1104,2025-01-14,Burnout,Long Video,Text,Long,15310,955,169,91,277,53.0,49
+P1105,2025-03-13,Friendship,Static Image,Text,Long,16058,735,64,188,143,29.8,55
+P1106,2025-02-24,Friendship,Long Video,Visual,Medium,2009,113,19,28,42,22.6,19
+P1107,2025-06-18,Career Stress,Short Video,Question,Short,14507,548,117,190,617,48.0,103
+P1108,2025-06-23,Career Stress,Carousel,Visual,Long,25989,2956,192,303,708,41.6,139
+P1109,2025-04-25,Self Confidence,Short Video,Visual,Medium,8258,785,134,139,246,24.9,60
+P1110,2025-01-22,Dating,Long Video,Story,Medium,1732,91,5,19,31,7.5,6
+P1111,2025-04-10,Social Anxiety,Static Image,Text,Long,25359,1296,387,438,849,24.6,180
+P1112,2025-01-10,Dating,Static Image,Text,Short,22698,1210,228,106,452,35.2,69
+P1113,2025-03-14,Social Anxiety,Short Video,Story,Long,27295,3893,390,923,935,41.4,290
+P1114,2025-02-22,Career Stress,Carousel,Visual,Long,29756,1169,366,564,157,22.0,126
+P1115,2025-01-30,Self Confidence,Long Video,Question,Medium,28804,1132,287,302,401,39.5,107
+P1116,2025-05-16,Social Anxiety,Long Video,Text,Medium,797,22,4,7,6,33.8,1
+P1117,2025-03-05,Social Anxiety,Long Video,Visual,Long,10692,903,28,148,193,28.7,54
+P1118,2025-05-20,Self Confidence,Short Video,Question,Short,2927,225,37,53,24,37.5,21
+P1119,2025-05-08,Career Stress,Short Video,Text,Long,5413,430,49,104,132,54.0,34
+P1120,2025-06-01,Loneliness,Static Image,Question,Short,23727,1539,471,694,448,41.7,184
+P1121,2025-05-01,Dating,Long Video,Visual,Long,13873,726,229,268,342,27.2,86
+P1122,2025-01-23,Dating,Short Video,Question,Short,1819,119,17,15,49,42.8,15
+P1123,2025-02-08,Self Confidence,Long Video,Visual,Medium,27447,2252,358,421,544,31.6,146
+P1124,2025-02-15,Social Anxiety,Short Video,Story,Short,10133,1144,80,128,124,54.7,33
+P1125,2025-06-05,Loneliness,Carousel,Story,Long,29863,3874,393,768,625,24.8,222
+P1126,2025-05-04,Social Anxiety,Short Video,Visual,Medium,16528,941,129,327,65,39.6,63
+P1127,2025-02-16,Loneliness,Long Video,Story,Medium,17971,1139,209,614,148,40.1,132
+P1128,2025-05-24,Social Anxiety,Carousel,Text,Medium,16560,548,115,121,205,19.2,56
+P1129,2025-02-01,Career Stress,Carousel,Text,Short,8770,608,101,176,118,17.7,50
+P1130,2025-06-27,Burnout,Long Video,Visual,Short,10855,1052,174,337,204,5.0,83
+P1131,2025-04-16,Self Confidence,Long Video,Story,Long,6127,273,75,100,138,27.5,34
+P1132,2025-04-26,Self Confidence,Short Video,Story,Long,11843,1870,161,387,365,42.3,127
+P1133,2025-03-21,Dating,Carousel,Visual,Medium,19128,918,179,209,451,56.7,102
+P1134,2025-05-17,Friendship,Long Video,Story,Medium,17175,812,57,143,84,34.5,33
+P1135,2025-01-15,Dating,Carousel,Visual,Long,21757,1321,164,446,205,42.7,114
+P1136,2025-03-26,Dating,Short Video,Visual,Short,29439,2633,327,234,484,33.8,107
+P1137,2025-03-09,Dating,Carousel,Visual,Medium,6065,653,160,75,250,62.9,47
+P1138,2025-05-28,Social Anxiety,Long Video,Story,Medium,12022,824,107,52,418,23.2,63
+P1139,2025-02-27,Dating,Carousel,Story,Short,23028,2349,76,608,124,34.0,134
+P1140,2025-02-09,Burnout,Long Video,Question,Medium,28038,1327,175,60,507,13.1,77
+P1141,2025-02-22,Career Stress,Static Image,Text,Long,15589,603,131,50,106,45.8,25
+P1142,2025-01-13,Self Confidence,Static Image,Story,Medium,10539,896,30,50,231,18.2,40
+P1143,2025-06-23,Loneliness,Static Image,Question,Medium,15382,313,91,236,183,21.3,71
+P1144,2025-05-13,Loneliness,Carousel,Visual,Short,1833,217,20,34,21,14.3,19
+P1145,2025-04-02,Self Confidence,Long Video,Question,Long,5153,128,50,114,67,50.3,32
+P1146,2025-02-28,Burnout,Carousel,Text,Long,6746,829,143,165,71,16.7,45
+P1147,2025-05-14,Loneliness,Long Video,Visual,Medium,9136,513,73,97,54,53.3,22
+P1148,2025-04-19,Career Stress,Short Video,Story,Medium,12464,1122,220,73,188,51.0,43
+P1149,2025-04-07,Career Stress,Static Image,Question,Short,5429,199,36,82,21,18.6,19
+P1150,2025-06-29,Dating,Static Image,Question,Long,13598,582,165,51,347,38.3,51
+P1151,2025-06-16,Dating,Short Video,Story,Short,26171,1957,487,731,823,48.5,235
+P1152,2025-01-11,Social Anxiety,Long Video,Story,Medium,17618,1339,91,257,71,31.3,61
+P1153,2025-05-24,Loneliness,Static Image,Question,Medium,3565,280,15,96,14,35.5,21
+P1154,2025-03-25,Social Anxiety,Static Image,Text,Short,3850,200,55,64,120,30.8,27
+P1155,2025-04-11,Burnout,Long Video,Text,Medium,13462,826,143,159,440,48.1,85
+P1156,2025-02-01,Career Stress,Static Image,Visual,Short,15014,275,105,43,45,34.1,6
+P1157,2025-01-30,Social Anxiety,Static Image,Visual,Long,8058,552,116,143,148,24.2,48
+P1158,2025-03-01,Career Stress,Static Image,Visual,Short,14779,641,24,146,220,26.8,53
+P1159,2025-03-27,Career Stress,Carousel,Text,Short,29573,2772,395,706,868,41.3,244
+P1160,2025-04-20,Loneliness,Short Video,Text,Long,19525,2453,136,107,799,52.0,118
+P1161,2025-04-06,Dating,Long Video,Story,Short,23077,965,249,511,641,50.7,171
+P1162,2025-01-16,Loneliness,Static Image,Question,Medium,15969,776,24,33,286,48.1,44
+P1163,2025-02-28,Dating,Static Image,Story,Long,12819,541,51,183,57,36.2,41
+P1164,2025-02-01,Social Anxiety,Short Video,Question,Long,15216,655,265,236,549,41.9,113
+P1165,2025-05-02,Self Confidence,Long Video,Visual,Long,28544,1601,449,247,663,37.2,124
+P1166,2025-02-09,Self Confidence,Carousel,Visual,Long,16789,1565,329,578,94,21.4,118
+P1167,2025-03-06,Social Anxiety,Static Image,Text,Long,26416,1568,183,214,585,40.5,117
+P1168,2025-03-28,Loneliness,Long Video,Text,Short,821,47,15,13,15,10.0,16
+P1169,2025-02-21,Career Stress,Short Video,Visual,Long,11193,476,148,68,117,34.3,29
+P1170,2025-01-16,Self Confidence,Static Image,Visual,Short,3499,88,29,53,56,5.0,20
+P1171,2025-03-11,Friendship,Static Image,Text,Long,5009,230,15,59,44,23.8,25
+P1172,2025-02-12,Career Stress,Short Video,Text,Long,769,111,3,17,9,74.3,15
+P1173,2025-02-12,Burnout,Carousel,Story,Long,6793,372,151,59,66,32.2,26
+P1174,2025-05-21,Social Anxiety,Short Video,Question,Long,9394,885,102,231,136,37.6,62
+P1175,2025-01-01,Dating,Carousel,Question,Long,22649,1550,331,629,143,20.8,134
+P1176,2025-04-17,Career Stress,Short Video,Story,Short,21731,2326,377,338,859,26.4,166
+P1177,2025-06-08,Dating,Long Video,Question,Medium,17955,1450,318,456,383,55.9,132
+P1178,2025-02-23,Self Confidence,Short Video,Question,Short,27601,1837,70,241,123,54.0,61
+P1179,2025-05-25,Burnout,Static Image,Text,Short,8174,284,154,162,146,7.8,51
+P1180,2025-04-26,Career Stress,Static Image,Story,Long,10084,285,69,41,151,21.5,33
+P1181,2025-04-19,Career Stress,Carousel,Text,Medium,25173,2328,342,726,300,41.4,166
+P1182,2025-01-23,Friendship,Short Video,Story,Medium,25942,1734,314,187,133,62.9,58
+P1183,2025-03-27,Self Confidence,Static Image,Visual,Long,6874,243,49,64,70,40.9,17
+P1184,2025-05-26,Self Confidence,Long Video,Story,Short,22898,1620,117,289,642,16.9,133
+P1185,2025-03-16,Dating,Static Image,Text,Long,24727,1815,199,235,198,23.8,60
+P1186,2025-04-14,Dating,Short Video,Text,Long,4027,255,36,78,77,48.0,32
+P1187,2025-04-02,Dating,Short Video,Question,Medium,15524,1394,173,104,202,42.1,51
+P1188,2025-01-28,Dating,Long Video,Text,Medium,566,15,7,3,4,51.4,5
+P1189,2025-04-01,Career Stress,Static Image,Text,Medium,28627,1103,287,316,214,24.5,90
+P1190,2025-06-02,Career Stress,Static Image,Text,Long,13670,245,66,115,106,35.3,36
+P1191,2025-04-29,Burnout,Long Video,Text,Long,2933,168,15,21,31,13.0,17
+P1192,2025-03-05,Dating,Carousel,Visual,Medium,23574,2108,491,879,764,55.8,243
+P1193,2025-01-17,Career Stress,Static Image,Text,Short,29390,1033,84,113,359,34.8,68
+P1194,2025-04-01,Social Anxiety,Carousel,Text,Medium,12413,1357,324,407,262,36.6,117
+P1195,2025-04-14,Burnout,Long Video,Text,Medium,19624,1370,311,434,136,25.1,98
+P1196,2025-06-02,Burnout,Static Image,Visual,Short,6417,235,25,113,45,25.1,31
+P1197,2025-05-21,Career Stress,Carousel,Text,Medium,29523,2964,560,605,1113,18.8,247
+P1198,2025-03-02,Dating,Carousel,Visual,Long,21396,2605,270,127,629,36.9,104
+P1199,2025-01-09,Loneliness,Short Video,Text,Medium,17298,1188,167,298,701,48.9,143
+P1200,2025-05-17,Career Stress,Short Video,Visual,Short,19684,1213,111,228,149,43.2,57

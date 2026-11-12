@@ -1,0 +1,1 @@
+The trained model is created by running the model-training section in the Colab notebook.
